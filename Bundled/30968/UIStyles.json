@@ -1,0 +1,7 @@
+{
+	"Styles": {
+		"SettlerFaction": "<div color:#73FF1E>",
+		"ExplorerFaction": "<div color:#40C7FF>",
+		"Highlight": "<div color:#FFEB90>"
+	}
+}

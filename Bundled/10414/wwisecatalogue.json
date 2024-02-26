@@ -1,0 +1,9510 @@
+{
+  "bankList": [
+    "Arrow_impacts.bnk",
+    "Biped.bnk",
+    "Bone_props.bnk",
+    "Chickens.bnk",
+    "Clay_props.bnk",
+    "Devices.bnk",
+    "Dinosaurs.bnk",
+    "Fabric_props.bnk",
+    "Glass_props.bnk",
+    "Global.bnk",
+    "Global_ambience.bnk",
+    "Global_music.bnk",
+    "Init.bnk",
+    "LargeQuadruped.bnk",
+    "Meat_props.bnk",
+    "Metal_props.bnk",
+    "paper_props.bnk",
+    "Plant.bnk",
+    "Player.bnk",
+    "PVP.bnk",
+    "SmallQuadruped.bnk",
+    "Stone_props.bnk",
+    "Tools.bnk",
+    "Torch_props.bnk",
+    "UI.bnk",
+    "vegatation_props.bnk",
+    "Voxel_hit_cactus.bnk",
+    "Voxel_hit_crystal.bnk",
+    "Voxel_hit_grate.bnk",
+    "Voxel_hit_leaves.bnk",
+    "Voxel_hit_metal.bnk",
+    "Voxel_hit_Metal_Ore.bnk",
+    "Voxel_hit_rock.bnk",
+    "Voxel_hit_sand.bnk",
+    "Voxel_hit_snow.bnk",
+    "Voxel_hit_softdirt.bnk",
+    "Voxel_hit_unharvestable.bnk",
+    "voxel_hit_wood.bnk",
+    "VO_Narrator.bnk",
+    "Wood_props.bnk"
+  ],
+  "catalogue": {
+    "Action_type": {
+      "bank": 22,
+      "id": "3596147994"
+    },
+    "Active": {
+      "bank": 22,
+      "id": "58138747"
+    },
+    "AmbienceVolume": {
+      "bank": 12,
+      "id": "1204480359"
+    },
+    "Archer": {
+      "bank": 22,
+      "id": "2300133912"
+    },
+    "Archer_attack_01_VO": {
+      "bank": 1,
+      "id": "115917004"
+    },
+    "Archer_attack_02_VO": {
+      "bank": 1,
+      "id": "5998909"
+    },
+    "Archer_attack_03_VO": {
+      "bank": 1,
+      "id": "119225986"
+    },
+    "Archer_attack_04_VO": {
+      "bank": 1,
+      "id": "105892539"
+    },
+    "Archer_attack_05_VO": {
+      "bank": 1,
+      "id": "51358454"
+    },
+    "Archer_attack_06_VO": {
+      "bank": 1,
+      "id": "50192627"
+    },
+    "Archer_attack_07_VO": {
+      "bank": 1,
+      "id": "434514"
+    },
+    "Archer_death_01_VO": {
+      "bank": 1,
+      "id": "101246150"
+    },
+    "Archer_death_02_VO": {
+      "bank": 1,
+      "id": "582172197"
+    },
+    "Archer_death_03_VO": {
+      "bank": 1,
+      "id": "412885465"
+    },
+    "Archer_pain_01_VO": {
+      "bank": 1,
+      "id": "493576883"
+    },
+    "Archer_pain_02_VO": {
+      "bank": 1,
+      "id": "592450547"
+    },
+    "Archer_pain_03_VO": {
+      "bank": 1,
+      "id": "101126748"
+    },
+    "Archer_pain_04_VO": {
+      "bank": 1,
+      "id": "696734784"
+    },
+    "Archer_pain_05_VO": {
+      "bank": 1,
+      "id": "75279560"
+    },
+    "Archer_pain_06_VO": {
+      "bank": 1,
+      "id": "855821653"
+    },
+    "Arrow": {
+      "bank": 22,
+      "id": "1197258740"
+    },
+    "AudioTest": {
+      "bank": 12,
+      "id": "3528779733"
+    },
+    "Audio_MainFeatureEnd": {
+      "bank": 12,
+      "id": "2920051874"
+    },
+    "Audio_MainFeatureStart": {
+      "bank": 12,
+      "id": "2775147969"
+    },
+    "Audio_SubFeature": {
+      "bank": 12,
+      "id": "3275063968"
+    },
+    "Bandit": {
+      "bank": 22,
+      "id": "56936303"
+    },
+    "BanditArcher": {
+      "bank": 22,
+      "id": "1665273710"
+    },
+    "BanditBoss": {
+      "bank": 22,
+      "id": "3863996700"
+    },
+    "BanditGoblin": {
+      "bank": 22,
+      "id": "4266777778"
+    },
+    "BanditGrunt": {
+      "bank": 22,
+      "id": "1987388627"
+    },
+    "BanditLeader": {
+      "bank": 22,
+      "id": "2497536516"
+    },
+    "BanditMiner": {
+      "bank": 22,
+      "id": "2248124364"
+    },
+    "Basic": {
+      "bank": 22,
+      "id": "3340296461"
+    },
+    "BattleBegin": {
+      "bank": 12,
+      "id": "89200754"
+    },
+    "BattleEnded": {
+      "bank": 12,
+      "id": "761655409"
+    },
+    "BattleThreatLevel": {
+      "bank": 35,
+      "id": "1639437611"
+    },
+    "BattleWon": {
+      "bank": 12,
+      "id": "2648699773"
+    },
+    "Bear": {
+      "bank": 22,
+      "id": "1190179415"
+    },
+    "Beetle": {
+      "bank": 22,
+      "id": "266383236"
+    },
+    "Biome_Music_State": {
+      "bank": 12,
+      "id": "3464542341"
+    },
+    "Block": {
+      "bank": 22,
+      "id": "4001580976"
+    },
+    "BluePlayer": {
+      "bank": 22,
+      "id": "2601978078"
+    },
+    "Bow": {
+      "bank": 39,
+      "id": "546945295"
+    },
+    "Castle_Adventure": {
+      "bank": 12,
+      "id": "3070097224"
+    },
+    "Cave": {
+      "bank": 17,
+      "id": "4122393694"
+    },
+    "Cave_percentage": {
+      "bank": 12,
+      "id": "210276797"
+    },
+    "CharacterCustomise": {
+      "bank": 12,
+      "id": "1783140440"
+    },
+    "Charge": {
+      "bank": 22,
+      "id": "4285247397"
+    },
+    "Chest_Pickups": {
+      "bank": 12,
+      "id": "1782741762"
+    },
+    "Chicken": {
+      "bank": 22,
+      "id": "4251222990"
+    },
+    "Coins": {
+      "bank": 18,
+      "id": "2936699729"
+    },
+    "Combat": {
+      "bank": 12,
+      "id": "2764240573"
+    },
+    "Copper_Butchers_Knife": {
+      "bank": 18,
+      "id": "3470512211"
+    },
+    "Copper_Hatchet": {
+      "bank": 18,
+      "id": "3149832678"
+    },
+    "Copper_Metal_Battleaxe": {
+      "bank": 18,
+      "id": "2181119785"
+    },
+    "Copper_Metal_Crude_Sword": {
+      "bank": 18,
+      "id": "3491184948"
+    },
+    "Copper_Metal_Dagger": {
+      "bank": 18,
+      "id": "486143379"
+    },
+    "Copper_Metal_Mace": {
+      "bank": 18,
+      "id": "3983848351"
+    },
+    "Copper_Metal_Pickaxe": {
+      "bank": 18,
+      "id": "1678742894"
+    },
+    "Copper_Metal_Sword": {
+      "bank": 18,
+      "id": "2671631596"
+    },
+    "Copper_Metal_Warhammer": {
+      "bank": 18,
+      "id": "1973045859"
+    },
+    "Copper_Shears": {
+      "bank": 18,
+      "id": "3624798695"
+    },
+    "Crystal": {
+      "bank": 18,
+      "id": "3444057113"
+    },
+    "Current_Adventure": {
+      "bank": 12,
+      "id": "2708293169"
+    },
+    "Current_Biome": {
+      "bank": 12,
+      "id": "2672718905"
+    },
+    "Dagger": {
+      "bank": 39,
+      "id": "3732162827"
+    },
+    "Day": {
+      "bank": 12,
+      "id": "311764537"
+    },
+    "Default (Custom)": {
+      "bank": 12,
+      "id": "416743415"
+    },
+    "Desert": {
+      "bank": 12,
+      "id": "1850388778"
+    },
+    "DesertCat": {
+      "bank": 22,
+      "id": "3681123878"
+    },
+    "Diegetic": {
+      "bank": 12,
+      "id": "1316532907"
+    },
+    "Dirt": {
+      "bank": 18,
+      "id": "2195636714"
+    },
+    "Distance_From_World_Edge": {
+      "bank": 10,
+      "id": "2921064198"
+    },
+    "Eat_Resource": {
+      "bank": 18,
+      "id": "2279344384"
+    },
+    "Echo_level": {
+      "bank": 18,
+      "id": "2823484633"
+    },
+    "EntityType": {
+      "bank": 22,
+      "id": "882171616"
+    },
+    "Environmental _ambience": {
+      "bank": 12,
+      "id": "1477637952"
+    },
+    "Environmental _spot_FX": {
+      "bank": 12,
+      "id": "3250860993"
+    },
+    "Exterior_reverbs": {
+      "bank": 12,
+      "id": "4225321501"
+    },
+    "FPPlayer": {
+      "bank": 22,
+      "id": "1134008372"
+    },
+    "FTUE_Adventure": {
+      "bank": 12,
+      "id": "2994680132"
+    },
+    "FTUE_portal_opens": {
+      "bank": 12,
+      "id": "3649229020"
+    },
+    "Fall_Height": {
+      "bank": 18,
+      "id": "693545140"
+    },
+    "Falling": {
+      "bank": 12,
+      "id": "399052710"
+    },
+    "Female": {
+      "bank": 18,
+      "id": "2204441813"
+    },
+    "Flag": {
+      "bank": 39,
+      "id": "2931383643"
+    },
+    "Foest_cave": {
+      "bank": 12,
+      "id": "3063650860"
+    },
+    "Foest_vista": {
+      "bank": 12,
+      "id": "1991889826"
+    },
+    "Food": {
+      "bank": 39,
+      "id": "3031504781"
+    },
+    "Forest": {
+      "bank": 17,
+      "id": "491961918"
+    },
+    "Forest_Easy": {
+      "bank": 12,
+      "id": "2728192819"
+    },
+    "Forest_Hard": {
+      "bank": 12,
+      "id": "1504068750"
+    },
+    "Forest_Village_theme_01": {
+      "bank": 11,
+      "id": "1028671160"
+    },
+    "Forest_amb": {
+      "bank": 12,
+      "id": "3936565239"
+    },
+    "Forest_theme_01": {
+      "bank": 11,
+      "id": "386382363"
+    },
+    "Forest_theme_02": {
+      "bank": 11,
+      "id": "865240358"
+    },
+    "Forest_theme_03": {
+      "bank": 11,
+      "id": "789502663"
+    },
+    "FortressGuardian": {
+      "bank": 22,
+      "id": "1730495306"
+    },
+    "Fortress_Adventure": {
+      "bank": 12,
+      "id": "1261590270"
+    },
+    "FpPlayer_death": {
+      "bank": 12,
+      "id": "223353035"
+    },
+    "FpPlayer_fall": {
+      "bank": 18,
+      "id": "4284749396"
+    },
+    "Fpp": {
+      "bank": 12,
+      "id": "932139041"
+    },
+    "Fstep_surface_types": {
+      "bank": 18,
+      "id": "3192806569"
+    },
+    "FtueNPC": {
+      "bank": 22,
+      "id": "4248248354"
+    },
+    "Game_mix_states": {
+      "bank": 12,
+      "id": "2890835093"
+    },
+    "Gender": {
+      "bank": 18,
+      "id": "1776943274"
+    },
+    "Generic": {
+      "bank": 18,
+      "id": "4294388576"
+    },
+    "Gentle_Program_Compressor_Minus_14dB_RMS (Define custom)": {
+      "bank": 12,
+      "id": "204530266"
+    },
+    "GiantClub": {
+      "bank": 39,
+      "id": "4082727368"
+    },
+    "GiantFlame_wolf_attack_idle_breathe_01": {
+      "bank": 13,
+      "id": "1068172071"
+    },
+    "GiantFlame_wolf_attack_idle_breathe_02": {
+      "bank": 13,
+      "id": "466701482"
+    },
+    "GiantFlame_wolf_attack_idle_breathe_03": {
+      "bank": 13,
+      "id": "785603981"
+    },
+    "GiantFlame_wolf_attack_idle_breathe_04": {
+      "bank": 13,
+      "id": "162445669"
+    },
+    "GiantFlame_wolf_attack_idle_breathe_05": {
+      "bank": 13,
+      "id": "1004497970"
+    },
+    "GiantSpittingWolf_spit_01": {
+      "bank": 22,
+      "id": "306835045"
+    },
+    "Goat": {
+      "bank": 22,
+      "id": "567967128"
+    },
+    "Gold_Butchers_Knife": {
+      "bank": 18,
+      "id": "207002280"
+    },
+    "Gold_Hatchet": {
+      "bank": 18,
+      "id": "3783942391"
+    },
+    "Gold_Metal_Battleaxe": {
+      "bank": 18,
+      "id": "834890992"
+    },
+    "Gold_Metal_Crude_Sword": {
+      "bank": 18,
+      "id": "940290445"
+    },
+    "Gold_Metal_Dagger": {
+      "bank": 18,
+      "id": "1265260088"
+    },
+    "Gold_Metal_Mace": {
+      "bank": 18,
+      "id": "2631418852"
+    },
+    "Gold_Metal_Pickaxe": {
+      "bank": 18,
+      "id": "3463822819"
+    },
+    "Gold_Metal_Sword": {
+      "bank": 18,
+      "id": "984850265"
+    },
+    "Gold_Metal_Warhammer": {
+      "bank": 18,
+      "id": "570168190"
+    },
+    "Gold_shears": {
+      "bank": 18,
+      "id": "524483648"
+    },
+    "Guardian": {
+      "bank": 22,
+      "id": "84881332"
+    },
+    "GuardianBoss": {
+      "bank": 22,
+      "id": "3599253031"
+    },
+    "Hall_Large_Bright (Define custom)": {
+      "bank": 12,
+      "id": "405459043"
+    },
+    "Hammer_2_Handed": {
+      "bank": 39,
+      "id": "2978407143"
+    },
+    "Hard": {
+      "bank": 18,
+      "id": "3599861390"
+    },
+    "Hatchet": {
+      "bank": 39,
+      "id": "425530526"
+    },
+    "Have_U_Ever_Been_Outside (Define custom)": {
+      "bank": 12,
+      "id": "347734802"
+    },
+    "Head": {
+      "bank": 18,
+      "id": "3448274439"
+    },
+    "Heavy": {
+      "bank": 22,
+      "id": "2732489590"
+    },
+    "Held_ai_beeltespitter": {
+      "bank": 39,
+      "id": "271273008"
+    },
+    "Held_ai_bipedaldinobite": {
+      "bank": 39,
+      "id": "4212542779"
+    },
+    "Held_ai_bipedaldinokick": {
+      "bank": 39,
+      "id": "4030820187"
+    },
+    "Held_ai_bipedaldinospitter": {
+      "bank": 39,
+      "id": "256815448"
+    },
+    "Held_ai_cactusblaster": {
+      "bank": 39,
+      "id": "3049318916"
+    },
+    "Held_ai_claw": {
+      "bank": 39,
+      "id": "139470085"
+    },
+    "Held_ai_gather": {
+      "bank": 39,
+      "id": "455357045"
+    },
+    "Held_ai_headbutt": {
+      "bank": 39,
+      "id": "807034397"
+    },
+    "Held_ai_nibble": {
+      "bank": 39,
+      "id": "701170610"
+    },
+    "Held_ai_peck": {
+      "bank": 39,
+      "id": "2918624727"
+    },
+    "Held_ai_plantspitter": {
+      "bank": 39,
+      "id": "3517921090"
+    },
+    "Held_ai_pounce": {
+      "bank": 39,
+      "id": "912834654"
+    },
+    "Held_ai_pounce_giant": {
+      "bank": 39,
+      "id": "2650596380"
+    },
+    "Held_ai_ram": {
+      "bank": 39,
+      "id": "2903878160"
+    },
+    "Held_ai_swipe": {
+      "bank": 39,
+      "id": "453510742"
+    },
+    "Held_ai_swipe_giant": {
+      "bank": 39,
+      "id": "850403972"
+    },
+    "Held_ai_wolfspitter": {
+      "bank": 39,
+      "id": "3593500307"
+    },
+    "Hidden_Valley_Adventure": {
+      "bank": 12,
+      "id": "302377412"
+    },
+    "HomeIsland": {
+      "bank": 12,
+      "id": "3160542579"
+    },
+    "HomeIsland_waiting_to_leap": {
+      "bank": 12,
+      "id": "2438963654"
+    },
+    "Hut": {
+      "bank": 17,
+      "id": "646625300"
+    },
+    "Idle": {
+      "bank": 22,
+      "id": "1874288895"
+    },
+    "Interior_reverbs": {
+      "bank": 12,
+      "id": "88898207"
+    },
+    "Iron_Butchers_Knife": {
+      "bank": 18,
+      "id": "2664063348"
+    },
+    "Iron_Hatchet": {
+      "bank": 18,
+      "id": "3004379675"
+    },
+    "Iron_Metal_Battleaxe": {
+      "bank": 18,
+      "id": "2971239148"
+    },
+    "Iron_Metal_Crude_Sword": {
+      "bank": 18,
+      "id": "662778537"
+    },
+    "Iron_Metal_Dagger": {
+      "bank": 18,
+      "id": "1032636772"
+    },
+    "Iron_Metal_Mace": {
+      "bank": 18,
+      "id": "349943664"
+    },
+    "Iron_Metal_Pickaxe": {
+      "bank": 18,
+      "id": "4196001775"
+    },
+    "Iron_Metal_Sword": {
+      "bank": 18,
+      "id": "3982219365"
+    },
+    "Iron_Metal_Warhammer": {
+      "bank": 18,
+      "id": "4174444738"
+    },
+    "Iron_Shears": {
+      "bank": 18,
+      "id": "3100437356"
+    },
+    "Jungle": {
+      "bank": 12,
+      "id": "219304270"
+    },
+    "Kill_Bear": {
+      "bank": 13,
+      "id": "141950858"
+    },
+    "Kill_Brazier_light_loop": {
+      "bank": 23,
+      "id": "1882784727"
+    },
+    "Kill_FortressGuardian": {
+      "bank": 1,
+      "id": "1052389579"
+    },
+    "Kill_Giant_wolf": {
+      "bank": 13,
+      "id": "862139478"
+    },
+    "Kill_Knight_npc": {
+      "bank": 1,
+      "id": "4100505995"
+    },
+    "Kill_LizardMan": {
+      "bank": 1,
+      "id": "581992184"
+    },
+    "Kill_Player": {
+      "bank": 1,
+      "id": "4097899719"
+    },
+    "Kill_QuadpedDino": {
+      "bank": 6,
+      "id": "786260952"
+    },
+    "Kill_Tiger": {
+      "bank": 13,
+      "id": "3981184613"
+    },
+    "Kill_archer_npc": {
+      "bank": 1,
+      "id": "2097813469"
+    },
+    "Kill_arrow_projectile_loop": {
+      "bank": 18,
+      "id": "3469225280"
+    },
+    "Kill_biped": {
+      "bank": 1,
+      "id": "3730470722"
+    },
+    "Kill_bird": {
+      "bank": 20,
+      "id": "596918249"
+    },
+    "Kill_blue_player": {
+      "bank": 18,
+      "id": "1375869724"
+    },
+    "Kill_bug": {
+      "bank": 20,
+      "id": "3129983614"
+    },
+    "Kill_chest_loop": {
+      "bank": 5,
+      "id": "3980332972"
+    },
+    "Kill_chest_majorloot_loop": {
+      "bank": 5,
+      "id": "763042924"
+    },
+    "Kill_device": {
+      "bank": 5,
+      "id": "2107407902"
+    },
+    "Kill_fire_pit_loop": {
+      "bank": 23,
+      "id": "3199381579"
+    },
+    "Kill_forge_loop": {
+      "bank": 5,
+      "id": "422753410"
+    },
+    "Kill_fpPlayer": {
+      "bank": 18,
+      "id": "746938533"
+    },
+    "Kill_fpPlayer_torch_loop": {
+      "bank": 23,
+      "id": "3385385543"
+    },
+    "Kill_held_torch_loop": {
+      "bank": 23,
+      "id": "1984407847"
+    },
+    "Kill_lantern_loop": {
+      "bank": 23,
+      "id": "148467065"
+    },
+    "Kill_large_spitting_plant": {
+      "bank": 17,
+      "id": "1147378348"
+    },
+    "Kill_plant": {
+      "bank": 17,
+      "id": "2831492919"
+    },
+    "Kill_portal": {
+      "bank": 9,
+      "id": "1950386354"
+    },
+    "Kill_projectile_loop": {
+      "bank": 17,
+      "id": "1223835490"
+    },
+    "Kill_prop": {
+      "bank": 9,
+      "id": "2142127403"
+    },
+    "Kill_red_player": {
+      "bank": 18,
+      "id": "1306502927"
+    },
+    "Kill_sheep": {
+      "bank": 20,
+      "id": "345854117"
+    },
+    "Kill_wolf": {
+      "bank": 13,
+      "id": "2061320784"
+    },
+    "Kill_workbench": {
+      "bank": 5,
+      "id": "1037695163"
+    },
+    "Knight": {
+      "bank": 22,
+      "id": "2837605046"
+    },
+    "KnightArcher": {
+      "bank": 22,
+      "id": "487255519"
+    },
+    "Knight_death_01_VO": {
+      "bank": 1,
+      "id": "262430568"
+    },
+    "Knight_death_02_VO": {
+      "bank": 1,
+      "id": "264492605"
+    },
+    "Knight_death_03_VO": {
+      "bank": 1,
+      "id": "107608376"
+    },
+    "Knight_fstep_run_armour_add_01": {
+      "bank": 1,
+      "id": "18498582"
+    },
+    "Knight_fstep_run_armour_add_02": {
+      "bank": 1,
+      "id": "1041175495"
+    },
+    "Knight_fstep_run_armour_add_03": {
+      "bank": 1,
+      "id": "546374940"
+    },
+    "Knight_fstep_run_armour_add_04": {
+      "bank": 1,
+      "id": "488479134"
+    },
+    "Knight_fstep_run_armour_add_05": {
+      "bank": 1,
+      "id": "654245581"
+    },
+    "Knight_fstep_run_armour_add_06": {
+      "bank": 1,
+      "id": "50370673"
+    },
+    "Knight_fstep_walk_armour_add_01": {
+      "bank": 18,
+      "id": "877865440"
+    },
+    "Knight_fstep_walk_armour_add_02": {
+      "bank": 18,
+      "id": "182285056"
+    },
+    "Knight_fstep_walk_armour_add_03": {
+      "bank": 18,
+      "id": "297947773"
+    },
+    "Knight_fstep_walk_armour_add_04": {
+      "bank": 18,
+      "id": "403053589"
+    },
+    "Knight_fstep_walk_armour_add_05": {
+      "bank": 18,
+      "id": "38946245"
+    },
+    "Knight_fstep_walk_armour_add_06": {
+      "bank": 18,
+      "id": "829332596"
+    },
+    "Knight_pain_01_VO": {
+      "bank": 1,
+      "id": "448371761"
+    },
+    "Knight_pain_02_VO": {
+      "bank": 1,
+      "id": "465961918"
+    },
+    "Knight_pain_03_VO": {
+      "bank": 1,
+      "id": "1029095374"
+    },
+    "Knight_pain_04_VO": {
+      "bank": 1,
+      "id": "657706222"
+    },
+    "Knight_pain_05_VO": {
+      "bank": 1,
+      "id": "226252729"
+    },
+    "Knight_pain_06_VO": {
+      "bank": 1,
+      "id": "197513905"
+    },
+    "Knowledge_book_close": {
+      "bank": 24,
+      "id": "250011839"
+    },
+    "Knowledge_book_generic_menu": {
+      "bank": 24,
+      "id": "101465008"
+    },
+    "Knowledge_book_hover_deselect": {
+      "bank": 24,
+      "id": "887713135"
+    },
+    "Knowledge_book_hover_select": {
+      "bank": 24,
+      "id": "445925968"
+    },
+    "Knowledge_book_open": {
+      "bank": 24,
+      "id": "616705679"
+    },
+    "Knowledge_book_select_item": {
+      "bank": 24,
+      "id": "581750200"
+    },
+    "Knowlegde_book": {
+      "bank": 12,
+      "id": "716312235"
+    },
+    "Lamb_Meat": {
+      "bank": 18,
+      "id": "3413493945"
+    },
+    "LargeBipedalDinosaur": {
+      "bank": 22,
+      "id": "2226468886"
+    },
+    "LargeQuadrupedDinosaur": {
+      "bank": 22,
+      "id": "1809465870"
+    },
+    "Leather_Shield": {
+      "bank": 18,
+      "id": "1442870160"
+    },
+    "Leaves": {
+      "bank": 18,
+      "id": "582824249"
+    },
+    "Legs": {
+      "bank": 18,
+      "id": "20886954"
+    },
+    "Level_amb": {
+      "bank": 17,
+      "id": "2905011224"
+    },
+    "Level_unload": {
+      "bank": 9,
+      "id": "2934166497"
+    },
+    "Lion": {
+      "bank": 22,
+      "id": "153136435"
+    },
+    "LizardTown_Adventure": {
+      "bank": 12,
+      "id": "1763151108"
+    },
+    "Lizard_Biped": {
+      "bank": 22,
+      "id": "2446786926"
+    },
+    "Mace": {
+      "bank": 39,
+      "id": "3061243143"
+    },
+    "Male": {
+      "bank": 18,
+      "id": "3111576190"
+    },
+    "Master Audio Bus": {
+      "bank": 12,
+      "id": "3803692087"
+    },
+    "Master Secondary Bus": {
+      "bank": 12,
+      "id": "805203703"
+    },
+    "MasterVolume": {
+      "bank": 12,
+      "id": "2918011349"
+    },
+    "Med": {
+      "bank": 18,
+      "id": "981339021"
+    },
+    "MetalArmourHead": {
+      "bank": 18,
+      "id": "172864388"
+    },
+    "MidwinterHat": {
+      "bank": 18,
+      "id": "3510616461"
+    },
+    "MineCritter": {
+      "bank": 22,
+      "id": "1996135705"
+    },
+    "Mine_Adventure": {
+      "bank": 12,
+      "id": "796502333"
+    },
+    "Mining_Pick": {
+      "bank": 18,
+      "id": "12472059"
+    },
+    "Miss": {
+      "bank": 22,
+      "id": "3062523241"
+    },
+    "Monkey": {
+      "bank": 22,
+      "id": "3948471538"
+    },
+    "Mountain": {
+      "bank": 17,
+      "id": "513139656"
+    },
+    "Mountain_Pass": {
+      "bank": 12,
+      "id": "3591122376"
+    },
+    "Mountain_Pass_Easy": {
+      "bank": 12,
+      "id": "2865010073"
+    },
+    "Mountain_Pass_Hard": {
+      "bank": 12,
+      "id": "840272500"
+    },
+    "Mushroom": {
+      "bank": 18,
+      "id": "1941802987"
+    },
+    "Music": {
+      "bank": 12,
+      "id": "3991942870"
+    },
+    "MusicVolume": {
+      "bank": 12,
+      "id": "2346531308"
+    },
+    "NPC": {
+      "bank": 12,
+      "id": "662417162"
+    },
+    "NPC_VO": {
+      "bank": 12,
+      "id": "4294123248"
+    },
+    "NPCfriend": {
+      "bank": 12,
+      "id": "1655334798"
+    },
+    "Night": {
+      "bank": 12,
+      "id": "1011622525"
+    },
+    "NoBattle": {
+      "bank": 12,
+      "id": "3826921338"
+    },
+    "None": {
+      "bank": 18,
+      "id": "748895195"
+    },
+    "OLD_Reverb_level": {
+      "bank": 24,
+      "id": "278720508"
+    },
+    "OLD_Room_reverb_level": {
+      "bank": 39,
+      "id": "2548456698"
+    },
+    "One_Tap_Quarter_Second (Define custom)": {
+      "bank": 12,
+      "id": "856944700"
+    },
+    "PVP_CTF_Adventure": {
+      "bank": 12,
+      "id": "549159852"
+    },
+    "PVP_TDM_Adventure": {
+      "bank": 12,
+      "id": "3596498552"
+    },
+    "Panther": {
+      "bank": 22,
+      "id": "2506225255"
+    },
+    "Parry": {
+      "bank": 22,
+      "id": "3076648345"
+    },
+    "Pick": {
+      "bank": 39,
+      "id": "2162635622"
+    },
+    "Pickups": {
+      "bank": 18,
+      "id": "488853820"
+    },
+    "Plantspit": {
+      "bank": 18,
+      "id": "1667547958"
+    },
+    "Play_Barrel_destroyed": {
+      "bank": 39,
+      "id": "2036906862"
+    },
+    "Play_Barrel_hit": {
+      "bank": 39,
+      "id": "1394065260"
+    },
+    "Play_BipedDino_Breathe1": {
+      "bank": 6,
+      "id": "3359922975"
+    },
+    "Play_BipedDino_Breathe2": {
+      "bank": 6,
+      "id": "3359922972"
+    },
+    "Play_BipedDino_Breathe3": {
+      "bank": 6,
+      "id": "3359922973"
+    },
+    "Play_BipedDino_Breathe4": {
+      "bank": 6,
+      "id": "3359922970"
+    },
+    "Play_BipedDino_bite_active": {
+      "bank": 6,
+      "id": "75779574"
+    },
+    "Play_BipedDino_bite_charge": {
+      "bank": 6,
+      "id": "3119215756"
+    },
+    "Play_BipedDino_bite_recoil": {
+      "bank": 6,
+      "id": "654790394"
+    },
+    "Play_BipedDino_body_impact": {
+      "bank": 6,
+      "id": "2506836132"
+    },
+    "Play_BipedDino_combat_breathe": {
+      "bank": 6,
+      "id": "1108509825"
+    },
+    "Play_BipedDino_combat_idle": {
+      "bank": 6,
+      "id": "4208867708"
+    },
+    "Play_BipedDino_death1": {
+      "bank": 6,
+      "id": "3576397252"
+    },
+    "Play_BipedDino_death2": {
+      "bank": 6,
+      "id": "3576397255"
+    },
+    "Play_BipedDino_fstep_jump": {
+      "bank": 6,
+      "id": "1322528904"
+    },
+    "Play_BipedDino_fstep_land": {
+      "bank": 6,
+      "id": "3823814211"
+    },
+    "Play_BipedDino_fstep_run": {
+      "bank": 6,
+      "id": "1456879347"
+    },
+    "Play_BipedDino_fstep_walk": {
+      "bank": 6,
+      "id": "1010482447"
+    },
+    "Play_BipedDino_hit": {
+      "bank": 6,
+      "id": "4255574358"
+    },
+    "Play_BipedDino_kick_active": {
+      "bank": 6,
+      "id": "2331766022"
+    },
+    "Play_BipedDino_kick_charge": {
+      "bank": 6,
+      "id": "2981195068"
+    },
+    "Play_BipedDino_kick_recoil": {
+      "bank": 6,
+      "id": "2543831786"
+    },
+    "Play_BipedDino_sleep_in": {
+      "bank": 6,
+      "id": "2572586674"
+    },
+    "Play_BipedDino_sleep_loop": {
+      "bank": 6,
+      "id": "1795108577"
+    },
+    "Play_BipedDino_sleep_out": {
+      "bank": 6,
+      "id": "4064141"
+    },
+    "Play_BipedDino_sleep_out_fast": {
+      "bank": 6,
+      "id": "1036189890"
+    },
+    "Play_BipedDino_spit_active": {
+      "bank": 6,
+      "id": "1108829186"
+    },
+    "Play_BipedDino_spit_charge": {
+      "bank": 6,
+      "id": "1357404880"
+    },
+    "Play_BipedDino_spit_recoil": {
+      "bank": 6,
+      "id": "612350950"
+    },
+    "Play_Biped_Fall": {
+      "bank": 1,
+      "id": "1900854684"
+    },
+    "Play_Biped_body_impact": {
+      "bank": 1,
+      "id": "570907952"
+    },
+    "Play_Biped_breathe": {
+      "bank": 1,
+      "id": "3729040230"
+    },
+    "Play_Biped_hit": {
+      "bank": 1,
+      "id": "1848591298"
+    },
+    "Play_Biped_random_idle_VO": {
+      "bank": 1,
+      "id": "2767546211"
+    },
+    "Play_Biped_use_active_VO": {
+      "bank": 1,
+      "id": "3353598077"
+    },
+    "Play_Brazier_hit": {
+      "bank": 23,
+      "id": "2825126711"
+    },
+    "Play_Crystal_Destroyed": {
+      "bank": 8,
+      "id": "982829636"
+    },
+    "Play_Crystal_hit": {
+      "bank": 8,
+      "id": "3392987694"
+    },
+    "Play_Fence_Destroyed": {
+      "bank": 39,
+      "id": "3429737305"
+    },
+    "Play_Fence_hit": {
+      "bank": 39,
+      "id": "832306119"
+    },
+    "Play_GiantFireWolf_loop": {
+      "bank": 13,
+      "id": "4109517142"
+    },
+    "Play_QuadDino_body_Impact": {
+      "bank": 6,
+      "id": "2127678599"
+    },
+    "Play_QuadpedDino_attk_active": {
+      "bank": 6,
+      "id": "949151906"
+    },
+    "Play_QuadpedDino_attk_charge": {
+      "bank": 6,
+      "id": "1197727600"
+    },
+    "Play_QuadpedDino_attk_recover": {
+      "bank": 6,
+      "id": "1363509440"
+    },
+    "Play_QuadpedDino_breathe": {
+      "bank": 6,
+      "id": "2909963676"
+    },
+    "Play_QuadpedDino_death01": {
+      "bank": 6,
+      "id": "882333704"
+    },
+    "Play_QuadpedDino_fstep_run": {
+      "bank": 6,
+      "id": "2033785713"
+    },
+    "Play_QuadpedDino_fstep_walk": {
+      "bank": 6,
+      "id": "1193197785"
+    },
+    "Play_QuadpedDino_hit": {
+      "bank": 6,
+      "id": "3699473392"
+    },
+    "Play_QuadpedDino_sleep_in": {
+      "bank": 6,
+      "id": "3206864340"
+    },
+    "Play_QuadpedDino_sleep_loop": {
+      "bank": 6,
+      "id": "3700933871"
+    },
+    "Play_QuadpedDino_sleep_out": {
+      "bank": 6,
+      "id": "2985958515"
+    },
+    "Play_TpPlayer_holster": {
+      "bank": 18,
+      "id": "3287226605"
+    },
+    "Play_WinterFestival_chest_loop": {
+      "bank": 5,
+      "id": "680373524"
+    },
+    "Play_WinterFestival_chest_open": {
+      "bank": 5,
+      "id": "2985269346"
+    },
+    "Play_WorldAmbience": {
+      "bank": 10,
+      "id": "720174106"
+    },
+    "Play_WorldMusic": {
+      "bank": 11,
+      "id": "2229565379"
+    },
+    "Play_activate_forge": {
+      "bank": 24,
+      "id": "975603525"
+    },
+    "Play_activate_portal": {
+      "bank": 24,
+      "id": "840877162"
+    },
+    "Play_airship_active": {
+      "bank": 5,
+      "id": "2402276789"
+    },
+    "Play_airship_broken": {
+      "bank": 5,
+      "id": "331249184"
+    },
+    "Play_airship_deactivate": {
+      "bank": 5,
+      "id": "1232665857"
+    },
+    "Play_anvil_active": {
+      "bank": 5,
+      "id": "3649361605"
+    },
+    "Play_anvil_ui_close": {
+      "bank": 5,
+      "id": "1941811136"
+    },
+    "Play_anvil_ui_open": {
+      "bank": 5,
+      "id": "2531518964"
+    },
+    "Play_arrow_projectile_loop": {
+      "bank": 18,
+      "id": "3035001190"
+    },
+    "Play_bear_Attk_clawActive": {
+      "bank": 13,
+      "id": "2084127993"
+    },
+    "Play_bear_Attk_clawRecvr": {
+      "bank": 13,
+      "id": "146243827"
+    },
+    "Play_bear_attk_clawCharge": {
+      "bank": 13,
+      "id": "662880183"
+    },
+    "Play_bear_attk_clawRecoil": {
+      "bank": 13,
+      "id": "2896271153"
+    },
+    "Play_biped_death_01": {
+      "bank": 1,
+      "id": "2078668455"
+    },
+    "Play_biped_death_02": {
+      "bank": 1,
+      "id": "2078668452"
+    },
+    "Play_biped_death_03": {
+      "bank": 1,
+      "id": "2078668453"
+    },
+    "Play_biped_death_04": {
+      "bank": 1,
+      "id": "2078668450"
+    },
+    "Play_biped_eat": {
+      "bank": 1,
+      "id": "2049084115"
+    },
+    "Play_biped_fstep_run": {
+      "bank": 1,
+      "id": "2253796567"
+    },
+    "Play_biped_fstep_walk": {
+      "bank": 1,
+      "id": "1845588091"
+    },
+    "Play_biped_jump": {
+      "bank": 1,
+      "id": "649599891"
+    },
+    "Play_biped_land": {
+      "bank": 1,
+      "id": "11867184"
+    },
+    "Play_biped_sleep_loop": {
+      "bank": 1,
+      "id": "2623036101"
+    },
+    "Play_biped_use_charge_VO": {
+      "bank": 1,
+      "id": "3918577723"
+    },
+    "Play_blacksmith_chest_loop": {
+      "bank": 5,
+      "id": "90390471"
+    },
+    "Play_block": {
+      "bank": 18,
+      "id": "2755574209"
+    },
+    "Play_bone_destroyed": {
+      "bank": 2,
+      "id": "3138679980"
+    },
+    "Play_bone_hit": {
+      "bank": 2,
+      "id": "3250690294"
+    },
+    "Play_bone_prop_destroyed": {
+      "bank": 2,
+      "id": "1272775164"
+    },
+    "Play_bone_prop_hit": {
+      "bank": 2,
+      "id": "3577785510"
+    },
+    "Play_boundary_edge_wind_loop": {
+      "bank": 10,
+      "id": "2879963786"
+    },
+    "Play_brazier_light_destroyed": {
+      "bank": 23,
+      "id": "794857552"
+    },
+    "Play_brazier_light_loop": {
+      "bank": 23,
+      "id": "3352628933"
+    },
+    "Play_cacti_active_akk": {
+      "bank": 17,
+      "id": "637451279"
+    },
+    "Play_cacti_breathe_angry": {
+      "bank": 17,
+      "id": "2961075808"
+    },
+    "Play_cacti_breathe_unarmed": {
+      "bank": 17,
+      "id": "2655192585"
+    },
+    "Play_cacti_charge_attk": {
+      "bank": 17,
+      "id": "1746761862"
+    },
+    "Play_cacti_death": {
+      "bank": 17,
+      "id": "2584332347"
+    },
+    "Play_cacti_hit": {
+      "bank": 17,
+      "id": "2356819930"
+    },
+    "Play_cacti_rearm": {
+      "bank": 17,
+      "id": "4258937106"
+    },
+    "Play_cacti_recover_attk": {
+      "bank": 17,
+      "id": "1266255584"
+    },
+    "Play_cacti_spawn": {
+      "bank": 17,
+      "id": "4275290828"
+    },
+    "Play_canvas_destroyed": {
+      "bank": 7,
+      "id": "2225337578"
+    },
+    "Play_canvas_hit": {
+      "bank": 7,
+      "id": "410078672"
+    },
+    "Play_ceramic_destroyed": {
+      "bank": 4,
+      "id": "4111098922"
+    },
+    "Play_ceramic_hit": {
+      "bank": 4,
+      "id": "132061200"
+    },
+    "Play_cft_blue_win": {
+      "bank": 19,
+      "id": "2749967297"
+    },
+    "Play_chest_close": {
+      "bank": 5,
+      "id": "3979007828"
+    },
+    "Play_chest_majorloot_loop": {
+      "bank": 5,
+      "id": "1774282970"
+    },
+    "Play_chest_open": {
+      "bank": 5,
+      "id": "2560700912"
+    },
+    "Play_chicken_JumpOut": {
+      "bank": 20,
+      "id": "441820954"
+    },
+    "Play_chicken_PeckAttk_active": {
+      "bank": 20,
+      "id": "2064180962"
+    },
+    "Play_chicken_PeckAttk_charge": {
+      "bank": 20,
+      "id": "2589156016"
+    },
+    "Play_chicken_PeckAttk_rvr": {
+      "bank": 20,
+      "id": "76860878"
+    },
+    "Play_chicken_death": {
+      "bank": 20,
+      "id": "2936903344"
+    },
+    "Play_chicken_fstep_walk": {
+      "bank": 20,
+      "id": "1650755370"
+    },
+    "Play_chicken_hit_01": {
+      "bank": 20,
+      "id": "1493475277"
+    },
+    "Play_chicken_hit_02": {
+      "bank": 20,
+      "id": "1493475278"
+    },
+    "Play_chicken_idle_01": {
+      "bank": 20,
+      "id": "754802178"
+    },
+    "Play_chicken_idle_02": {
+      "bank": 20,
+      "id": "754802177"
+    },
+    "Play_chicken_jumpIn": {
+      "bank": 20,
+      "id": "2103284903"
+    },
+    "Play_chicken_sleepIn": {
+      "bank": 20,
+      "id": "2395932682"
+    },
+    "Play_chicken_sleepOut": {
+      "bank": 20,
+      "id": "4108670309"
+    },
+    "Play_chicken_sleepOutFast": {
+      "bank": 20,
+      "id": "3915199731"
+    },
+    "Play_chicken_sleep_loop": {
+      "bank": 20,
+      "id": "2141126364"
+    },
+    "Play_clay_prop_destroyed": {
+      "bank": 4,
+      "id": "2954176467"
+    },
+    "Play_clay_prop_hit": {
+      "bank": 4,
+      "id": "2710076061"
+    },
+    "Play_close_backpack": {
+      "bank": 24,
+      "id": "1896534603"
+    },
+    "Play_close_crafting": {
+      "bank": 24,
+      "id": "1380086567"
+    },
+    "Play_close_emote_menu": {
+      "bank": 24,
+      "id": "2719097139"
+    },
+    "Play_close_escape_menu": {
+      "bank": 24,
+      "id": "4022067166"
+    },
+    "Play_close_log": {
+      "bank": 24,
+      "id": "2022679149"
+    },
+    "Play_crafting_complete": {
+      "bank": 24,
+      "id": "4039624782"
+    },
+    "Play_crate_destroyed": {
+      "bank": 39,
+      "id": "2603771899"
+    },
+    "Play_crate_hit": {
+      "bank": 39,
+      "id": "3543970021"
+    },
+    "Play_creature_death": {
+      "bank": 17,
+      "id": "2730799046"
+    },
+    "Play_creature_hit": {
+      "bank": 17,
+      "id": "2758372775"
+    },
+    "Play_creature_idle_loop": {
+      "bank": 17,
+      "id": "2761775295"
+    },
+    "Play_creature_launch_projectile": {
+      "bank": 17,
+      "id": "4050158001"
+    },
+    "Play_creature_projectile_impact": {
+      "bank": 17,
+      "id": "3986514542"
+    },
+    "Play_creature_projectile_loop": {
+      "bank": 17,
+      "id": "756591170"
+    },
+    "Play_ctf_FlagReset": {
+      "bank": 19,
+      "id": "3313275333"
+    },
+    "Play_ctf_countdown": {
+      "bank": 19,
+      "id": "3768432143"
+    },
+    "Play_ctf_flagCaptured": {
+      "bank": 19,
+      "id": "3455704934"
+    },
+    "Play_ctf_flagDropped": {
+      "bank": 19,
+      "id": "3642818914"
+    },
+    "Play_ctf_flagRecovered": {
+      "bank": 19,
+      "id": "1246901399"
+    },
+    "Play_ctf_flagStolen": {
+      "bank": 19,
+      "id": "2246669397"
+    },
+    "Play_ctf_flagTaken": {
+      "bank": 19,
+      "id": "2688830525"
+    },
+    "Play_ctf_mode_selected": {
+      "bank": 19,
+      "id": "3166416669"
+    },
+    "Play_ctf_red_win": {
+      "bank": 19,
+      "id": "1841336472"
+    },
+    "Play_ctf_roundEnd": {
+      "bank": 19,
+      "id": "1583889121"
+    },
+    "Play_ctf_roundEnding": {
+      "bank": 19,
+      "id": "3392886055"
+    },
+    "Play_ctf_start": {
+      "bank": 19,
+      "id": "1106079210"
+    },
+    "Play_drum_destroyed": {
+      "bank": 39,
+      "id": "2942135554"
+    },
+    "Play_drum_hit": {
+      "bank": 39,
+      "id": "4184908584"
+    },
+    "Play_emote_attack": {
+      "bank": 18,
+      "id": "4001374753"
+    },
+    "Play_emote_beckon": {
+      "bank": 18,
+      "id": "3765168531"
+    },
+    "Play_emote_cheer": {
+      "bank": 18,
+      "id": "1649413164"
+    },
+    "Play_emote_craft_1h": {
+      "bank": 18,
+      "id": "2108274059"
+    },
+    "Play_emote_craft_device": {
+      "bank": 18,
+      "id": "2731823598"
+    },
+    "Play_emote_dance": {
+      "bank": 18,
+      "id": "1987378738"
+    },
+    "Play_emote_dig": {
+      "bank": 18,
+      "id": "2722752091"
+    },
+    "Play_emote_fail": {
+      "bank": 18,
+      "id": "3527037789"
+    },
+    "Play_emote_howl": {
+      "bank": 18,
+      "id": "2583036483"
+    },
+    "Play_emote_no": {
+      "bank": 18,
+      "id": "2457224720"
+    },
+    "Play_emote_shrug": {
+      "bank": 18,
+      "id": "2478119390"
+    },
+    "Play_emote_taunt": {
+      "bank": 18,
+      "id": "2589071779"
+    },
+    "Play_emote_thanks": {
+      "bank": 18,
+      "id": "3660453286"
+    },
+    "Play_emote_wave": {
+      "bank": 18,
+      "id": "1311060190"
+    },
+    "Play_emote_yes": {
+      "bank": 18,
+      "id": "2588972314"
+    },
+    "Play_entity_attack_impact": {
+      "bank": 13,
+      "id": "421817687"
+    },
+    "Play_exit_mu_Adventure_log": {
+      "bank": 11,
+      "id": "4016233749"
+    },
+    "Play_fabric_prop_destroyed": {
+      "bank": 7,
+      "id": "3708549295"
+    },
+    "Play_fabric_prop_hit": {
+      "bank": 7,
+      "id": "225692097"
+    },
+    "Play_fire_pit_destoryed": {
+      "bank": 23,
+      "id": "1524998178"
+    },
+    "Play_fire_pit_loop": {
+      "bank": 23,
+      "id": "374736569"
+    },
+    "Play_forge_loop": {
+      "bank": 5,
+      "id": "2396096056"
+    },
+    "Play_forge_static_loop": {
+      "bank": 5,
+      "id": "4153711481"
+    },
+    "Play_forge_ui_close": {
+      "bank": 5,
+      "id": "3599128429"
+    },
+    "Play_forge_ui_open": {
+      "bank": 5,
+      "id": "2831322791"
+    },
+    "Play_fpPlayer_attk_active": {
+      "bank": 18,
+      "id": "1838036515"
+    },
+    "Play_fpPlayer_attk_charge": {
+      "bank": 18,
+      "id": "3745772333"
+    },
+    "Play_fpPlayer_attk_chrge_heavy": {
+      "bank": 18,
+      "id": "929176594"
+    },
+    "Play_fpPlayer_eat": {
+      "bank": 18,
+      "id": "4269721652"
+    },
+    "Play_fpPlayer_handcraft_loop": {
+      "bank": 18,
+      "id": "1619132978"
+    },
+    "Play_fpPlayer_holster": {
+      "bank": 18,
+      "id": "3011648427"
+    },
+    "Play_fpPlayer_into_water": {
+      "bank": 18,
+      "id": "2674577176"
+    },
+    "Play_fpPlayer_out_of_water": {
+      "bank": 18,
+      "id": "4235117018"
+    },
+    "Play_fpPlayer_pickup_item_generic": {
+      "bank": 18,
+      "id": "912014318"
+    },
+    "Play_fpPlayer_sprint": {
+      "bank": 18,
+      "id": "2452531066"
+    },
+    "Play_fpPlayer_swim_move": {
+      "bank": 18,
+      "id": "2243590586"
+    },
+    "Play_fpPlayer_torch_loop": {
+      "bank": 23,
+      "id": "1111153801"
+    },
+    "Play_fpplayer_death": {
+      "bank": 18,
+      "id": "1991347556"
+    },
+    "Play_gain_health": {
+      "bank": 24,
+      "id": "3311141752"
+    },
+    "Play_generic_chest_loop": {
+      "bank": 5,
+      "id": "1777677860"
+    },
+    "Play_generic_notification": {
+      "bank": 24,
+      "id": "2836092973"
+    },
+    "Play_glass_prop_destroyed": {
+      "bank": 8,
+      "id": "3440890090"
+    },
+    "Play_glass_prop_hit": {
+      "bank": 8,
+      "id": "299043280"
+    },
+    "Play_gong_destroyed": {
+      "bank": 39,
+      "id": "4283777365"
+    },
+    "Play_gong_hit": {
+      "bank": 39,
+      "id": "2727454603"
+    },
+    "Play_hat": {
+      "bank": 18,
+      "id": "3094886965"
+    },
+    "Play_hay_destroyed": {
+      "bank": 25,
+      "id": "839743828"
+    },
+    "Play_hay_hit": {
+      "bank": 25,
+      "id": "2548441694"
+    },
+    "Play_held_torch_loop": {
+      "bank": 23,
+      "id": "863905801"
+    },
+    "Play_hit_Cactus": {
+      "bank": 26,
+      "id": "3975393157"
+    },
+    "Play_hit_Metal_Ore": {
+      "bank": 32,
+      "id": "855349644"
+    },
+    "Play_hit_crystal": {
+      "bank": 27,
+      "id": "2565840734"
+    },
+    "Play_hit_grate": {
+      "bank": 28,
+      "id": "891888709"
+    },
+    "Play_hit_leaves": {
+      "bank": 29,
+      "id": "3779206932"
+    },
+    "Play_hit_metal": {
+      "bank": 30,
+      "id": "1105250257"
+    },
+    "Play_hit_rock": {
+      "bank": 32,
+      "id": "1502382587"
+    },
+    "Play_hit_sand": {
+      "bank": 33,
+      "id": "2968655342"
+    },
+    "Play_hit_snow": {
+      "bank": 34,
+      "id": "3524729377"
+    },
+    "Play_hit_softdirt": {
+      "bank": 35,
+      "id": "3525243891"
+    },
+    "Play_hit_unharvestable": {
+      "bank": 36,
+      "id": "418323808"
+    },
+    "Play_hit_wood": {
+      "bank": 37,
+      "id": "1722917615"
+    },
+    "Play_keystoneOven_broken_loop": {
+      "bank": 5,
+      "id": "1667150773"
+    },
+    "Play_keystoneOven_cook_end": {
+      "bank": 5,
+      "id": "433905465"
+    },
+    "Play_keystoneOven_cook_loop": {
+      "bank": 5,
+      "id": "322870572"
+    },
+    "Play_keystoneOven_cook_start": {
+      "bank": 5,
+      "id": "3004171866"
+    },
+    "Play_keystoneOven_fixed_loop": {
+      "bank": 5,
+      "id": "2932142188"
+    },
+    "Play_keystoneOven_fixing": {
+      "bank": 5,
+      "id": "3270099548"
+    },
+    "Play_lantern_destroyed": {
+      "bank": 23,
+      "id": "518574566"
+    },
+    "Play_lantern_loop": {
+      "bank": 23,
+      "id": "3502612915"
+    },
+    "Play_largequadruped_attack": {
+      "bank": 13,
+      "id": "2739391163"
+    },
+    "Play_largequadruped_attack_idle": {
+      "bank": 13,
+      "id": "3490082244"
+    },
+    "Play_largequadruped_attack_spit": {
+      "bank": 13,
+      "id": "1692584940"
+    },
+    "Play_largequadruped_attk_swipe": {
+      "bank": 13,
+      "id": "864800480"
+    },
+    "Play_largequadruped_breathe": {
+      "bank": 13,
+      "id": "3080096894"
+    },
+    "Play_largequadruped_death": {
+      "bank": 13,
+      "id": "3830297387"
+    },
+    "Play_largequadruped_death_01": {
+      "bank": 13,
+      "id": "2554568799"
+    },
+    "Play_largequadruped_death_02": {
+      "bank": 13,
+      "id": "2554568796"
+    },
+    "Play_largequadruped_death_03": {
+      "bank": 13,
+      "id": "2554568797"
+    },
+    "Play_largequadruped_fall_impact": {
+      "bank": 13,
+      "id": "1298402873"
+    },
+    "Play_largequadruped_fstep_run": {
+      "bank": 13,
+      "id": "2611695679"
+    },
+    "Play_largequadruped_fstep_sneak": {
+      "bank": 13,
+      "id": "522365968"
+    },
+    "Play_largequadruped_fstep_walk": {
+      "bank": 13,
+      "id": "1794872483"
+    },
+    "Play_largequadruped_hit": {
+      "bank": 13,
+      "id": "3105998474"
+    },
+    "Play_largequadruped_idle_01": {
+      "bank": 13,
+      "id": "1777900625"
+    },
+    "Play_largequadruped_idle_02": {
+      "bank": 13,
+      "id": "1777900626"
+    },
+    "Play_largequadruped_idle_03": {
+      "bank": 13,
+      "id": "1777900627"
+    },
+    "Play_largequadruped_jump": {
+      "bank": 13,
+      "id": "3631758251"
+    },
+    "Play_largequadruped_pounce_act": {
+      "bank": 13,
+      "id": "153689408"
+    },
+    "Play_largequadruped_pounce_chrg": {
+      "bank": 13,
+      "id": "2355371736"
+    },
+    "Play_largequadruped_pounce_recoil": {
+      "bank": 13,
+      "id": "4092611462"
+    },
+    "Play_largequadruped_pounce_recover": {
+      "bank": 13,
+      "id": "2186225600"
+    },
+    "Play_largequadruped_sleep": {
+      "bank": 13,
+      "id": "386763668"
+    },
+    "Play_largequadruped_sleep_in": {
+      "bank": 13,
+      "id": "2561432254"
+    },
+    "Play_largequadruped_sleep_out": {
+      "bank": 13,
+      "id": "6406881"
+    },
+    "Play_largequadruped_spit_charge": {
+      "bank": 13,
+      "id": "3868358204"
+    },
+    "Play_largequadruped_swipecharge": {
+      "bank": 13,
+      "id": "3549080267"
+    },
+    "Play_largequadruped_turn_fstep": {
+      "bank": 13,
+      "id": "1201182759"
+    },
+    "Play_lizard_chest_loop": {
+      "bank": 5,
+      "id": "3839776309"
+    },
+    "Play_lizard_chest_open": {
+      "bank": 5,
+      "id": "1531629247"
+    },
+    "Play_log_destroyed": {
+      "bank": 39,
+      "id": "745395320"
+    },
+    "Play_log_hit": {
+      "bank": 39,
+      "id": "1933804394"
+    },
+    "Play_lose_health": {
+      "bank": 24,
+      "id": "82613730"
+    },
+    "Play_meat_prop_destroyed": {
+      "bank": 14,
+      "id": "294557589"
+    },
+    "Play_meat_prop_hit": {
+      "bank": 14,
+      "id": "1100868811"
+    },
+    "Play_metal_destoryed": {
+      "bank": 15,
+      "id": "4030028509"
+    },
+    "Play_metal_hit": {
+      "bank": 15,
+      "id": "4168882389"
+    },
+    "Play_metal_prop_destroyed": {
+      "bank": 15,
+      "id": "4055204393"
+    },
+    "Play_metal_prop_hit": {
+      "bank": 15,
+      "id": "1245232695"
+    },
+    "Play_mu_Adventure_log": {
+      "bank": 11,
+      "id": "3740611974"
+    },
+    "Play_mu_pvp_deathmatch": {
+      "bank": 11,
+      "id": "13017783"
+    },
+    "Play_mushroom_destroyed": {
+      "bank": 25,
+      "id": "668443380"
+    },
+    "Play_mushroom_hit": {
+      "bank": 25,
+      "id": "640888574"
+    },
+    "Play_ocean_loop": {
+      "bank": 10,
+      "id": "3589618837"
+    },
+    "Play_open_backpack": {
+      "bank": 24,
+      "id": "447118631"
+    },
+    "Play_open_crafting": {
+      "bank": 24,
+      "id": "427320771"
+    },
+    "Play_open_emote_menu": {
+      "bank": 24,
+      "id": "2048553103"
+    },
+    "Play_open_escape_menu": {
+      "bank": 24,
+      "id": "3725066570"
+    },
+    "Play_open_log": {
+      "bank": 24,
+      "id": "1710219449"
+    },
+    "Play_open_space_amb_loop": {
+      "bank": 10,
+      "id": "3206767649"
+    },
+    "Play_open_survivalist_chest": {
+      "bank": 5,
+      "id": "2031567107"
+    },
+    "Play_paper_prop_destroyed": {
+      "bank": 16,
+      "id": "1368107076"
+    },
+    "Play_paper_prop_hit": {
+      "bank": 16,
+      "id": "3744346158"
+    },
+    "Play_pickup_created": {
+      "bank": 9,
+      "id": "318542059"
+    },
+    "Play_pickup_fly_to_player": {
+      "bank": 9,
+      "id": "2955794512"
+    },
+    "Play_pickup_landed": {
+      "bank": 9,
+      "id": "1887872841"
+    },
+    "Play_plant_die": {
+      "bank": 17,
+      "id": "2173160054"
+    },
+    "Play_plant_spawn": {
+      "bank": 17,
+      "id": "4129319393"
+    },
+    "Play_player_breathe_in_idle": {
+      "bank": 18,
+      "id": "1694594948"
+    },
+    "Play_player_breathe_out_idle": {
+      "bank": 18,
+      "id": "223271543"
+    },
+    "Play_player_breathe_run": {
+      "bank": 18,
+      "id": "3647435981"
+    },
+    "Play_player_drops_pickup": {
+      "bank": 9,
+      "id": "1869579253"
+    },
+    "Play_player_fall": {
+      "bank": 18,
+      "id": "1306343379"
+    },
+    "Play_player_fall_land": {
+      "bank": 18,
+      "id": "3439294409"
+    },
+    "Play_player_fstep_jump": {
+      "bank": 18,
+      "id": "2154100263"
+    },
+    "Play_player_fstep_land": {
+      "bank": 18,
+      "id": "4086329564"
+    },
+    "Play_player_fstep_run": {
+      "bank": 18,
+      "id": "3196114006"
+    },
+    "Play_player_fstep_walk": {
+      "bank": 18,
+      "id": "4192535256"
+    },
+    "Play_player_get_pickup": {
+      "bank": 9,
+      "id": "2948968955"
+    },
+    "Play_player_hit": {
+      "bank": 18,
+      "id": "1864892471"
+    },
+    "Play_player_info_help": {
+      "bank": 24,
+      "id": "1771865386"
+    },
+    "Play_portal_closing": {
+      "bank": 9,
+      "id": "952068872"
+    },
+    "Play_portal_loop": {
+      "bank": 9,
+      "id": "755352757"
+    },
+    "Play_portal_opening_seq": {
+      "bank": 9,
+      "id": "1029346337"
+    },
+    "Play_put_in_trash": {
+      "bank": 24,
+      "id": "1657643954"
+    },
+    "Play_pvp_countdown_1": {
+      "bank": 11,
+      "id": "4096484704"
+    },
+    "Play_pvp_countdown_2": {
+      "bank": 11,
+      "id": "4096484707"
+    },
+    "Play_pvp_countdown_3": {
+      "bank": 11,
+      "id": "4096484706"
+    },
+    "Play_random_idle_VO": {
+      "bank": 1,
+      "id": "2941149938"
+    },
+    "Play_smallquad_Jump": {
+      "bank": 20,
+      "id": "3865415189"
+    },
+    "Play_smallquad_attk_Gath_active": {
+      "bank": 20,
+      "id": "2489717621"
+    },
+    "Play_smallquad_attk_Gath_charge": {
+      "bank": 20,
+      "id": "59199851"
+    },
+    "Play_smallquad_attk_Gath_recoil": {
+      "bank": 20,
+      "id": "3842635277"
+    },
+    "Play_smallquad_attk_Gath_recover": {
+      "bank": 20,
+      "id": "2725644441"
+    },
+    "Play_smallquad_attk_Nib_active": {
+      "bank": 20,
+      "id": "1258493628"
+    },
+    "Play_smallquad_attk_Nib_charge": {
+      "bank": 20,
+      "id": "2819100502"
+    },
+    "Play_smallquad_attk_Nib_recoil": {
+      "bank": 20,
+      "id": "2830531796"
+    },
+    "Play_smallquad_attk_Nib_recover": {
+      "bank": 20,
+      "id": "1684752354"
+    },
+    "Play_smallquad_attk_Ram_active": {
+      "bank": 20,
+      "id": "2721260461"
+    },
+    "Play_smallquad_attk_Ram_charge": {
+      "bank": 20,
+      "id": "2755399491"
+    },
+    "Play_smallquad_attk_Ram_recoil": {
+      "bank": 20,
+      "id": "2332974053"
+    },
+    "Play_smallquad_attk_Ram_recover": {
+      "bank": 20,
+      "id": "3280556609"
+    },
+    "Play_smallquad_attk_spit_charge": {
+      "bank": 20,
+      "id": "3774828881"
+    },
+    "Play_smallquad_attk_spit_recvr": {
+      "bank": 20,
+      "id": "2330984013"
+    },
+    "Play_smallquad_attl_spit_active": {
+      "bank": 20,
+      "id": "1524368736"
+    },
+    "Play_smallquad_bodyimpact": {
+      "bank": 20,
+      "id": "2132630987"
+    },
+    "Play_smallquad_breathe_01": {
+      "bank": 20,
+      "id": "3508320622"
+    },
+    "Play_smallquad_breathe_02": {
+      "bank": 20,
+      "id": "3508320621"
+    },
+    "Play_smallquad_breathe_03": {
+      "bank": 20,
+      "id": "3508320620"
+    },
+    "Play_smallquad_breathe_04": {
+      "bank": 20,
+      "id": "3508320619"
+    },
+    "Play_smallquad_breathe_05": {
+      "bank": 20,
+      "id": "3508320618"
+    },
+    "Play_smallquad_breathe_06": {
+      "bank": 20,
+      "id": "3508320617"
+    },
+    "Play_smallquad_breathe_07": {
+      "bank": 20,
+      "id": "3508320616"
+    },
+    "Play_smallquad_breathe_08": {
+      "bank": 20,
+      "id": "3508320615"
+    },
+    "Play_smallquad_breathe_09": {
+      "bank": 20,
+      "id": "3508320614"
+    },
+    "Play_smallquad_death_01": {
+      "bank": 20,
+      "id": "2663203513"
+    },
+    "Play_smallquad_death_02": {
+      "bank": 20,
+      "id": "2663203514"
+    },
+    "Play_smallquad_death_03": {
+      "bank": 20,
+      "id": "2663203515"
+    },
+    "Play_smallquad_fstep_run": {
+      "bank": 20,
+      "id": "3248916837"
+    },
+    "Play_smallquad_fstep_walk": {
+      "bank": 20,
+      "id": "4164962133"
+    },
+    "Play_smallquad_hit": {
+      "bank": 20,
+      "id": "132142700"
+    },
+    "Play_smallquad_land": {
+      "bank": 20,
+      "id": "1894511002"
+    },
+    "Play_smallquad_sleep_in": {
+      "bank": 20,
+      "id": "2207635176"
+    },
+    "Play_smallquad_sleep_loop": {
+      "bank": 20,
+      "id": "3160208499"
+    },
+    "Play_smallquad_sleep_out": {
+      "bank": 20,
+      "id": "602271983"
+    },
+    "Play_stone_prop_destroyed": {
+      "bank": 21,
+      "id": "1167823067"
+    },
+    "Play_stone_prop_hit": {
+      "bank": 21,
+      "id": "1404709829"
+    },
+    "Play_survivalist_chest_loop": {
+      "bank": 5,
+      "id": "2656904803"
+    },
+    "Play_take_photo": {
+      "bank": 24,
+      "id": "1435327354"
+    },
+    "Play_tdm_blue_win": {
+      "bank": 19,
+      "id": "826742333"
+    },
+    "Play_tdm_countdown": {
+      "bank": 19,
+      "id": "341040619"
+    },
+    "Play_tdm_mode_selected": {
+      "bank": 19,
+      "id": "643839537"
+    },
+    "Play_tdm_red_win": {
+      "bank": 19,
+      "id": "2078191836"
+    },
+    "Play_tdm_roundEnd": {
+      "bank": 19,
+      "id": "948123805"
+    },
+    "Play_tdm_roundEnding": {
+      "bank": 19,
+      "id": "3598042955"
+    },
+    "Play_tdm_start": {
+      "bank": 19,
+      "id": "3134814278"
+    },
+    "Play_todo_appear": {
+      "bank": 24,
+      "id": "1202692706"
+    },
+    "Play_todo_disappear": {
+      "bank": 24,
+      "id": "3960504436"
+    },
+    "Play_todo_get_item": {
+      "bank": 24,
+      "id": "3194307999"
+    },
+    "Play_todo_list_item_highlight": {
+      "bank": 24,
+      "id": "3953219196"
+    },
+    "Play_todo_list_sheen": {
+      "bank": 24,
+      "id": "68573143"
+    },
+    "Play_todo_stage_completed": {
+      "bank": 24,
+      "id": "762129995"
+    },
+    "Play_todo_task_completed": {
+      "bank": 24,
+      "id": "2408198312"
+    },
+    "Play_tool_use": {
+      "bank": 22,
+      "id": "1715379396"
+    },
+    "Play_tool_use_VO": {
+      "bank": 1,
+      "id": "3434955234"
+    },
+    "Play_torch_loop": {
+      "bank": 23,
+      "id": "1754742481"
+    },
+    "Play_trader_chest_loop": {
+      "bank": 5,
+      "id": "2161433237"
+    },
+    "Play_trader_chest_open": {
+      "bank": 5,
+      "id": "4189933343"
+    },
+    "Play_ui_Knowledge_book_close": {
+      "bank": 24,
+      "id": "3505289258"
+    },
+    "Play_ui_Knowledge_book_generic_menu": {
+      "bank": 24,
+      "id": "4187961201"
+    },
+    "Play_ui_Knowledge_book_hover_deselect": {
+      "bank": 24,
+      "id": "2701984530"
+    },
+    "Play_ui_Knowledge_book_hover_select": {
+      "bank": 24,
+      "id": "501202499"
+    },
+    "Play_ui_Knowledge_book_open": {
+      "bank": 24,
+      "id": "2452373710"
+    },
+    "Play_ui_Knowledge_book_select_item": {
+      "bank": 24,
+      "id": "1330182536"
+    },
+    "Play_ui_Knowledge_book_turn_page": {
+      "bank": 24,
+      "id": "788685291"
+    },
+    "Play_ui_button_back": {
+      "bank": 24,
+      "id": "3217946907"
+    },
+    "Play_ui_button_crafting": {
+      "bank": 24,
+      "id": "3149428100"
+    },
+    "Play_ui_button_negative": {
+      "bank": 24,
+      "id": "1766163911"
+    },
+    "Play_ui_button_trashing": {
+      "bank": 24,
+      "id": "116425632"
+    },
+    "Play_ui_camera_turn": {
+      "bank": 24,
+      "id": "1674260256"
+    },
+    "Play_ui_close_inventory": {
+      "bank": 24,
+      "id": "2856587768"
+    },
+    "Play_ui_equip_Lhand_button_select": {
+      "bank": 24,
+      "id": "1052858781"
+    },
+    "Play_ui_equip_Rhand_button_select": {
+      "bank": 24,
+      "id": "3903186051"
+    },
+    "Play_ui_gen_confirm": {
+      "bank": 24,
+      "id": "3453198162"
+    },
+    "Play_ui_open_inventory": {
+      "bank": 24,
+      "id": "2128681050"
+    },
+    "Play_ui_pickup_resource": {
+      "bank": 24,
+      "id": "2043837930"
+    },
+    "Play_ui_placedown_resource": {
+      "bank": 24,
+      "id": "1045220127"
+    },
+    "Play_ui_rollover": {
+      "bank": 24,
+      "id": "4038800916"
+    },
+    "Play_ui_select_item": {
+      "bank": 24,
+      "id": "2511647503"
+    },
+    "Play_ui_sellbutton_button_cancel": {
+      "bank": 24,
+      "id": "1508311251"
+    },
+    "Play_ui_sellbutton_button_confirm": {
+      "bank": 24,
+      "id": "4036043395"
+    },
+    "Play_ui_sellbutton_button_select": {
+      "bank": 24,
+      "id": "1093954981"
+    },
+    "Play_ui_transfer_button_select": {
+      "bank": 24,
+      "id": "2450989708"
+    },
+    "Play_ui_unlock": {
+      "bank": 24,
+      "id": "3826685727"
+    },
+    "Play_use_forge": {
+      "bank": 24,
+      "id": "666161711"
+    },
+    "Play_vegatation_prop_destroyed": {
+      "bank": 25,
+      "id": "3039395798"
+    },
+    "Play_vegatation_prop_hit": {
+      "bank": 25,
+      "id": "2604748980"
+    },
+    "Play_vegetation_destoyed": {
+      "bank": 25,
+      "id": "3963262018"
+    },
+    "Play_vegetation_hit": {
+      "bank": 25,
+      "id": "1829840520"
+    },
+    "Play_vending_machine_active": {
+      "bank": 5,
+      "id": "3769566564"
+    },
+    "Play_vending_machine_ui_close": {
+      "bank": 5,
+      "id": "584600333"
+    },
+    "Play_vending_machine_ui_open": {
+      "bank": 5,
+      "id": "1842021575"
+    },
+    "Play_water_loop_test": {
+      "bank": 10,
+      "id": "3045469735"
+    },
+    "Play_wood_crate_destroyed": {
+      "bank": 39,
+      "id": "2334543429"
+    },
+    "Play_wood_crate_hit": {
+      "bank": 39,
+      "id": "611628123"
+    },
+    "Play_wood_furniture_destroyed": {
+      "bank": 39,
+      "id": "2225567314"
+    },
+    "Play_wood_furniture_hit": {
+      "bank": 39,
+      "id": "430615960"
+    },
+    "Play_wood_prop_destroyed": {
+      "bank": 39,
+      "id": "2098956551"
+    },
+    "Play_wood_prop_hit": {
+      "bank": 39,
+      "id": "551886041"
+    },
+    "Play_woodpost_ui_close": {
+      "bank": 5,
+      "id": "2444003677"
+    },
+    "Play_woodpost_ui_open": {
+      "bank": 5,
+      "id": "1705116791"
+    },
+    "Play_workbench_active": {
+      "bank": 5,
+      "id": "1176475438"
+    },
+    "Play_workbench_ui_close": {
+      "bank": 5,
+      "id": "2715318015"
+    },
+    "Play_workbench_ui_open": {
+      "bank": 5,
+      "id": "1072132633"
+    },
+    "Play_yeti_chest_loop": {
+      "bank": 5,
+      "id": "2460755332"
+    },
+    "Play_yeti_chest_open": {
+      "bank": 5,
+      "id": "475803410"
+    },
+    "Player": {
+      "bank": 22,
+      "id": "1069431850"
+    },
+    "Player_perspective": {
+      "bank": 12,
+      "id": "2441248653"
+    },
+    "Portal_opening": {
+      "bank": 12,
+      "id": "1914572662"
+    },
+    "Pumpkin": {
+      "bank": 18,
+      "id": "2863832591"
+    },
+    "PvP_Desert": {
+      "bank": 12,
+      "id": "251251751"
+    },
+    "Quick": {
+      "bank": 22,
+      "id": "1666346102"
+    },
+    "Rank_1": {
+      "bank": 12,
+      "id": "3855796791"
+    },
+    "Rank_10": {
+      "bank": 12,
+      "id": "30692517"
+    },
+    "Rank_11": {
+      "bank": 12,
+      "id": "30692516"
+    },
+    "Rank_12": {
+      "bank": 12,
+      "id": "30692519"
+    },
+    "Rank_13": {
+      "bank": 12,
+      "id": "30692518"
+    },
+    "Rank_14": {
+      "bank": 12,
+      "id": "30692513"
+    },
+    "Rank_15": {
+      "bank": 12,
+      "id": "30692512"
+    },
+    "Rank_16": {
+      "bank": 12,
+      "id": "30692515"
+    },
+    "Rank_17": {
+      "bank": 12,
+      "id": "30692514"
+    },
+    "Rank_18": {
+      "bank": 12,
+      "id": "30692525"
+    },
+    "Rank_19": {
+      "bank": 12,
+      "id": "30692524"
+    },
+    "Rank_2": {
+      "bank": 12,
+      "id": "3855796788"
+    },
+    "Rank_20": {
+      "bank": 12,
+      "id": "4275326956"
+    },
+    "Rank_21": {
+      "bank": 12,
+      "id": "4275326957"
+    },
+    "Rank_22": {
+      "bank": 12,
+      "id": "4275326958"
+    },
+    "Rank_23": {
+      "bank": 12,
+      "id": "4275326959"
+    },
+    "Rank_24": {
+      "bank": 12,
+      "id": "4275326952"
+    },
+    "Rank_25": {
+      "bank": 12,
+      "id": "4275326953"
+    },
+    "Rank_3": {
+      "bank": 12,
+      "id": "3855796789"
+    },
+    "Rank_4": {
+      "bank": 12,
+      "id": "3855796786"
+    },
+    "Rank_5": {
+      "bank": 12,
+      "id": "3855796787"
+    },
+    "Rank_6": {
+      "bank": 12,
+      "id": "3855796784"
+    },
+    "Rank_7": {
+      "bank": 12,
+      "id": "3855796785"
+    },
+    "Rank_8": {
+      "bank": 12,
+      "id": "3855796798"
+    },
+    "Rank_9": {
+      "bank": 12,
+      "id": "3855796799"
+    },
+    "ReStart_Adventure": {
+      "bank": 12,
+      "id": "3368091803"
+    },
+    "Recoil": {
+      "bank": 22,
+      "id": "3767065607"
+    },
+    "Recover": {
+      "bank": 22,
+      "id": "1972544759"
+    },
+    "RedPlayer": {
+      "bank": 22,
+      "id": "661923685"
+    },
+    "Room_percentage": {
+      "bank": 10,
+      "id": "1536936503"
+    },
+    "Room_size": {
+      "bank": 39,
+      "id": "2021037140"
+    },
+    "RoseIron_Butchers_Knife": {
+      "bank": 18,
+      "id": "4167556387"
+    },
+    "RoseIron_Hatchet": {
+      "bank": 18,
+      "id": "1752791030"
+    },
+    "RoseIron_Metal_Dagger": {
+      "bank": 18,
+      "id": "807132579"
+    },
+    "RoseIron_Metal_Mace": {
+      "bank": 18,
+      "id": "3231720847"
+    },
+    "RoseIron_Metal_Sword": {
+      "bank": 18,
+      "id": "3864122012"
+    },
+    "RoseIron_Shears": {
+      "bank": 18,
+      "id": "1180968503"
+    },
+    "SFX": {
+      "bank": 12,
+      "id": "393239870"
+    },
+    "SFXVolume": {
+      "bank": 12,
+      "id": "988953028"
+    },
+    "Sand": {
+      "bank": 18,
+      "id": "803837735"
+    },
+    "Scroll": {
+      "bank": 39,
+      "id": "454121546"
+    },
+    "Sharp_Rock": {
+      "bank": 18,
+      "id": "2525190733"
+    },
+    "Sharp_rock": {
+      "bank": 39,
+      "id": "2525190733"
+    },
+    "Shears": {
+      "bank": 39,
+      "id": "333327263"
+    },
+    "Sheep": {
+      "bank": 22,
+      "id": "2935967122"
+    },
+    "Sheep_attk_Ram_active": {
+      "bank": 20,
+      "id": "888908324"
+    },
+    "Shield": {
+      "bank": 39,
+      "id": "1161967626"
+    },
+    "Silence": {
+      "bank": 12,
+      "id": "3041563226"
+    },
+    "Sky_Island": {
+      "bank": 12,
+      "id": "1471216408"
+    },
+    "SmallDinosaur": {
+      "bank": 22,
+      "id": "98144979"
+    },
+    "Snow": {
+      "bank": 18,
+      "id": "787898836"
+    },
+    "Spring_Trap_active": {
+      "bank": 22,
+      "id": "443071454"
+    },
+    "Spring_trap": {
+      "bank": 39,
+      "id": "2575181652"
+    },
+    "Start_PVP": {
+      "bank": 12,
+      "id": "1333121924"
+    },
+    "Start_WA": {
+      "bank": 12,
+      "id": "273947786"
+    },
+    "Start_homeIsland": {
+      "bank": 12,
+      "id": "1759307104"
+    },
+    "Stone": {
+      "bank": 18,
+      "id": "1216965916"
+    },
+    "Stone_Shield": {
+      "bank": 18,
+      "id": "1090816332"
+    },
+    "Stop_fpPlayer_handcraft_loop": {
+      "bank": 18,
+      "id": "957414900"
+    },
+    "Stop_fpPlayer_sprint": {
+      "bank": 18,
+      "id": "4227508596"
+    },
+    "Streaming": {
+      "bank": 12,
+      "id": "3855253795"
+    },
+    "SunkenTemple_Adventure": {
+      "bank": 12,
+      "id": "3701318347"
+    },
+    "Sunset": {
+      "bank": 12,
+      "id": "2332133503"
+    },
+    "SurvivalistArmourHead": {
+      "bank": 18,
+      "id": "619353327"
+    },
+    "SurvivalistArmourLegs": {
+      "bank": 18,
+      "id": "2560700594"
+    },
+    "Survivalist_chest_open": {
+      "bank": 5,
+      "id": "986509205"
+    },
+    "Sword": {
+      "bank": 39,
+      "id": "2454616260"
+    },
+    "Task_completed": {
+      "bank": 12,
+      "id": "2800697756"
+    },
+    "Temple": {
+      "bank": 17,
+      "id": "2323193050"
+    },
+    "Tiger": {
+      "bank": 22,
+      "id": "3854606522"
+    },
+    "Time": {
+      "bank": 12,
+      "id": "2654366170"
+    },
+    "Time_of_day": {
+      "bank": 12,
+      "id": "207908541"
+    },
+    "Tomb_Adventure": {
+      "bank": 12,
+      "id": "2308068646"
+    },
+    "Tool_Selection": {
+      "bank": 18,
+      "id": "1727872460"
+    },
+    "Tool_type": {
+      "bank": 39,
+      "id": "175961686"
+    },
+    "Torch": {
+      "bank": 39,
+      "id": "1904864137"
+    },
+    "TpPlayer_death": {
+      "bank": 12,
+      "id": "965762857"
+    },
+    "Tpp": {
+      "bank": 12,
+      "id": "594321123"
+    },
+    "Tutorial": {
+      "bank": 12,
+      "id": "3762955427"
+    },
+    "UI": {
+      "bank": 12,
+      "id": "1551306167"
+    },
+    "UnderWater": {
+      "bank": 12,
+      "id": "2213237662"
+    },
+    "Use_state": {
+      "bank": 22,
+      "id": "2688708580"
+    },
+    "VO": {
+      "bank": 12,
+      "id": "1534528548"
+    },
+    "VO_narrator_ctf_1": {
+      "bank": 19,
+      "id": "892422943"
+    },
+    "VO_narrator_ctf_2": {
+      "bank": 19,
+      "id": "476032147"
+    },
+    "VO_narrator_ctf_3": {
+      "bank": 19,
+      "id": "41718122"
+    },
+    "VO_narrator_ctf_blue_win": {
+      "bank": 19,
+      "id": "600251709"
+    },
+    "VO_narrator_ctf_flagCaptured": {
+      "bank": 19,
+      "id": "444792562"
+    },
+    "VO_narrator_ctf_flagDropped": {
+      "bank": 19,
+      "id": "908830884"
+    },
+    "VO_narrator_ctf_flagRecovered": {
+      "bank": 19,
+      "id": "96612112"
+    },
+    "VO_narrator_ctf_flagReset": {
+      "bank": 19,
+      "id": "796048453"
+    },
+    "VO_narrator_ctf_flagStolen": {
+      "bank": 19,
+      "id": "405454951"
+    },
+    "VO_narrator_ctf_flagTaken": {
+      "bank": 19,
+      "id": "131653361"
+    },
+    "VO_narrator_ctf_mode_selected": {
+      "bank": 19,
+      "id": "815353479"
+    },
+    "VO_narrator_ctf_red_win": {
+      "bank": 19,
+      "id": "73419531"
+    },
+    "VO_narrator_ctf_roundEnd": {
+      "bank": 19,
+      "id": "19517729"
+    },
+    "VO_narrator_ctf_start": {
+      "bank": 19,
+      "id": "320231160"
+    },
+    "VO_narrator_tdm_modeSelected": {
+      "bank": 19,
+      "id": "722720086"
+    },
+    "VO_narrator_tdm_start": {
+      "bank": 19,
+      "id": "34637434"
+    },
+    "Village_Adventure": {
+      "bank": 12,
+      "id": "1167261506"
+    },
+    "Village_night_home_island_theme": {
+      "bank": 11,
+      "id": "87778167"
+    },
+    "Villager": {
+      "bank": 22,
+      "id": "1783520059"
+    },
+    "Voxel": {
+      "bank": 39,
+      "id": "3071871223"
+    },
+    "WA_AI_Combat_2_b_136_loop": {
+      "bank": 11,
+      "id": "867054647"
+    },
+    "WA_AI_Combat_3_141_loopable": {
+      "bank": 11,
+      "id": "831307111"
+    },
+    "WA_AI_Combat_3_a_141": {
+      "bank": 11,
+      "id": "736280263"
+    },
+    "WA_AI_Combat_4_160": {
+      "bank": 11,
+      "id": "409173262"
+    },
+    "WA_AI_combat_1_a_140bpm": {
+      "bank": 11,
+      "id": "575878334"
+    },
+    "WA_AI_combat_1_b_140bpm": {
+      "bank": 11,
+      "id": "152133500"
+    },
+    "WA_AI_combat_1_c_140bpm": {
+      "bank": 11,
+      "id": "589407776"
+    },
+    "WA_AI_combat_end_1": {
+      "bank": 11,
+      "id": "897745136"
+    },
+    "WA_AI_combat_end_2": {
+      "bank": 11,
+      "id": "88238622"
+    },
+    "WA_AdventureLog_start": {
+      "bank": 12,
+      "id": "865827199"
+    },
+    "WA_Adventurelog_end": {
+      "bank": 12,
+      "id": "2313558236"
+    },
+    "WA_Village_loop_1": {
+      "bank": 11,
+      "id": "243291649"
+    },
+    "WA_Village_loop_2": {
+      "bank": 11,
+      "id": "226870389"
+    },
+    "WA_Village_night": {
+      "bank": 11,
+      "id": "36410887"
+    },
+    "WA_Village_outro_1": {
+      "bank": 11,
+      "id": "265023607"
+    },
+    "WA_Village_outro_2": {
+      "bank": 11,
+      "id": "840745274"
+    },
+    "WA_village_01_day": {
+      "bank": 11,
+      "id": "255102157"
+    },
+    "WA_village_02_day": {
+      "bank": 11,
+      "id": "783708834"
+    },
+    "WA_wolf_boss_01_180": {
+      "bank": 11,
+      "id": "154034610"
+    },
+    "WA_wolf_boss_02_189": {
+      "bank": 11,
+      "id": "102538847"
+    },
+    "WA_wolf_boss_02__dist_loop_perc_189": {
+      "bank": 11,
+      "id": "620984195"
+    },
+    "WA_wolf_boss_trans_01_180": {
+      "bank": 11,
+      "id": "341358118"
+    },
+    "Water": {
+      "bank": 18,
+      "id": "2654748154"
+    },
+    "Water_depth": {
+      "bank": 18,
+      "id": "430223108"
+    },
+    "Water_distance": {
+      "bank": 10,
+      "id": "1642165204"
+    },
+    "Weather": {
+      "bank": 12,
+      "id": "317282339"
+    },
+    "Win": {
+      "bank": 12,
+      "id": "979765101"
+    },
+    "Within_proximity": {
+      "bank": 12,
+      "id": "1609046802"
+    },
+    "Wolf": {
+      "bank": 22,
+      "id": "2041272125"
+    },
+    "WolfCub": {
+      "bank": 22,
+      "id": "367405881"
+    },
+    "WolfFireElemental": {
+      "bank": 22,
+      "id": "2983088016"
+    },
+    "WolfGiantFlame": {
+      "bank": 22,
+      "id": "3901191021"
+    },
+    "Wolf_Mountain_Adventure": {
+      "bank": 12,
+      "id": "815397384"
+    },
+    "Wolf_large": {
+      "bank": 22,
+      "id": "1798425421"
+    },
+    "Wood": {
+      "bank": 18,
+      "id": "2058049674"
+    },
+    "Wooden_GiantClub": {
+      "bank": 18,
+      "id": "1284908109"
+    },
+    "Wooden_GiantClub_Player": {
+      "bank": 18,
+      "id": "549019231"
+    },
+    "Wooden_Shield": {
+      "bank": 18,
+      "id": "1394861737"
+    },
+    "Yeti": {
+      "bank": 22,
+      "id": "2290853914"
+    },
+    "YetiChief": {
+      "bank": 22,
+      "id": "2306821389"
+    },
+    "Yeti_Cave_Adventure": {
+      "bank": 12,
+      "id": "3430664195"
+    },
+    "Yeti_theme_01_156bpm": {
+      "bank": 11,
+      "id": "361523983"
+    },
+    "Yeti_theme_02_156bpm": {
+      "bank": 11,
+      "id": "522490072"
+    },
+    "Yeti_theme_03_156_bpm": {
+      "bank": 11,
+      "id": "10847683"
+    },
+    "a_human_emote_attack": {
+      "bank": 18,
+      "id": "207889882"
+    },
+    "a_human_emote_beckon": {
+      "bank": 18,
+      "id": "481828082"
+    },
+    "a_human_emote_cheer": {
+      "bank": 18,
+      "id": "656838968"
+    },
+    "a_human_emote_dance": {
+      "bank": 18,
+      "id": "475737704"
+    },
+    "a_human_emote_fail": {
+      "bank": 18,
+      "id": "908955745"
+    },
+    "a_human_emote_no": {
+      "bank": 18,
+      "id": "21421568"
+    },
+    "a_human_emote_taunt": {
+      "bank": 18,
+      "id": "670703574"
+    },
+    "a_human_emote_wave": {
+      "bank": 18,
+      "id": "69777389"
+    },
+    "airship_deactivate": {
+      "bank": 5,
+      "id": "744270251"
+    },
+    "airship_engine_damaged_01": {
+      "bank": 5,
+      "id": "554344784"
+    },
+    "airship_engine_damaged_02": {
+      "bank": 5,
+      "id": "677961285"
+    },
+    "airship_engine_damaged_03": {
+      "bank": 5,
+      "id": "816845872"
+    },
+    "airship_engine_damaged_loop": {
+      "bank": 5,
+      "id": "409322473"
+    },
+    "airship_engine_loop": {
+      "bank": 5,
+      "id": "913591011"
+    },
+    "anvil_hammer_hit_03": {
+      "bank": 5,
+      "id": "481324609"
+    },
+    "anvil_mechanism": {
+      "bank": 5,
+      "id": "900930077"
+    },
+    "anvil_ui_close": {
+      "bank": 5,
+      "id": "664305411"
+    },
+    "anvil_ui_open": {
+      "bank": 5,
+      "id": "133175770"
+    },
+    "archer_fstep_jump_dirt": {
+      "bank": 1,
+      "id": "865416009"
+    },
+    "archer_fstep_jump_sand": {
+      "bank": 1,
+      "id": "790266920"
+    },
+    "archer_fstep_jump_snow": {
+      "bank": 1,
+      "id": "849519229"
+    },
+    "archer_fstep_jump_stone": {
+      "bank": 1,
+      "id": "523915668"
+    },
+    "archer_fstep_jump_wood": {
+      "bank": 1,
+      "id": "592369212"
+    },
+    "archer_fstep_land_dirt": {
+      "bank": 1,
+      "id": "134736744"
+    },
+    "archer_fstep_land_sand": {
+      "bank": 1,
+      "id": "852670875"
+    },
+    "archer_fstep_land_snow": {
+      "bank": 1,
+      "id": "85696117"
+    },
+    "archer_fstep_land_stone": {
+      "bank": 1,
+      "id": "385836971"
+    },
+    "archer_fstep_land_wood": {
+      "bank": 1,
+      "id": "672080590"
+    },
+    "archer_fstep_run_dirt_01": {
+      "bank": 1,
+      "id": "1028265961"
+    },
+    "archer_fstep_run_dirt_02": {
+      "bank": 1,
+      "id": "302369199"
+    },
+    "archer_fstep_run_dirt_03": {
+      "bank": 1,
+      "id": "693347162"
+    },
+    "archer_fstep_run_dirt_04": {
+      "bank": 1,
+      "id": "22858532"
+    },
+    "archer_fstep_run_dirt_05": {
+      "bank": 1,
+      "id": "453535877"
+    },
+    "archer_fstep_run_dirt_06": {
+      "bank": 1,
+      "id": "117348869"
+    },
+    "archer_fstep_run_sand_01": {
+      "bank": 1,
+      "id": "527038438"
+    },
+    "archer_fstep_run_sand_02": {
+      "bank": 1,
+      "id": "151863510"
+    },
+    "archer_fstep_run_sand_03": {
+      "bank": 1,
+      "id": "850495899"
+    },
+    "archer_fstep_run_sand_04": {
+      "bank": 1,
+      "id": "599416316"
+    },
+    "archer_fstep_run_sand_05": {
+      "bank": 1,
+      "id": "527385057"
+    },
+    "archer_fstep_run_sand_06": {
+      "bank": 1,
+      "id": "475383627"
+    },
+    "archer_fstep_run_snow_01": {
+      "bank": 1,
+      "id": "953909255"
+    },
+    "archer_fstep_run_snow_02": {
+      "bank": 1,
+      "id": "145309642"
+    },
+    "archer_fstep_run_snow_03": {
+      "bank": 1,
+      "id": "376939612"
+    },
+    "archer_fstep_run_snow_04": {
+      "bank": 1,
+      "id": "825089283"
+    },
+    "archer_fstep_run_snow_05": {
+      "bank": 1,
+      "id": "279736517"
+    },
+    "archer_fstep_run_snow_06": {
+      "bank": 1,
+      "id": "20716024"
+    },
+    "archer_fstep_run_stone_01": {
+      "bank": 1,
+      "id": "697767792"
+    },
+    "archer_fstep_run_stone_02": {
+      "bank": 1,
+      "id": "257932526"
+    },
+    "archer_fstep_run_stone_03": {
+      "bank": 1,
+      "id": "484352163"
+    },
+    "archer_fstep_run_stone_04": {
+      "bank": 1,
+      "id": "435266437"
+    },
+    "archer_fstep_run_stone_05": {
+      "bank": 1,
+      "id": "129571386"
+    },
+    "archer_fstep_run_stone_06": {
+      "bank": 1,
+      "id": "412827553"
+    },
+    "archer_fstep_run_wood_01": {
+      "bank": 1,
+      "id": "898654884"
+    },
+    "archer_fstep_run_wood_02": {
+      "bank": 1,
+      "id": "191919730"
+    },
+    "archer_fstep_run_wood_03": {
+      "bank": 1,
+      "id": "161603680"
+    },
+    "archer_fstep_run_wood_04": {
+      "bank": 1,
+      "id": "890362679"
+    },
+    "archer_fstep_run_wood_05": {
+      "bank": 1,
+      "id": "362376872"
+    },
+    "archer_fstep_run_wood_06": {
+      "bank": 1,
+      "id": "607218398"
+    },
+    "archer_fstep_walk_dirt_01": {
+      "bank": 1,
+      "id": "576257747"
+    },
+    "archer_fstep_walk_dirt_02": {
+      "bank": 1,
+      "id": "867125124"
+    },
+    "archer_fstep_walk_dirt_03": {
+      "bank": 1,
+      "id": "493633825"
+    },
+    "archer_fstep_walk_dirt_04": {
+      "bank": 1,
+      "id": "912747759"
+    },
+    "archer_fstep_walk_dirt_05": {
+      "bank": 1,
+      "id": "527795718"
+    },
+    "archer_fstep_walk_dirt_06": {
+      "bank": 1,
+      "id": "54311338"
+    },
+    "archer_fstep_walk_sand_01": {
+      "bank": 1,
+      "id": "435652874"
+    },
+    "archer_fstep_walk_sand_02": {
+      "bank": 1,
+      "id": "613965329"
+    },
+    "archer_fstep_walk_sand_03": {
+      "bank": 1,
+      "id": "449093628"
+    },
+    "archer_fstep_walk_sand_04": {
+      "bank": 1,
+      "id": "881669266"
+    },
+    "archer_fstep_walk_sand_05": {
+      "bank": 1,
+      "id": "86313043"
+    },
+    "archer_fstep_walk_sand_06": {
+      "bank": 1,
+      "id": "461223918"
+    },
+    "archer_fstep_walk_snow_01": {
+      "bank": 1,
+      "id": "1026213208"
+    },
+    "archer_fstep_walk_snow_02": {
+      "bank": 1,
+      "id": "246678995"
+    },
+    "archer_fstep_walk_snow_03": {
+      "bank": 1,
+      "id": "829167827"
+    },
+    "archer_fstep_walk_snow_04": {
+      "bank": 1,
+      "id": "577345329"
+    },
+    "archer_fstep_walk_snow_05": {
+      "bank": 1,
+      "id": "380207781"
+    },
+    "archer_fstep_walk_snow_06": {
+      "bank": 1,
+      "id": "625248679"
+    },
+    "archer_fstep_walk_stone_01": {
+      "bank": 1,
+      "id": "140832416"
+    },
+    "archer_fstep_walk_stone_02": {
+      "bank": 1,
+      "id": "151614637"
+    },
+    "archer_fstep_walk_stone_03": {
+      "bank": 1,
+      "id": "514048910"
+    },
+    "archer_fstep_walk_stone_04": {
+      "bank": 1,
+      "id": "854267780"
+    },
+    "archer_fstep_walk_stone_05": {
+      "bank": 1,
+      "id": "608571346"
+    },
+    "archer_fstep_walk_stone_06": {
+      "bank": 1,
+      "id": "1018823228"
+    },
+    "archer_fstep_walk_wood_01": {
+      "bank": 1,
+      "id": "686749607"
+    },
+    "archer_fstep_walk_wood_02": {
+      "bank": 1,
+      "id": "397443112"
+    },
+    "archer_fstep_walk_wood_03": {
+      "bank": 1,
+      "id": "1025148252"
+    },
+    "archer_fstep_walk_wood_04": {
+      "bank": 1,
+      "id": "318129979"
+    },
+    "archer_fstep_walk_wood_05": {
+      "bank": 1,
+      "id": "439398333"
+    },
+    "archer_fstep_walk_wood_06": {
+      "bank": 1,
+      "id": "358780993"
+    },
+    "arm_move_foley_cloth_01": {
+      "bank": 18,
+      "id": "337082634"
+    },
+    "arm_move_foley_cloth_02": {
+      "bank": 18,
+      "id": "673353087"
+    },
+    "arm_move_foley_cloth_03": {
+      "bank": 18,
+      "id": "53575790"
+    },
+    "arm_move_foley_cloth_04": {
+      "bank": 18,
+      "id": "488384123"
+    },
+    "arm_move_foley_cloth_05": {
+      "bank": 18,
+      "id": "196059904"
+    },
+    "arm_move_foley_rattle_01": {
+      "bank": 18,
+      "id": "990577990"
+    },
+    "arm_move_foley_rattle_02": {
+      "bank": 18,
+      "id": "14897329"
+    },
+    "arrow_fire_bass": {
+      "bank": 22,
+      "id": "398594932"
+    },
+    "arrow_fire_wood_01": {
+      "bank": 22,
+      "id": "137946931"
+    },
+    "arrow_fire_wood_02": {
+      "bank": 22,
+      "id": "310257917"
+    },
+    "arrow_fire_woosh_01": {
+      "bank": 22,
+      "id": "168698233"
+    },
+    "arrow_fire_woosh_02": {
+      "bank": 22,
+      "id": "207325711"
+    },
+    "arrow_fire_woosh_03": {
+      "bank": 22,
+      "id": "43836053"
+    },
+    "arrow_fly_01": {
+      "bank": 18,
+      "id": "128893757"
+    },
+    "arrow_fly_02": {
+      "bank": 18,
+      "id": "899516179"
+    },
+    "arrow_fly_03": {
+      "bank": 18,
+      "id": "458369921"
+    },
+    "arrow_fly_04": {
+      "bank": 18,
+      "id": "218517587"
+    },
+    "arrow_fly_05": {
+      "bank": 18,
+      "id": "1041682147"
+    },
+    "arrow_fly_06": {
+      "bank": 18,
+      "id": "75888730"
+    },
+    "arrow_impact_crystal_01": {
+      "bank": 0,
+      "id": "129984843"
+    },
+    "arrow_impact_crystal_02": {
+      "bank": 0,
+      "id": "995783811"
+    },
+    "arrow_impact_crystal_03": {
+      "bank": 0,
+      "id": "894364769"
+    },
+    "arrow_impact_dirt_01": {
+      "bank": 28,
+      "id": "176139358"
+    },
+    "arrow_impact_dirt_02": {
+      "bank": 28,
+      "id": "6146266"
+    },
+    "arrow_impact_dirt_03": {
+      "bank": 28,
+      "id": "110369529"
+    },
+    "arrow_impact_leaves_01": {
+      "bank": 0,
+      "id": "1047552193"
+    },
+    "arrow_impact_leaves_02": {
+      "bank": 0,
+      "id": "805060541"
+    },
+    "arrow_impact_leaves_03": {
+      "bank": 0,
+      "id": "1068055548"
+    },
+    "arrow_impact_sand_01": {
+      "bank": 0,
+      "id": "424985073"
+    },
+    "arrow_impact_sand_02": {
+      "bank": 0,
+      "id": "190858856"
+    },
+    "arrow_impact_sand_03": {
+      "bank": 0,
+      "id": "322758376"
+    },
+    "arrow_impact_snow_01": {
+      "bank": 0,
+      "id": "430200750"
+    },
+    "arrow_impact_snow_02": {
+      "bank": 0,
+      "id": "138407327"
+    },
+    "arrow_impact_snow_03": {
+      "bank": 0,
+      "id": "126259066"
+    },
+    "arrow_impact_stone_01": {
+      "bank": 31,
+      "id": "989051069"
+    },
+    "arrow_impact_stone_02": {
+      "bank": 31,
+      "id": "475191544"
+    },
+    "arrow_impact_stone_03": {
+      "bank": 31,
+      "id": "658333532"
+    },
+    "arrow_impact_wood_01": {
+      "bank": 39,
+      "id": "155491840"
+    },
+    "arrow_impact_wood_02": {
+      "bank": 39,
+      "id": "847589838"
+    },
+    "arrow_impact_wood_03": {
+      "bank": 39,
+      "id": "79621992"
+    },
+    "arrow_load_rope_stretch_01": {
+      "bank": 22,
+      "id": "614214388"
+    },
+    "arrow_load_rope_stretch_02": {
+      "bank": 22,
+      "id": "960312154"
+    },
+    "arrow_load_rope_stretch_03": {
+      "bank": 22,
+      "id": "874930668"
+    },
+    "arrow_load_rope_stretch_04": {
+      "bank": 22,
+      "id": "334095979"
+    },
+    "arrow_load_rope_stretch_05": {
+      "bank": 22,
+      "id": "953346516"
+    },
+    "baby_dino_die_VO_01": {
+      "bank": 20,
+      "id": "233738613"
+    },
+    "baby_dino_die_VO_02": {
+      "bank": 20,
+      "id": "488809408"
+    },
+    "baby_dino_die_VO_03": {
+      "bank": 20,
+      "id": "861993851"
+    },
+    "baby_dino_hit_VO_01": {
+      "bank": 20,
+      "id": "676389701"
+    },
+    "baby_dino_hit_VO_02": {
+      "bank": 20,
+      "id": "162895301"
+    },
+    "baby_dino_hit_VO_03": {
+      "bank": 20,
+      "id": "122552606"
+    },
+    "baby_dino_idle_VO_01": {
+      "bank": 20,
+      "id": "695178323"
+    },
+    "baby_dino_idle_VO_02": {
+      "bank": 20,
+      "id": "470116146"
+    },
+    "baby_dino_idle_VO_03": {
+      "bank": 20,
+      "id": "544183650"
+    },
+    "banditGoblin_VO_attack_01": {
+      "bank": 1,
+      "id": "44827601"
+    },
+    "banditGoblin_VO_attack_02": {
+      "bank": 1,
+      "id": "307469957"
+    },
+    "banditGoblin_VO_attack_03": {
+      "bank": 1,
+      "id": "199001835"
+    },
+    "banditGoblin_VO_attack_04": {
+      "bank": 1,
+      "id": "4883739"
+    },
+    "banditGoblin_VO_charge_attk_heavy_01": {
+      "bank": 1,
+      "id": "5955076"
+    },
+    "banditGoblin_VO_charge_attk_heavy_02": {
+      "bank": 1,
+      "id": "45074826"
+    },
+    "banditGoblin_VO_charge_attk_light_01": {
+      "bank": 1,
+      "id": "398153620"
+    },
+    "banditGoblin_VO_charge_attk_light_02": {
+      "bank": 1,
+      "id": "68831921"
+    },
+    "banditGoblin_VO_death_01": {
+      "bank": 1,
+      "id": "184673090"
+    },
+    "banditGoblin_VO_death_02": {
+      "bank": 1,
+      "id": "112803602"
+    },
+    "banditGoblin_VO_death_03": {
+      "bank": 1,
+      "id": "106180401"
+    },
+    "banditGoblin_VO_death_04": {
+      "bank": 1,
+      "id": "136768772"
+    },
+    "banditGoblin_VO_hit_01": {
+      "bank": 1,
+      "id": "276446040"
+    },
+    "banditGoblin_VO_hit_02": {
+      "bank": 1,
+      "id": "344254845"
+    },
+    "banditGoblin_VO_hit_03": {
+      "bank": 1,
+      "id": "438861659"
+    },
+    "banditGoblin_VO_hit_04": {
+      "bank": 1,
+      "id": "12056540"
+    },
+    "banditGoblin_VO_hit_05": {
+      "bank": 1,
+      "id": "181639604"
+    },
+    "banditGoblin_VO_hit_06": {
+      "bank": 1,
+      "id": "264444135"
+    },
+    "banditGoblin_VO_hit_07": {
+      "bank": 1,
+      "id": "317455751"
+    },
+    "banditGoblin_VO_hit_08": {
+      "bank": 1,
+      "id": "674225108"
+    },
+    "banditleader_VO_attack_01": {
+      "bank": 1,
+      "id": "176240438"
+    },
+    "banditleader_VO_attack_02": {
+      "bank": 1,
+      "id": "5055426"
+    },
+    "banditleader_VO_attack_03": {
+      "bank": 1,
+      "id": "79834245"
+    },
+    "banditleader_VO_attack_04": {
+      "bank": 1,
+      "id": "10792449"
+    },
+    "banditleader_VO_charge_attk_light_01": {
+      "bank": 1,
+      "id": "2730744"
+    },
+    "banditleader_VO_charge_attk_light_02": {
+      "bank": 1,
+      "id": "21986244"
+    },
+    "banditleader_VO_charge_attk_light_03": {
+      "bank": 1,
+      "id": "134300784"
+    },
+    "banditleader_VO_death_01": {
+      "bank": 1,
+      "id": "114950165"
+    },
+    "banditleader_VO_hit_01": {
+      "bank": 1,
+      "id": "491426138"
+    },
+    "banditleader_VO_hit_02": {
+      "bank": 1,
+      "id": "379771347"
+    },
+    "banditleader_VO_hit_03": {
+      "bank": 1,
+      "id": "44767616"
+    },
+    "banditleader_VO_hit_04": {
+      "bank": 1,
+      "id": "114537526"
+    },
+    "banditleader_VO_hit_05": {
+      "bank": 1,
+      "id": "342525746"
+    },
+    "banditleader_VO_hit_06": {
+      "bank": 1,
+      "id": "110715421"
+    },
+    "banditleader_VO_hit_07": {
+      "bank": 1,
+      "id": "680945454"
+    },
+    "battle_state": {
+      "bank": 12,
+      "id": "2739846761"
+    },
+    "bear_attack_spit_01": {
+      "bank": 1,
+      "id": "627260660"
+    },
+    "bear_attack_swipe": {
+      "bank": 13,
+      "id": "394561441"
+    },
+    "bear_attack_swipe_vo_01": {
+      "bank": 13,
+      "id": "112326797"
+    },
+    "bear_attk_idle_01": {
+      "bank": 1,
+      "id": "1000002181"
+    },
+    "bear_attk_idle_02": {
+      "bank": 1,
+      "id": "199325035"
+    },
+    "bear_body_fall_impact": {
+      "bank": 13,
+      "id": "979409693"
+    },
+    "bear_breath_run_01": {
+      "bank": 13,
+      "id": "842585238"
+    },
+    "bear_breath_run_02": {
+      "bank": 13,
+      "id": "1004810404"
+    },
+    "bear_breath_run_03": {
+      "bank": 13,
+      "id": "336622170"
+    },
+    "bear_breath_walk_01": {
+      "bank": 13,
+      "id": "649785241"
+    },
+    "bear_breath_walk_02": {
+      "bank": 13,
+      "id": "225179860"
+    },
+    "bear_breath_walk_03": {
+      "bank": 13,
+      "id": "913036865"
+    },
+    "bear_breath_walk_04": {
+      "bank": 13,
+      "id": "100669389"
+    },
+    "bear_claw_attack_active": {
+      "bank": 13,
+      "id": "762614301"
+    },
+    "bear_claw_attack_active_vo_01": {
+      "bank": 13,
+      "id": "166201680"
+    },
+    "bear_claw_attack_active_vo_02": {
+      "bank": 13,
+      "id": "283569669"
+    },
+    "bear_claw_attack_recoil": {
+      "bank": 13,
+      "id": "467722580"
+    },
+    "bear_claw_attack_recover": {
+      "bank": 13,
+      "id": "221136186"
+    },
+    "bear_claw_charge_VO_01": {
+      "bank": 13,
+      "id": "215566118"
+    },
+    "bear_claw_charge_VO_02": {
+      "bank": 13,
+      "id": "9614848"
+    },
+    "bear_death_01_vo": {
+      "bank": 13,
+      "id": "153095119"
+    },
+    "bear_fstep_run_01": {
+      "bank": 13,
+      "id": "45506981"
+    },
+    "bear_fstep_run_02": {
+      "bank": 13,
+      "id": "323874458"
+    },
+    "bear_fstep_run_03": {
+      "bank": 13,
+      "id": "29673712"
+    },
+    "bear_fstep_walk_01": {
+      "bank": 13,
+      "id": "283945311"
+    },
+    "bear_fstep_walk_02": {
+      "bank": 13,
+      "id": "753047823"
+    },
+    "bear_fstep_walk_03": {
+      "bank": 13,
+      "id": "77526126"
+    },
+    "bear_fstep_walk_04": {
+      "bank": 13,
+      "id": "947478949"
+    },
+    "bear_hit_vo_01": {
+      "bank": 13,
+      "id": "694935036"
+    },
+    "bear_hit_vo_02": {
+      "bank": 13,
+      "id": "434457309"
+    },
+    "bear_hit_vo_03": {
+      "bank": 13,
+      "id": "562219542"
+    },
+    "bear_hit_vo_04": {
+      "bank": 13,
+      "id": "240285215"
+    },
+    "bear_hit_vo_05": {
+      "bank": 13,
+      "id": "712437835"
+    },
+    "bear_idle_01": {
+      "bank": 13,
+      "id": "988014385"
+    },
+    "bear_idle_02": {
+      "bank": 13,
+      "id": "744425152"
+    },
+    "bear_idle_03": {
+      "bank": 13,
+      "id": "927782219"
+    },
+    "bear_pounce_active_vo_01": {
+      "bank": 13,
+      "id": "875482839"
+    },
+    "bear_pounce_active_vo_02": {
+      "bank": 13,
+      "id": "1020658615"
+    },
+    "bear_pounce_recoil": {
+      "bank": 13,
+      "id": "555111910"
+    },
+    "bear_sleep_01": {
+      "bank": 13,
+      "id": "474840855"
+    },
+    "bear_sleep_02": {
+      "bank": 13,
+      "id": "1070703981"
+    },
+    "bear_sleep_03": {
+      "bank": 13,
+      "id": "794653211"
+    },
+    "bear_sleep_04": {
+      "bank": 13,
+      "id": "870709994"
+    },
+    "bear_sleep_05": {
+      "bank": 13,
+      "id": "845827490"
+    },
+    "bear_sleep_06": {
+      "bank": 13,
+      "id": "568778184"
+    },
+    "bear_sleep_in": {
+      "bank": 13,
+      "id": "123688621"
+    },
+    "bear_sleep_out": {
+      "bank": 13,
+      "id": "602192655"
+    },
+    "bell_hat_end": {
+      "bank": 18,
+      "id": "228151413"
+    },
+    "bell_hat_end_02": {
+      "bank": 18,
+      "id": "745363273"
+    },
+    "bell_hat_end_03": {
+      "bank": 18,
+      "id": "783871121"
+    },
+    "bone_destoryed_02": {
+      "bank": 2,
+      "id": "793600331"
+    },
+    "bone_destroyed_01": {
+      "bank": 2,
+      "id": "798916567"
+    },
+    "bone_destroyed_03": {
+      "bank": 2,
+      "id": "601416943"
+    },
+    "bone_hit_01": {
+      "bank": 2,
+      "id": "119553959"
+    },
+    "bone_hit_02": {
+      "bank": 2,
+      "id": "919200609"
+    },
+    "bone_hit_03": {
+      "bank": 2,
+      "id": "3263066"
+    },
+    "boundary_edge_wind_loop": {
+      "bank": 10,
+      "id": "56535916"
+    },
+    "braizers_torch_loop_02": {
+      "bank": 23,
+      "id": "97563690"
+    },
+    "braizers_torch_loop_03": {
+      "bank": 23,
+      "id": "669467410"
+    },
+    "braizers_torch_loop_04": {
+      "bank": 23,
+      "id": "169386540"
+    },
+    "bug_attack_active_buzz": {
+      "bank": 22,
+      "id": "351027404"
+    },
+    "bug_attack_active_spit": {
+      "bank": 20,
+      "id": "504549423"
+    },
+    "bug_attack_active_spit_wsh_01": {
+      "bank": 20,
+      "id": "590500572"
+    },
+    "bug_attack_active_spit_wsh_02": {
+      "bank": 20,
+      "id": "673557625"
+    },
+    "bug_attack_active_spit_wsh_03": {
+      "bank": 20,
+      "id": "718501966"
+    },
+    "bug_attack_active_vo_01": {
+      "bank": 20,
+      "id": "303280364"
+    },
+    "bug_attack_active_vo_02": {
+      "bank": 20,
+      "id": "970150911"
+    },
+    "bug_attack_active_vo_03": {
+      "bank": 20,
+      "id": "623035982"
+    },
+    "bug_attack_charge_buzz": {
+      "bank": 20,
+      "id": "592748313"
+    },
+    "bug_attack_charge_spit": {
+      "bank": 20,
+      "id": "318136477"
+    },
+    "bug_attack_charge_wingflap": {
+      "bank": 20,
+      "id": "656818466"
+    },
+    "bug_attack_recoil_buzz": {
+      "bank": 20,
+      "id": "38543376"
+    },
+    "bug_attack_recoil_wingflap": {
+      "bank": 20,
+      "id": "1000226636"
+    },
+    "bug_attack_recover_buzz": {
+      "bank": 20,
+      "id": "129865831"
+    },
+    "bug_attack_recover_spit": {
+      "bank": 20,
+      "id": "270577814"
+    },
+    "bug_body_impact": {
+      "bank": 20,
+      "id": "30818884"
+    },
+    "bug_breathe_buzz_01": {
+      "bank": 20,
+      "id": "340514149"
+    },
+    "bug_breathe_buzz_02": {
+      "bank": 20,
+      "id": "319344612"
+    },
+    "bug_breathe_buzz_03": {
+      "bank": 20,
+      "id": "126717650"
+    },
+    "bug_breathe_wingflap_01": {
+      "bank": 20,
+      "id": "192571979"
+    },
+    "bug_breathe_wingflap_02": {
+      "bank": 20,
+      "id": "575993019"
+    },
+    "bug_breathe_wingflap_03": {
+      "bank": 20,
+      "id": "3660295"
+    },
+    "bug_breathe_wingflap_04": {
+      "bank": 20,
+      "id": "691513449"
+    },
+    "bug_breathe_wingflap_05": {
+      "bank": 20,
+      "id": "143387885"
+    },
+    "bug_breathe_wingflap_06": {
+      "bank": 20,
+      "id": "179135658"
+    },
+    "bug_death_buzz_01": {
+      "bank": 20,
+      "id": "12725598"
+    },
+    "bug_death_vo_01": {
+      "bank": 20,
+      "id": "276836115"
+    },
+    "bug_death_vo_02": {
+      "bank": 20,
+      "id": "230770742"
+    },
+    "bug_death_vo_03": {
+      "bank": 20,
+      "id": "817114294"
+    },
+    "bug_hit_base_layer": {
+      "bank": 20,
+      "id": "477565126"
+    },
+    "bug_hit_buzz_01": {
+      "bank": 20,
+      "id": "978026023"
+    },
+    "bug_hit_buzz_02": {
+      "bank": 20,
+      "id": "700123727"
+    },
+    "bug_hit_buzz_03": {
+      "bank": 20,
+      "id": "298439087"
+    },
+    "bug_hit_crunch_layer": {
+      "bank": 20,
+      "id": "893551559"
+    },
+    "bug_hit_vo_01": {
+      "bank": 20,
+      "id": "963393015"
+    },
+    "bug_hit_vo_02": {
+      "bank": 20,
+      "id": "509753898"
+    },
+    "bug_hit_vo_03": {
+      "bank": 20,
+      "id": "671761591"
+    },
+    "bug_hit_vo_04": {
+      "bank": 20,
+      "id": "756777392"
+    },
+    "bug_hit_vo_05": {
+      "bank": 20,
+      "id": "626183706"
+    },
+    "bug_hit_vo_06": {
+      "bank": 20,
+      "id": "677874309"
+    },
+    "bug_walk_01": {
+      "bank": 20,
+      "id": "60062629"
+    },
+    "bug_walk_02": {
+      "bank": 20,
+      "id": "389619851"
+    },
+    "bug_walk_03": {
+      "bank": 20,
+      "id": "288452644"
+    },
+    "bug_walk_04": {
+      "bank": 20,
+      "id": "732635048"
+    },
+    "bug_walk_05": {
+      "bank": 20,
+      "id": "203077619"
+    },
+    "bug_walk_wingflap_01": {
+      "bank": 20,
+      "id": "96324207"
+    },
+    "bug_walk_wingflap_02": {
+      "bank": 20,
+      "id": "151932015"
+    },
+    "bug_walk_wingflap_03": {
+      "bank": 20,
+      "id": "775461792"
+    },
+    "bug_walk_wingflap_04": {
+      "bank": 20,
+      "id": "426453051"
+    },
+    "bug_walk_wingflap_05": {
+      "bank": 20,
+      "id": "172230172"
+    },
+    "bug_walk_wingflap_06": {
+      "bank": 20,
+      "id": "210321255"
+    },
+    "cacti_active_attk": {
+      "bank": 17,
+      "id": "237604247"
+    },
+    "cacti_breathe_angry": {
+      "bank": 17,
+      "id": "48290124"
+    },
+    "cacti_breathe_unarmed_01": {
+      "bank": 17,
+      "id": "400478453"
+    },
+    "cacti_breathe_unarmed_02": {
+      "bank": 17,
+      "id": "238694808"
+    },
+    "cacti_charge_attk": {
+      "bank": 17,
+      "id": "193379446"
+    },
+    "cacti_death": {
+      "bank": 17,
+      "id": "36381478"
+    },
+    "cacti_hit": {
+      "bank": 17,
+      "id": "41356678"
+    },
+    "cacti_rearm": {
+      "bank": 17,
+      "id": "110281561"
+    },
+    "cacti_recover_attk": {
+      "bank": 17,
+      "id": "84129912"
+    },
+    "cacti_spawn": {
+      "bank": 17,
+      "id": "309394791"
+    },
+    "canvas_hit_01": {
+      "bank": 16,
+      "id": "911244533"
+    },
+    "canvas_hit_02": {
+      "bank": 16,
+      "id": "389472272"
+    },
+    "canvas_hit_03": {
+      "bank": 16,
+      "id": "431960803"
+    },
+    "cave_int_wind_01": {
+      "bank": 10,
+      "id": "768626096"
+    },
+    "cave_mouth_v2": {
+      "bank": 11,
+      "id": "627811608"
+    },
+    "ceramic_hit_01": {
+      "bank": 4,
+      "id": "383690660"
+    },
+    "cft_blue_win": {
+      "bank": 12,
+      "id": "2108209466"
+    },
+    "cft_countdown": {
+      "bank": 12,
+      "id": "260726390"
+    },
+    "cft_roundEnding": {
+      "bank": 12,
+      "id": "3980194526"
+    },
+    "cft_start": {
+      "bank": 12,
+      "id": "2253653795"
+    },
+    "chest_close": {
+      "bank": 5,
+      "id": "965654466"
+    },
+    "chest_open": {
+      "bank": 5,
+      "id": "747159102"
+    },
+    "chicken_Peck_attk_active": {
+      "bank": 20,
+      "id": "42013508"
+    },
+    "chicken_Peck_attk_charge": {
+      "bank": 20,
+      "id": "455737266"
+    },
+    "chicken_Peck_attk_recover": {
+      "bank": 20,
+      "id": "64352706"
+    },
+    "chicken_death_01": {
+      "bank": 20,
+      "id": "133980476"
+    },
+    "chicken_death_02": {
+      "bank": 20,
+      "id": "211861085"
+    },
+    "chicken_death_03": {
+      "bank": 20,
+      "id": "60836831"
+    },
+    "chicken_fstep_01": {
+      "bank": 20,
+      "id": "345054002"
+    },
+    "chicken_fstep_02": {
+      "bank": 20,
+      "id": "855053355"
+    },
+    "chicken_hit_01": {
+      "bank": 20,
+      "id": "852552829"
+    },
+    "chicken_hit_02": {
+      "bank": 20,
+      "id": "757287269"
+    },
+    "chicken_hit_vo_01": {
+      "bank": 20,
+      "id": "1018588523"
+    },
+    "chicken_hit_vo_02": {
+      "bank": 20,
+      "id": "177529548"
+    },
+    "chicken_hit_vo_03": {
+      "bank": 20,
+      "id": "738473410"
+    },
+    "chicken_idle_01": {
+      "bank": 20,
+      "id": "579517231"
+    },
+    "chicken_idle_02": {
+      "bank": 20,
+      "id": "674090092"
+    },
+    "chicken_jumpIn": {
+      "bank": 20,
+      "id": "231005743"
+    },
+    "chicken_jumpOut": {
+      "bank": 20,
+      "id": "187995745"
+    },
+    "chicken_sleepIn": {
+      "bank": 20,
+      "id": "412263849"
+    },
+    "chicken_sleepOut": {
+      "bank": 20,
+      "id": "68883376"
+    },
+    "chicken_sleepOutFast": {
+      "bank": 20,
+      "id": "243002394"
+    },
+    "chicken_sleep_01": {
+      "bank": 20,
+      "id": "472373955"
+    },
+    "chicken_sleep_02": {
+      "bank": 20,
+      "id": "81375675"
+    },
+    "chicken_sleep_03": {
+      "bank": 20,
+      "id": "1058984936"
+    },
+    "chicken_walk_squark_01": {
+      "bank": 20,
+      "id": "237745585"
+    },
+    "chicken_walk_squark_02": {
+      "bank": 20,
+      "id": "845814041"
+    },
+    "chicken_walk_squark_03": {
+      "bank": 20,
+      "id": "414480312"
+    },
+    "chicken_walk_squark_04": {
+      "bank": 20,
+      "id": "86659795"
+    },
+    "chicken_walk_squark_05": {
+      "bank": 20,
+      "id": "736688404"
+    },
+    "chicken_walk_squark_06": {
+      "bank": 20,
+      "id": "104422405"
+    },
+    "close_backpack": {
+      "bank": 24,
+      "id": "341551165"
+    },
+    "close_crafting": {
+      "bank": 24,
+      "id": "109309408"
+    },
+    "coin_get_pickup": {
+      "bank": 18,
+      "id": "121190702"
+    },
+    "coin_pickup_land": {
+      "bank": 9,
+      "id": "1002461426"
+    },
+    "coin_player_drops_pickup": {
+      "bank": 9,
+      "id": "763943158"
+    },
+    "craft_complete": {
+      "bank": 24,
+      "id": "310946295"
+    },
+    "creature_hit_01": {
+      "bank": 17,
+      "id": "215654980"
+    },
+    "creature_hit_02": {
+      "bank": 17,
+      "id": "1051479475"
+    },
+    "creature_idle_loop": {
+      "bank": 17,
+      "id": "594426204"
+    },
+    "creature_projectile_impact_v2": {
+      "bank": 17,
+      "id": "33285921"
+    },
+    "creature_projectile_impact_v2_b": {
+      "bank": 17,
+      "id": "863018031"
+    },
+    "creature_projectile_impact_v2_c": {
+      "bank": 17,
+      "id": "923535267"
+    },
+    "crreature_projectile_loop": {
+      "bank": 17,
+      "id": "292815572"
+    },
+    "crystal_pick_impact_01": {
+      "bank": 39,
+      "id": "414365874"
+    },
+    "crystal_pick_impact_02": {
+      "bank": 39,
+      "id": "80656394"
+    },
+    "crystal_pick_impact_03": {
+      "bank": 39,
+      "id": "6634296"
+    },
+    "crystal_pick_impact_04": {
+      "bank": 39,
+      "id": "76154863"
+    },
+    "crystal_pick_impact_05": {
+      "bank": 39,
+      "id": "5431683"
+    },
+    "crystal_pick_reso_01": {
+      "bank": 39,
+      "id": "1369698"
+    },
+    "crystal_pick_reso_02": {
+      "bank": 39,
+      "id": "200065653"
+    },
+    "crystal_pick_reso_03": {
+      "bank": 39,
+      "id": "15009060"
+    },
+    "ctf_end": {
+      "bank": 12,
+      "id": "194361676"
+    },
+    "ctf_flagCaptured": {
+      "bank": 12,
+      "id": "4221194161"
+    },
+    "ctf_flagDropped": {
+      "bank": 12,
+      "id": "82085451"
+    },
+    "ctf_flagRecovered": {
+      "bank": 12,
+      "id": "108333586"
+    },
+    "ctf_flagReset": {
+      "bank": 12,
+      "id": "3646854636"
+    },
+    "ctf_flagStolen": {
+      "bank": 12,
+      "id": "1668132310"
+    },
+    "ctf_flagTaken": {
+      "bank": 12,
+      "id": "2199214100"
+    },
+    "ctf_mode_selected": {
+      "bank": 12,
+      "id": "1626600884"
+    },
+    "ctf_red_win": {
+      "bank": 12,
+      "id": "2739857649"
+    },
+    "ctf_roundEnd": {
+      "bank": 12,
+      "id": "952463694"
+    },
+    "dagger_use_active_01": {
+      "bank": 22,
+      "id": "215390382"
+    },
+    "dagger_use_active_02": {
+      "bank": 22,
+      "id": "334866637"
+    },
+    "dagger_use_active_03": {
+      "bank": 22,
+      "id": "92490425"
+    },
+    "defend_resource": {
+      "bank": 18,
+      "id": "2194281200"
+    },
+    "desert_wind_day_amb_loop": {
+      "bank": 10,
+      "id": "19541181"
+    },
+    "desert_wind_night_amb_loop": {
+      "bank": 10,
+      "id": "512107026"
+    },
+    "desert_wind_woosh_01": {
+      "bank": 10,
+      "id": "96600713"
+    },
+    "desert_wind_woosh_02": {
+      "bank": 10,
+      "id": "466928238"
+    },
+    "desert_wind_woosh_03": {
+      "bank": 10,
+      "id": "308628317"
+    },
+    "desert_wind_woosh_04": {
+      "bank": 10,
+      "id": "191648667"
+    },
+    "destroy_bone": {
+      "bank": 2,
+      "id": "604545393"
+    },
+    "dino_attack_idle": {
+      "bank": 6,
+      "id": "975360999"
+    },
+    "dino_bite_attack": {
+      "bank": 6,
+      "id": "754332908"
+    },
+    "dino_bite_charge": {
+      "bank": 6,
+      "id": "57766317"
+    },
+    "dino_bite_recoil": {
+      "bank": 6,
+      "id": "956136589"
+    },
+    "dino_body_impact": {
+      "bank": 6,
+      "id": "545103511"
+    },
+    "dino_breathe1_01": {
+      "bank": 6,
+      "id": "356535185"
+    },
+    "dino_breathe1_02": {
+      "bank": 6,
+      "id": "420231523"
+    },
+    "dino_breathe1_03": {
+      "bank": 6,
+      "id": "980963261"
+    },
+    "dino_breathe2": {
+      "bank": 6,
+      "id": "590792141"
+    },
+    "dino_breathe3": {
+      "bank": 6,
+      "id": "310236563"
+    },
+    "dino_breathe4": {
+      "bank": 6,
+      "id": "429214770"
+    },
+    "dino_breathe4_02": {
+      "bank": 6,
+      "id": "49375675"
+    },
+    "dino_breathe_combat": {
+      "bank": 6,
+      "id": "565010820"
+    },
+    "dino_death_long_VO": {
+      "bank": 6,
+      "id": "106542000"
+    },
+    "dino_death_short_VO": {
+      "bank": 6,
+      "id": "400696206"
+    },
+    "dino_fstep_run_01": {
+      "bank": 6,
+      "id": "901904820"
+    },
+    "dino_fstep_run_02": {
+      "bank": 6,
+      "id": "1044035866"
+    },
+    "dino_fstep_run_ruslte_01": {
+      "bank": 6,
+      "id": "44502608"
+    },
+    "dino_fstep_run_ruslte_02": {
+      "bank": 6,
+      "id": "908451623"
+    },
+    "dino_fstep_walk_01": {
+      "bank": 6,
+      "id": "339428606"
+    },
+    "dino_fstep_walk_02": {
+      "bank": 6,
+      "id": "1015114519"
+    },
+    "dino_hit_VO_01": {
+      "bank": 6,
+      "id": "86239757"
+    },
+    "dino_hit_VO_02": {
+      "bank": 6,
+      "id": "600842126"
+    },
+    "dino_hit_impact": {
+      "bank": 6,
+      "id": "671894702"
+    },
+    "dino_jump_in": {
+      "bank": 6,
+      "id": "161853989"
+    },
+    "dino_jump_land": {
+      "bank": 6,
+      "id": "985670952"
+    },
+    "dino_kick_attack": {
+      "bank": 6,
+      "id": "34045946"
+    },
+    "dino_kick_charge": {
+      "bank": 6,
+      "id": "534188060"
+    },
+    "dino_kick_recoil": {
+      "bank": 6,
+      "id": "454922265"
+    },
+    "dino_sleep_in": {
+      "bank": 6,
+      "id": "948122292"
+    },
+    "dino_sleep_out": {
+      "bank": 6,
+      "id": "38071383"
+    },
+    "dino_sleeping": {
+      "bank": 6,
+      "id": "184731286"
+    },
+    "dino_spit_attack": {
+      "bank": 6,
+      "id": "452160189"
+    },
+    "dino_spit_charge": {
+      "bank": 6,
+      "id": "479979882"
+    },
+    "dino_spit_recoil": {
+      "bank": 6,
+      "id": "947237077"
+    },
+    "dirt_debris_01": {
+      "bank": 35,
+      "id": "431774208"
+    },
+    "dirt_debris_02": {
+      "bank": 35,
+      "id": "1040798418"
+    },
+    "dirt_debris_03": {
+      "bank": 35,
+      "id": "726489482"
+    },
+    "dirt_debris_04": {
+      "bank": 35,
+      "id": "482421918"
+    },
+    "dirt_debris_05": {
+      "bank": 35,
+      "id": "981774104"
+    },
+    "dirt_debris_06": {
+      "bank": 35,
+      "id": "338278392"
+    },
+    "drum_destroy": {
+      "bank": 39,
+      "id": "30108159"
+    },
+    "drum_hit_01": {
+      "bank": 39,
+      "id": "815900245"
+    },
+    "drum_hit_02": {
+      "bank": 39,
+      "id": "1061357757"
+    },
+    "escape_menu_close": {
+      "bank": 24,
+      "id": "743941313"
+    },
+    "escape_menu_open": {
+      "bank": 24,
+      "id": "529163597"
+    },
+    "fe_combat_test2_mix": {
+      "bank": 11,
+      "id": "933939852"
+    },
+    "flow_size": {
+      "bank": 10,
+      "id": "3993162599"
+    },
+    "fly_toplayer_bass_synth_element": {
+      "bank": 9,
+      "id": "63726858"
+    },
+    "fly_toplayer_synth_element_02": {
+      "bank": 9,
+      "id": "1031275596"
+    },
+    "fly_toplayer_woosh_element_01": {
+      "bank": 9,
+      "id": "65301506"
+    },
+    "forest_amb_dawn_chorus_loop": {
+      "bank": 10,
+      "id": "330729367"
+    },
+    "forest_bird_spotfx_01": {
+      "bank": 10,
+      "id": "180707634"
+    },
+    "forest_bird_spotfx_02": {
+      "bank": 10,
+      "id": "887822867"
+    },
+    "forest_bird_spotfx_03": {
+      "bank": 10,
+      "id": "406486116"
+    },
+    "forest_bird_spotfx_04": {
+      "bank": 10,
+      "id": "298082861"
+    },
+    "forest_bird_spotfx_05": {
+      "bank": 10,
+      "id": "706661516"
+    },
+    "forest_bird_spotfx_06": {
+      "bank": 10,
+      "id": "467761717"
+    },
+    "forest_day_flies": {
+      "bank": 10,
+      "id": "1027802458"
+    },
+    "forest_daytime_birds_loop": {
+      "bank": 10,
+      "id": "212798610"
+    },
+    "forest_ext_insects_birds_night": {
+      "bank": 10,
+      "id": "815823176"
+    },
+    "forest_ext_wind_day_01": {
+      "bank": 10,
+      "id": "800573784"
+    },
+    "forest_portal_amb_loop": {
+      "bank": 9,
+      "id": "532681290"
+    },
+    "forge_crafting_loop": {
+      "bank": 5,
+      "id": "101513773"
+    },
+    "forge_on_loop": {
+      "bank": 5,
+      "id": "897574852"
+    },
+    "forge_start_up_one_shot": {
+      "bank": 5,
+      "id": "503947016"
+    },
+    "forge_ui_close": {
+      "bank": 5,
+      "id": "989085415"
+    },
+    "forge_ui_open": {
+      "bank": 5,
+      "id": "63106886"
+    },
+    "fortress_combat_01_perc_120bpm": {
+      "bank": 11,
+      "id": "137718809"
+    },
+    "fortress_theme_03": {
+      "bank": 11,
+      "id": "191144817"
+    },
+    "fortress_theme_04_small": {
+      "bank": 11,
+      "id": "501945512"
+    },
+    "fortress_theme_05": {
+      "bank": 11,
+      "id": "932663753"
+    },
+    "fpPlayer_aboveWater": {
+      "bank": 18,
+      "id": "838738652"
+    },
+    "fpPlayer_body_impact_01": {
+      "bank": 18,
+      "id": "28547071"
+    },
+    "fpPlayer_body_impact_02": {
+      "bank": 18,
+      "id": "33354708"
+    },
+    "fpPlayer_body_impact_03": {
+      "bank": 18,
+      "id": "103211057"
+    },
+    "fpPlayer_eat_generic_01": {
+      "bank": 18,
+      "id": "612797059"
+    },
+    "fpPlayer_eat_generic_02": {
+      "bank": 18,
+      "id": "123805531"
+    },
+    "fpPlayer_eat_generic_03": {
+      "bank": 18,
+      "id": "974677544"
+    },
+    "fpPlayer_eat_pumpkin_01": {
+      "bank": 18,
+      "id": "479692694"
+    },
+    "fpPlayer_eat_pumpkin_02": {
+      "bank": 18,
+      "id": "61884893"
+    },
+    "fpPlayer_eat_pumpkin_03": {
+      "bank": 18,
+      "id": "546163220"
+    },
+    "fpPlayer_eat_pumpkin_04": {
+      "bank": 18,
+      "id": "899032035"
+    },
+    "fpPlayer_f_breathe_in_VO_1": {
+      "bank": 18,
+      "id": "658624456"
+    },
+    "fpPlayer_f_breathe_in_VO_2": {
+      "bank": 18,
+      "id": "1053690621"
+    },
+    "fpPlayer_f_breathe_in_VO_3": {
+      "bank": 18,
+      "id": "12685780"
+    },
+    "fpPlayer_f_breathe_in_VO_4": {
+      "bank": 18,
+      "id": "680828976"
+    },
+    "fpPlayer_f_breathe_in_run_VO_1": {
+      "bank": 18,
+      "id": "976077005"
+    },
+    "fpPlayer_f_breathe_in_run_VO_2": {
+      "bank": 18,
+      "id": "445702665"
+    },
+    "fpPlayer_f_breathe_in_run_VO_3": {
+      "bank": 18,
+      "id": "268388366"
+    },
+    "fpPlayer_f_breathe_in_run_VO_4": {
+      "bank": 18,
+      "id": "448740658"
+    },
+    "fpPlayer_f_breathe_out_VO_1": {
+      "bank": 18,
+      "id": "469567783"
+    },
+    "fpPlayer_f_breathe_out_VO_2": {
+      "bank": 18,
+      "id": "570699551"
+    },
+    "fpPlayer_f_breathe_out_VO_3": {
+      "bank": 18,
+      "id": "24265102"
+    },
+    "fpPlayer_f_breathe_out_VO_4": {
+      "bank": 18,
+      "id": "942696005"
+    },
+    "fpPlayer_f_breathe_out_run_VO_1": {
+      "bank": 18,
+      "id": "298683388"
+    },
+    "fpPlayer_f_breathe_out_run_VO_2": {
+      "bank": 18,
+      "id": "103517295"
+    },
+    "fpPlayer_f_breathe_out_run_VO_3": {
+      "bank": 18,
+      "id": "569812600"
+    },
+    "fpPlayer_f_breathe_out_run_VO_4": {
+      "bank": 18,
+      "id": "80346972"
+    },
+    "fpPlayer_f_death_VO_01": {
+      "bank": 18,
+      "id": "435570075"
+    },
+    "fpPlayer_f_death_VO_02": {
+      "bank": 18,
+      "id": "800794"
+    },
+    "fpPlayer_f_death_VO_03": {
+      "bank": 18,
+      "id": "265545910"
+    },
+    "fpPlayer_f_death_VO_04": {
+      "bank": 18,
+      "id": "107626735"
+    },
+    "fpPlayer_f_emote_VO_attack": {
+      "bank": 18,
+      "id": "883645459"
+    },
+    "fpPlayer_f_emote_VO_beckon": {
+      "bank": 18,
+      "id": "212782144"
+    },
+    "fpPlayer_f_emote_VO_cheer": {
+      "bank": 18,
+      "id": "231606937"
+    },
+    "fpPlayer_f_emote_VO_craft_1h": {
+      "bank": 18,
+      "id": "1038147337"
+    },
+    "fpPlayer_f_emote_VO_dance": {
+      "bank": 18,
+      "id": "746574247"
+    },
+    "fpPlayer_f_emote_VO_dig": {
+      "bank": 18,
+      "id": "514564931"
+    },
+    "fpPlayer_f_emote_VO_fail": {
+      "bank": 18,
+      "id": "419473156"
+    },
+    "fpPlayer_f_emote_VO_howl": {
+      "bank": 18,
+      "id": "946360506"
+    },
+    "fpPlayer_f_emote_VO_no": {
+      "bank": 18,
+      "id": "199015878"
+    },
+    "fpPlayer_f_emote_VO_shrug": {
+      "bank": 18,
+      "id": "362402476"
+    },
+    "fpPlayer_f_emote_VO_taunt": {
+      "bank": 18,
+      "id": "456572452"
+    },
+    "fpPlayer_f_emote_VO_thanks": {
+      "bank": 18,
+      "id": "680222231"
+    },
+    "fpPlayer_f_emote_VO_wave": {
+      "bank": 18,
+      "id": "593133453"
+    },
+    "fpPlayer_f_emote_VO_yes": {
+      "bank": 18,
+      "id": "496215340"
+    },
+    "fpPlayer_f_fall_vo_01": {
+      "bank": 18,
+      "id": "560816505"
+    },
+    "fpPlayer_f_fall_vo_02": {
+      "bank": 18,
+      "id": "15175100"
+    },
+    "fpPlayer_f_fall_vo_03": {
+      "bank": 18,
+      "id": "798397570"
+    },
+    "fpPlayer_f_fall_vo_04": {
+      "bank": 18,
+      "id": "450062443"
+    },
+    "fpPlayer_f_hit_VO_1": {
+      "bank": 18,
+      "id": "133893803"
+    },
+    "fpPlayer_f_hit_VO_2": {
+      "bank": 18,
+      "id": "245793424"
+    },
+    "fpPlayer_f_hit_VO_3": {
+      "bank": 18,
+      "id": "223252929"
+    },
+    "fpPlayer_f_hit_VO_4": {
+      "bank": 18,
+      "id": "651726615"
+    },
+    "fpPlayer_f_hit_VO_5": {
+      "bank": 18,
+      "id": "651825865"
+    },
+    "fpPlayer_f_hit_VO_6": {
+      "bank": 18,
+      "id": "264340543"
+    },
+    "fpPlayer_f_hit_VO_7": {
+      "bank": 18,
+      "id": "335365455"
+    },
+    "fpPlayer_f_hit_VO_8": {
+      "bank": 18,
+      "id": "146658163"
+    },
+    "fpPlayer_f_hit_VO_9": {
+      "bank": 18,
+      "id": "137391758"
+    },
+    "fpPlayer_f_jump_VO_01": {
+      "bank": 18,
+      "id": "390545044"
+    },
+    "fpPlayer_f_jump_VO_02": {
+      "bank": 18,
+      "id": "1005765409"
+    },
+    "fpPlayer_f_jump_VO_03": {
+      "bank": 18,
+      "id": "423073572"
+    },
+    "fpPlayer_f_jump_VO_04": {
+      "bank": 18,
+      "id": "692979586"
+    },
+    "fpPlayer_f_jump_VO_05": {
+      "bank": 18,
+      "id": "641166482"
+    },
+    "fpPlayer_f_land_VO_01": {
+      "bank": 18,
+      "id": "1003391372"
+    },
+    "fpPlayer_f_land_VO_02": {
+      "bank": 18,
+      "id": "1012656659"
+    },
+    "fpPlayer_f_land_VO_03": {
+      "bank": 18,
+      "id": "774625650"
+    },
+    "fpPlayer_f_use_active_VO_1": {
+      "bank": 18,
+      "id": "21597359"
+    },
+    "fpPlayer_f_use_active_VO_2": {
+      "bank": 18,
+      "id": "754137004"
+    },
+    "fpPlayer_f_use_active_VO_3": {
+      "bank": 18,
+      "id": "56601145"
+    },
+    "fpPlayer_f_use_active_VO_4": {
+      "bank": 18,
+      "id": "323917036"
+    },
+    "fpPlayer_f_use_active_VO_5": {
+      "bank": 18,
+      "id": "124939788"
+    },
+    "fpPlayer_f_use_charge_VO_1": {
+      "bank": 18,
+      "id": "49972309"
+    },
+    "fpPlayer_f_use_charge_VO_2": {
+      "bank": 18,
+      "id": "233054377"
+    },
+    "fpPlayer_f_use_charge_VO_3": {
+      "bank": 18,
+      "id": "28037329"
+    },
+    "fpPlayer_f_use_charge_VO_4": {
+      "bank": 18,
+      "id": "242908369"
+    },
+    "fpPlayer_f_use_charge_VO_5": {
+      "bank": 18,
+      "id": "319797412"
+    },
+    "fpPlayer_f_use_charge_heavy_VO_1": {
+      "bank": 18,
+      "id": "500271100"
+    },
+    "fpPlayer_f_use_charge_heavy_VO_2": {
+      "bank": 18,
+      "id": "508641223"
+    },
+    "fpPlayer_fall_wind": {
+      "bank": 18,
+      "id": "955904998"
+    },
+    "fpPlayer_falling_wind_loop": {
+      "bank": 18,
+      "id": "464051738"
+    },
+    "fpPlayer_fstep_jump_dirt_01": {
+      "bank": 18,
+      "id": "719304583"
+    },
+    "fpPlayer_fstep_jump_leaves_01": {
+      "bank": 18,
+      "id": "194572060"
+    },
+    "fpPlayer_fstep_jump_stone_01": {
+      "bank": 18,
+      "id": "52559603"
+    },
+    "fpPlayer_fstep_land_dirt_01": {
+      "bank": 18,
+      "id": "313204903"
+    },
+    "fpPlayer_fstep_land_leaves_01": {
+      "bank": 18,
+      "id": "664714912"
+    },
+    "fpPlayer_fstep_land_stone_01": {
+      "bank": 18,
+      "id": "114361179"
+    },
+    "fpPlayer_fstep_run_base_01": {
+      "bank": 18,
+      "id": "47678577"
+    },
+    "fpPlayer_fstep_run_base_02": {
+      "bank": 18,
+      "id": "181601428"
+    },
+    "fpPlayer_fstep_run_base_03": {
+      "bank": 18,
+      "id": "185069534"
+    },
+    "fpPlayer_fstep_run_base_04": {
+      "bank": 18,
+      "id": "21782887"
+    },
+    "fpPlayer_fstep_run_base_05": {
+      "bank": 18,
+      "id": "580645062"
+    },
+    "fpPlayer_fstep_run_base_06": {
+      "bank": 18,
+      "id": "251698982"
+    },
+    "fpPlayer_fstep_run_base_07": {
+      "bank": 18,
+      "id": "378550206"
+    },
+    "fpPlayer_fstep_run_dirt_01": {
+      "bank": 18,
+      "id": "52258843"
+    },
+    "fpPlayer_fstep_run_dirt_02": {
+      "bank": 18,
+      "id": "99563459"
+    },
+    "fpPlayer_fstep_run_dirt_03": {
+      "bank": 18,
+      "id": "51463989"
+    },
+    "fpPlayer_fstep_run_dirt_04": {
+      "bank": 18,
+      "id": "430905852"
+    },
+    "fpPlayer_fstep_run_dirt_05": {
+      "bank": 18,
+      "id": "316528087"
+    },
+    "fpPlayer_fstep_run_dirt_06": {
+      "bank": 18,
+      "id": "12207058"
+    },
+    "fpPlayer_fstep_run_dirt_07": {
+      "bank": 18,
+      "id": "362947768"
+    },
+    "fpPlayer_fstep_run_dirt_08": {
+      "bank": 18,
+      "id": "607640944"
+    },
+    "fpPlayer_fstep_run_foley_buckle_01": {
+      "bank": 18,
+      "id": "646998608"
+    },
+    "fpPlayer_fstep_run_foley_buckle_02": {
+      "bank": 18,
+      "id": "273816272"
+    },
+    "fpPlayer_fstep_run_foley_buckle_03": {
+      "bank": 18,
+      "id": "450683850"
+    },
+    "fpPlayer_fstep_run_foley_buckle_04": {
+      "bank": 18,
+      "id": "1041744371"
+    },
+    "fpPlayer_fstep_run_foley_buckle_05": {
+      "bank": 18,
+      "id": "451079988"
+    },
+    "fpPlayer_fstep_run_foley_buckle_06": {
+      "bank": 18,
+      "id": "894838096"
+    },
+    "fpPlayer_fstep_run_foley_buckle_07": {
+      "bank": 18,
+      "id": "436705713"
+    },
+    "fpPlayer_fstep_run_foley_buckle_08": {
+      "bank": 18,
+      "id": "620857289"
+    },
+    "fpPlayer_fstep_run_foley_buckle_09": {
+      "bank": 18,
+      "id": "372631517"
+    },
+    "fpPlayer_fstep_run_foley_buckle_10": {
+      "bank": 18,
+      "id": "174575239"
+    },
+    "fpPlayer_fstep_run_foley_cloth_01": {
+      "bank": 18,
+      "id": "192973637"
+    },
+    "fpPlayer_fstep_run_foley_cloth_02": {
+      "bank": 18,
+      "id": "111808278"
+    },
+    "fpPlayer_fstep_run_foley_cloth_03": {
+      "bank": 18,
+      "id": "1059208756"
+    },
+    "fpPlayer_fstep_run_foley_cloth_04": {
+      "bank": 18,
+      "id": "468801569"
+    },
+    "fpPlayer_fstep_run_foley_cloth_05": {
+      "bank": 18,
+      "id": "1053310732"
+    },
+    "fpPlayer_fstep_run_foley_cloth_06": {
+      "bank": 18,
+      "id": "146751856"
+    },
+    "fpPlayer_fstep_run_foley_cloth_07": {
+      "bank": 18,
+      "id": "615653675"
+    },
+    "fpPlayer_fstep_run_foley_cloth_08": {
+      "bank": 18,
+      "id": "1047997917"
+    },
+    "fpPlayer_fstep_run_foley_cloth_09": {
+      "bank": 18,
+      "id": "708962174"
+    },
+    "fpPlayer_fstep_run_foley_cloth_10": {
+      "bank": 18,
+      "id": "269581558"
+    },
+    "fpPlayer_fstep_run_leaves_01": {
+      "bank": 18,
+      "id": "661666219"
+    },
+    "fpPlayer_fstep_run_leaves_02": {
+      "bank": 18,
+      "id": "344964483"
+    },
+    "fpPlayer_fstep_run_leaves_03": {
+      "bank": 18,
+      "id": "36671953"
+    },
+    "fpPlayer_fstep_run_leaves_04": {
+      "bank": 18,
+      "id": "409813488"
+    },
+    "fpPlayer_fstep_run_leaves_05": {
+      "bank": 18,
+      "id": "520387183"
+    },
+    "fpPlayer_fstep_run_leaves_06": {
+      "bank": 18,
+      "id": "5877783"
+    },
+    "fpPlayer_fstep_run_leaves_07": {
+      "bank": 18,
+      "id": "429399079"
+    },
+    "fpPlayer_fstep_run_leaves_08": {
+      "bank": 18,
+      "id": "2610262"
+    },
+    "fpPlayer_fstep_run_sand_01": {
+      "bank": 18,
+      "id": "494649923"
+    },
+    "fpPlayer_fstep_run_sand_02": {
+      "bank": 18,
+      "id": "8992936"
+    },
+    "fpPlayer_fstep_run_sand_03": {
+      "bank": 18,
+      "id": "149613547"
+    },
+    "fpPlayer_fstep_run_sand_04": {
+      "bank": 18,
+      "id": "32266710"
+    },
+    "fpPlayer_fstep_run_sand_05": {
+      "bank": 18,
+      "id": "48985220"
+    },
+    "fpPlayer_fstep_run_sand_06": {
+      "bank": 18,
+      "id": "23839315"
+    },
+    "fpPlayer_fstep_run_sand_07": {
+      "bank": 18,
+      "id": "395320226"
+    },
+    "fpPlayer_fstep_run_sand_08": {
+      "bank": 18,
+      "id": "497215813"
+    },
+    "fpPlayer_fstep_run_sand_09": {
+      "bank": 18,
+      "id": "51210674"
+    },
+    "fpPlayer_fstep_run_sand_10": {
+      "bank": 18,
+      "id": "144925643"
+    },
+    "fpPlayer_fstep_run_snow_01": {
+      "bank": 18,
+      "id": "71989970"
+    },
+    "fpPlayer_fstep_run_snow_02": {
+      "bank": 18,
+      "id": "248712679"
+    },
+    "fpPlayer_fstep_run_snow_03": {
+      "bank": 18,
+      "id": "721489186"
+    },
+    "fpPlayer_fstep_run_snow_04": {
+      "bank": 18,
+      "id": "287026262"
+    },
+    "fpPlayer_fstep_run_snow_05": {
+      "bank": 18,
+      "id": "114213618"
+    },
+    "fpPlayer_fstep_run_snow_06": {
+      "bank": 18,
+      "id": "34568811"
+    },
+    "fpPlayer_fstep_run_snow_07": {
+      "bank": 18,
+      "id": "646600664"
+    },
+    "fpPlayer_fstep_run_snow_08": {
+      "bank": 18,
+      "id": "489360106"
+    },
+    "fpPlayer_fstep_run_snow_09": {
+      "bank": 18,
+      "id": "40179396"
+    },
+    "fpPlayer_fstep_run_snow_10": {
+      "bank": 18,
+      "id": "615124016"
+    },
+    "fpPlayer_fstep_run_stone_01": {
+      "bank": 18,
+      "id": "572073944"
+    },
+    "fpPlayer_fstep_run_stone_02": {
+      "bank": 18,
+      "id": "495165725"
+    },
+    "fpPlayer_fstep_run_stone_03": {
+      "bank": 18,
+      "id": "260716634"
+    },
+    "fpPlayer_fstep_run_stone_04": {
+      "bank": 18,
+      "id": "190946320"
+    },
+    "fpPlayer_fstep_run_stone_05": {
+      "bank": 18,
+      "id": "344585905"
+    },
+    "fpPlayer_fstep_run_stone_06": {
+      "bank": 18,
+      "id": "939178003"
+    },
+    "fpPlayer_fstep_run_stone_07": {
+      "bank": 18,
+      "id": "232570762"
+    },
+    "fpPlayer_fstep_run_stone_08": {
+      "bank": 18,
+      "id": "339808969"
+    },
+    "fpPlayer_fstep_run_stone_09": {
+      "bank": 18,
+      "id": "28966185"
+    },
+    "fpPlayer_fstep_run_wood_01": {
+      "bank": 18,
+      "id": "658621156"
+    },
+    "fpPlayer_fstep_run_wood_02": {
+      "bank": 18,
+      "id": "746651330"
+    },
+    "fpPlayer_fstep_run_wood_03": {
+      "bank": 18,
+      "id": "389107032"
+    },
+    "fpPlayer_fstep_run_wood_04": {
+      "bank": 18,
+      "id": "501126470"
+    },
+    "fpPlayer_fstep_run_wood_05": {
+      "bank": 18,
+      "id": "376091998"
+    },
+    "fpPlayer_fstep_run_wood_06": {
+      "bank": 18,
+      "id": "62903373"
+    },
+    "fpPlayer_fstep_run_wood_07": {
+      "bank": 18,
+      "id": "327181020"
+    },
+    "fpPlayer_fstep_run_wood_08": {
+      "bank": 18,
+      "id": "189792585"
+    },
+    "fpPlayer_fstep_run_wood_09": {
+      "bank": 18,
+      "id": "89720909"
+    },
+    "fpPlayer_fstep_run_wood_10": {
+      "bank": 18,
+      "id": "183199522"
+    },
+    "fpPlayer_fstep_sand_jump_01": {
+      "bank": 18,
+      "id": "642357218"
+    },
+    "fpPlayer_fstep_sand_land_01": {
+      "bank": 18,
+      "id": "779916728"
+    },
+    "fpPlayer_fstep_snow_jump_01": {
+      "bank": 18,
+      "id": "16800373"
+    },
+    "fpPlayer_fstep_snow_land_01": {
+      "bank": 18,
+      "id": "474224668"
+    },
+    "fpPlayer_fstep_walk_base_01": {
+      "bank": 18,
+      "id": "142948830"
+    },
+    "fpPlayer_fstep_walk_base_02": {
+      "bank": 18,
+      "id": "375171093"
+    },
+    "fpPlayer_fstep_walk_base_03": {
+      "bank": 18,
+      "id": "619185976"
+    },
+    "fpPlayer_fstep_walk_base_04": {
+      "bank": 18,
+      "id": "4178441"
+    },
+    "fpPlayer_fstep_walk_base_05": {
+      "bank": 18,
+      "id": "406851609"
+    },
+    "fpPlayer_fstep_walk_base_06": {
+      "bank": 18,
+      "id": "807093589"
+    },
+    "fpPlayer_fstep_walk_base_07": {
+      "bank": 18,
+      "id": "534271418"
+    },
+    "fpPlayer_fstep_walk_dirt_01": {
+      "bank": 18,
+      "id": "536356779"
+    },
+    "fpPlayer_fstep_walk_dirt_02": {
+      "bank": 18,
+      "id": "28230202"
+    },
+    "fpPlayer_fstep_walk_dirt_03": {
+      "bank": 18,
+      "id": "914642"
+    },
+    "fpPlayer_fstep_walk_dirt_04": {
+      "bank": 18,
+      "id": "248483281"
+    },
+    "fpPlayer_fstep_walk_dirt_05": {
+      "bank": 18,
+      "id": "80554589"
+    },
+    "fpPlayer_fstep_walk_dirt_06": {
+      "bank": 18,
+      "id": "103648045"
+    },
+    "fpPlayer_fstep_walk_dirt_07": {
+      "bank": 18,
+      "id": "703755575"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_01": {
+      "bank": 18,
+      "id": "633716409"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_02": {
+      "bank": 18,
+      "id": "437948530"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_03": {
+      "bank": 18,
+      "id": "67002745"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_04": {
+      "bank": 18,
+      "id": "693165959"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_05": {
+      "bank": 18,
+      "id": "675088894"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_06": {
+      "bank": 18,
+      "id": "783060235"
+    },
+    "fpPlayer_fstep_walk_foley_buckle_07": {
+      "bank": 18,
+      "id": "57617851"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_01": {
+      "bank": 18,
+      "id": "845629794"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_02": {
+      "bank": 18,
+      "id": "180434976"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_03": {
+      "bank": 18,
+      "id": "685332141"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_04": {
+      "bank": 18,
+      "id": "321502881"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_05": {
+      "bank": 18,
+      "id": "150242187"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_06": {
+      "bank": 18,
+      "id": "615015773"
+    },
+    "fpPlayer_fstep_walk_foley_cloth_07": {
+      "bank": 18,
+      "id": "406060263"
+    },
+    "fpPlayer_fstep_walk_leaves_01": {
+      "bank": 18,
+      "id": "40593529"
+    },
+    "fpPlayer_fstep_walk_leaves_02": {
+      "bank": 18,
+      "id": "455535778"
+    },
+    "fpPlayer_fstep_walk_leaves_03": {
+      "bank": 18,
+      "id": "63849184"
+    },
+    "fpPlayer_fstep_walk_leaves_04": {
+      "bank": 18,
+      "id": "470818771"
+    },
+    "fpPlayer_fstep_walk_leaves_05": {
+      "bank": 18,
+      "id": "90633312"
+    },
+    "fpPlayer_fstep_walk_leaves_06": {
+      "bank": 18,
+      "id": "485894400"
+    },
+    "fpPlayer_fstep_walk_sand_01": {
+      "bank": 18,
+      "id": "598966141"
+    },
+    "fpPlayer_fstep_walk_sand_02": {
+      "bank": 18,
+      "id": "296514374"
+    },
+    "fpPlayer_fstep_walk_sand_03": {
+      "bank": 18,
+      "id": "762060869"
+    },
+    "fpPlayer_fstep_walk_sand_04": {
+      "bank": 18,
+      "id": "500349519"
+    },
+    "fpPlayer_fstep_walk_sand_05": {
+      "bank": 18,
+      "id": "411961250"
+    },
+    "fpPlayer_fstep_walk_sand_06": {
+      "bank": 18,
+      "id": "83882740"
+    },
+    "fpPlayer_fstep_walk_sand_07": {
+      "bank": 18,
+      "id": "103859742"
+    },
+    "fpPlayer_fstep_walk_snow_01": {
+      "bank": 18,
+      "id": "714234780"
+    },
+    "fpPlayer_fstep_walk_snow_02": {
+      "bank": 18,
+      "id": "159867972"
+    },
+    "fpPlayer_fstep_walk_snow_03": {
+      "bank": 18,
+      "id": "22266726"
+    },
+    "fpPlayer_fstep_walk_snow_04": {
+      "bank": 18,
+      "id": "767380272"
+    },
+    "fpPlayer_fstep_walk_snow_05": {
+      "bank": 18,
+      "id": "220099238"
+    },
+    "fpPlayer_fstep_walk_snow_06": {
+      "bank": 18,
+      "id": "432316180"
+    },
+    "fpPlayer_fstep_walk_snow_07": {
+      "bank": 18,
+      "id": "279336552"
+    },
+    "fpPlayer_fstep_walk_stone_01": {
+      "bank": 18,
+      "id": "520323032"
+    },
+    "fpPlayer_fstep_walk_stone_02": {
+      "bank": 18,
+      "id": "324104835"
+    },
+    "fpPlayer_fstep_walk_stone_03": {
+      "bank": 18,
+      "id": "616390355"
+    },
+    "fpPlayer_fstep_walk_stone_04": {
+      "bank": 18,
+      "id": "257446827"
+    },
+    "fpPlayer_fstep_walk_stone_05": {
+      "bank": 18,
+      "id": "81790340"
+    },
+    "fpPlayer_fstep_walk_stone_06": {
+      "bank": 18,
+      "id": "982777622"
+    },
+    "fpPlayer_fstep_walk_stone_07": {
+      "bank": 18,
+      "id": "196962741"
+    },
+    "fpPlayer_fstep_walk_water_01": {
+      "bank": 18,
+      "id": "840314452"
+    },
+    "fpPlayer_fstep_walk_water_02": {
+      "bank": 18,
+      "id": "93846755"
+    },
+    "fpPlayer_fstep_walk_water_03": {
+      "bank": 18,
+      "id": "1058417392"
+    },
+    "fpPlayer_fstep_walk_water_04": {
+      "bank": 18,
+      "id": "459420163"
+    },
+    "fpPlayer_fstep_walk_water_05": {
+      "bank": 18,
+      "id": "193933758"
+    },
+    "fpPlayer_fstep_walk_water_06": {
+      "bank": 18,
+      "id": "137765022"
+    },
+    "fpPlayer_fstep_walk_water_07": {
+      "bank": 18,
+      "id": "173585920"
+    },
+    "fpPlayer_fstep_walk_water_08": {
+      "bank": 18,
+      "id": "320482893"
+    },
+    "fpPlayer_fstep_walk_water_09": {
+      "bank": 18,
+      "id": "226813121"
+    },
+    "fpPlayer_fstep_walk_water_10": {
+      "bank": 18,
+      "id": "930772025"
+    },
+    "fpPlayer_fstep_walk_wood_01": {
+      "bank": 18,
+      "id": "754591922"
+    },
+    "fpPlayer_fstep_walk_wood_02": {
+      "bank": 18,
+      "id": "695749382"
+    },
+    "fpPlayer_fstep_walk_wood_03": {
+      "bank": 18,
+      "id": "303031321"
+    },
+    "fpPlayer_fstep_walk_wood_04": {
+      "bank": 18,
+      "id": "197395117"
+    },
+    "fpPlayer_fstep_walk_wood_05": {
+      "bank": 18,
+      "id": "564360000"
+    },
+    "fpPlayer_fstep_walk_wood_06": {
+      "bank": 18,
+      "id": "53735593"
+    },
+    "fpPlayer_fstep_wood_jump_01": {
+      "bank": 18,
+      "id": "372806679"
+    },
+    "fpPlayer_fstep_wood_land_01": {
+      "bank": 18,
+      "id": "297164379"
+    },
+    "fpPlayer_hand_crafting_loop": {
+      "bank": 18,
+      "id": "103056164"
+    },
+    "fpPlayer_health": {
+      "bank": 12,
+      "id": "3402500537"
+    },
+    "fpPlayer_health_full": {
+      "bank": 12,
+      "id": "2855866155"
+    },
+    "fpPlayer_health_low": {
+      "bank": 12,
+      "id": "549907914"
+    },
+    "fpPlayer_health_medium": {
+      "bank": 12,
+      "id": "4235201297"
+    },
+    "fpPlayer_holster_item_gen": {
+      "bank": 18,
+      "id": "1071165302"
+    },
+    "fpPlayer_holster_item_sword_01": {
+      "bank": 18,
+      "id": "983763956"
+    },
+    "fpPlayer_jump_buckle_foley_01": {
+      "bank": 18,
+      "id": "847873685"
+    },
+    "fpPlayer_jump_cloth_foley_01": {
+      "bank": 18,
+      "id": "1001636745"
+    },
+    "fpPlayer_land_buckle_foley_01": {
+      "bank": 18,
+      "id": "488033087"
+    },
+    "fpPlayer_land_cloth_foley_01": {
+      "bank": 18,
+      "id": "902221536"
+    },
+    "fpPlayer_m_fall_VO_01": {
+      "bank": 18,
+      "id": "259450364"
+    },
+    "fpPlayer_m_fall_VO_02": {
+      "bank": 18,
+      "id": "626257219"
+    },
+    "fpPlayer_m_fall_VO_03": {
+      "bank": 18,
+      "id": "221563256"
+    },
+    "fpPlayer_m_fall_VO_04": {
+      "bank": 18,
+      "id": "194083249"
+    },
+    "fpPlayer_m_jump_VO_01": {
+      "bank": 18,
+      "id": "133623057"
+    },
+    "fpPlayer_m_jump_VO_02": {
+      "bank": 18,
+      "id": "251301474"
+    },
+    "fpPlayer_m_jump_VO_03": {
+      "bank": 18,
+      "id": "374315476"
+    },
+    "fpPlayer_m_jump_VO_04": {
+      "bank": 18,
+      "id": "274573774"
+    },
+    "fpPlayer_m_jump_VO_05": {
+      "bank": 18,
+      "id": "791033188"
+    },
+    "fpPlayer_m_land_VO_01": {
+      "bank": 18,
+      "id": "258556962"
+    },
+    "fpPlayer_m_land_VO_02": {
+      "bank": 18,
+      "id": "780046507"
+    },
+    "fpPlayer_male_run_breathe_in_01": {
+      "bank": 18,
+      "id": "205820439"
+    },
+    "fpPlayer_male_run_breathe_in_02": {
+      "bank": 18,
+      "id": "232189774"
+    },
+    "fpPlayer_male_run_breathe_in_03": {
+      "bank": 18,
+      "id": "1003032121"
+    },
+    "fpPlayer_male_run_breathe_in_04": {
+      "bank": 18,
+      "id": "12667404"
+    },
+    "fpPlayer_male_run_breathe_out_01": {
+      "bank": 18,
+      "id": "84441598"
+    },
+    "fpPlayer_male_run_breathe_out_02": {
+      "bank": 18,
+      "id": "80347600"
+    },
+    "fpPlayer_male_run_breathe_out_03": {
+      "bank": 18,
+      "id": "332841552"
+    },
+    "fpPlayer_male_run_breathe_out_04": {
+      "bank": 18,
+      "id": "389810618"
+    },
+    "fpPlayer_splash_into_water": {
+      "bank": 18,
+      "id": "482013569"
+    },
+    "fpPlayer_splash_outof_water": {
+      "bank": 18,
+      "id": "322862169"
+    },
+    "fpPlayer_sprintwind_loop": {
+      "bank": 18,
+      "id": "860082398"
+    },
+    "fpPlayer_underWater": {
+      "bank": 18,
+      "id": "34453287"
+    },
+    "fpPlayer_water": {
+      "bank": 18,
+      "id": "1951193596"
+    },
+    "fp_sword_use_active_01": {
+      "bank": 22,
+      "id": "542431435"
+    },
+    "fp_sword_use_active_02": {
+      "bank": 22,
+      "id": "179326374"
+    },
+    "fp_sword_use_active_03": {
+      "bank": 22,
+      "id": "624381612"
+    },
+    "fp_sword_use_active_04": {
+      "bank": 22,
+      "id": "481935642"
+    },
+    "fpp_left_arm_move_buckle_01": {
+      "bank": 22,
+      "id": "337577625"
+    },
+    "fpp_left_arm_move_buckle_02": {
+      "bank": 22,
+      "id": "268282878"
+    },
+    "fpp_left_arm_move_jingle_01": {
+      "bank": 22,
+      "id": "465272826"
+    },
+    "fpp_left_arm_move_jingle_02": {
+      "bank": 22,
+      "id": "376585155"
+    },
+    "fpp_left_arm_move_leather_01": {
+      "bank": 22,
+      "id": "745131524"
+    },
+    "fpp_left_arm_move_leather_02": {
+      "bank": 22,
+      "id": "79717226"
+    },
+    "fpp_left_arm_move_swoosh_01": {
+      "bank": 22,
+      "id": "57534971"
+    },
+    "fpp_left_arm_move_swoosh_02": {
+      "bank": 22,
+      "id": "714705335"
+    },
+    "fpp_right_arm_move_buckle_01": {
+      "bank": 22,
+      "id": "167550079"
+    },
+    "fpp_right_arm_move_buckle_02": {
+      "bank": 22,
+      "id": "20294401"
+    },
+    "fpp_right_arm_move_cloth_01": {
+      "bank": 22,
+      "id": "48287899"
+    },
+    "fpp_right_arm_move_cloth_02": {
+      "bank": 22,
+      "id": "163286883"
+    },
+    "fpp_right_arm_move_jinlge_01": {
+      "bank": 22,
+      "id": "299231333"
+    },
+    "fpp_right_arm_move_jinlge_02": {
+      "bank": 22,
+      "id": "301750984"
+    },
+    "fpp_right_arm_move_swoosh_01": {
+      "bank": 22,
+      "id": "452550882"
+    },
+    "fpp_right_arm_move_swoosh_02": {
+      "bank": 22,
+      "id": "100926086"
+    },
+    "ftue_01_105": {
+      "bank": 11,
+      "id": "138319686"
+    },
+    "ftue_01_alt_105": {
+      "bank": 11,
+      "id": "898239099"
+    },
+    "ftue_01b": {
+      "bank": 11,
+      "id": "411904070"
+    },
+    "ftue_03_oct_pattern_142bpm": {
+      "bank": 11,
+      "id": "671741"
+    },
+    "ftue_03_ost_pattern_alt_142bpm": {
+      "bank": 11,
+      "id": "462125561"
+    },
+    "ftue_start_01": {
+      "bank": 11,
+      "id": "764781528"
+    },
+    "ftue_start_02": {
+      "bank": 11,
+      "id": "812735802"
+    },
+    "ftue_start_03": {
+      "bank": 11,
+      "id": "305810020"
+    },
+    "ftue_start_04": {
+      "bank": 11,
+      "id": "1033998092"
+    },
+    "ftue_start_05": {
+      "bank": 11,
+      "id": "833821741"
+    },
+    "gen_player_death": {
+      "bank": 18,
+      "id": "229005301"
+    },
+    "gen_punch_block": {
+      "bank": 17,
+      "id": "308746539"
+    },
+    "generic_pick_impact_addedbass_01": {
+      "bank": 39,
+      "id": "53178243"
+    },
+    "generic_pick_impact_addedbass_02": {
+      "bank": 39,
+      "id": "2381182"
+    },
+    "generic_pick_impact_addedbass_03": {
+      "bank": 39,
+      "id": "108164866"
+    },
+    "generic_pick_impact_addedbass_04": {
+      "bank": 39,
+      "id": "162368691"
+    },
+    "generic_pick_impact_addedbass_05": {
+      "bank": 39,
+      "id": "39909240"
+    },
+    "generic_pick_impact_addedbass_06": {
+      "bank": 39,
+      "id": "27950409"
+    },
+    "generic_pick_impact_addedbass_07": {
+      "bank": 39,
+      "id": "34103704"
+    },
+    "get_pickup_01": {
+      "bank": 18,
+      "id": "675102158"
+    },
+    "get_pickup_02": {
+      "bank": 18,
+      "id": "123575504"
+    },
+    "get_pickup_03": {
+      "bank": 18,
+      "id": "629838410"
+    },
+    "get_pickup_04": {
+      "bank": 18,
+      "id": "685211708"
+    },
+    "get_pickup_05": {
+      "bank": 18,
+      "id": "357248351"
+    },
+    "giant_wolf_VO_hit_02": {
+      "bank": 13,
+      "id": "364849497"
+    },
+    "giant_wolf_hit_VO_04": {
+      "bank": 13,
+      "id": "748174439"
+    },
+    "giant_wolf_hit_vo_03": {
+      "bank": 13,
+      "id": "987038806"
+    },
+    "giant_wolf_vo_hit_01": {
+      "bank": 13,
+      "id": "323013904"
+    },
+    "giantflame_wolf_fire_01": {
+      "bank": 1,
+      "id": "224895834"
+    },
+    "giantflame_wolf_fire_02": {
+      "bank": 1,
+      "id": "586704726"
+    },
+    "giantflame_wolf_fire_03": {
+      "bank": 1,
+      "id": "88793304"
+    },
+    "giantflame_wolf_fire_04": {
+      "bank": 1,
+      "id": "28960577"
+    },
+    "giantflame_wolf_fire_loop": {
+      "bank": 13,
+      "id": "1044055126"
+    },
+    "goat_bleat_01": {
+      "bank": 20,
+      "id": "31272449"
+    },
+    "goat_bleat_02": {
+      "bank": 20,
+      "id": "147804636"
+    },
+    "goat_bleat_03": {
+      "bank": 20,
+      "id": "242731129"
+    },
+    "goat_bleat_04": {
+      "bank": 20,
+      "id": "412538247"
+    },
+    "goat_bleat_05": {
+      "bank": 20,
+      "id": "20827425"
+    },
+    "goat_bleat_06": {
+      "bank": 20,
+      "id": "74053035"
+    },
+    "goat_bleat_07": {
+      "bank": 20,
+      "id": "258697589"
+    },
+    "goat_bleat_08": {
+      "bank": 20,
+      "id": "126403387"
+    },
+    "goat_bleat_09": {
+      "bank": 20,
+      "id": "24967152"
+    },
+    "goat_bleat_10": {
+      "bank": 20,
+      "id": "36215642"
+    },
+    "gong_hit_01": {
+      "bank": 39,
+      "id": "1018323005"
+    },
+    "gong_hit_02": {
+      "bank": 39,
+      "id": "233089324"
+    },
+    "gong_hit_03": {
+      "bank": 39,
+      "id": "956709107"
+    },
+    "hammer_2_handed_active_01": {
+      "bank": 22,
+      "id": "10607917"
+    },
+    "hammer_2_handed_active_02": {
+      "bank": 22,
+      "id": "151621689"
+    },
+    "hammer_2_handed_active_03": {
+      "bank": 22,
+      "id": "282822076"
+    },
+    "hammer_2_handed_charge_01": {
+      "bank": 22,
+      "id": "104006067"
+    },
+    "hay_destroyed_01": {
+      "bank": 25,
+      "id": "610935783"
+    },
+    "hay_destroyed_02": {
+      "bank": 25,
+      "id": "278668601"
+    },
+    "hay_destroyed_03": {
+      "bank": 25,
+      "id": "427545418"
+    },
+    "hay_hit_01": {
+      "bank": 25,
+      "id": "348975265"
+    },
+    "hay_hit_02": {
+      "bank": 25,
+      "id": "503049414"
+    },
+    "hay_hit_03": {
+      "bank": 25,
+      "id": "363938983"
+    },
+    "health": {
+      "bank": 39,
+      "id": "3677180323"
+    },
+    "health_01": {
+      "bank": 24,
+      "id": "322021226"
+    },
+    "health_02": {
+      "bank": 24,
+      "id": "474114501"
+    },
+    "health_03": {
+      "bank": 24,
+      "id": "141653109"
+    },
+    "health_04": {
+      "bank": 24,
+      "id": "43688675"
+    },
+    "health_05": {
+      "bank": 24,
+      "id": "187688438"
+    },
+    "health_06": {
+      "bank": 24,
+      "id": "315681478"
+    },
+    "health_07": {
+      "bank": 24,
+      "id": "884506264"
+    },
+    "health_08": {
+      "bank": 24,
+      "id": "277515704"
+    },
+    "health_09": {
+      "bank": 24,
+      "id": "364048756"
+    },
+    "health_10": {
+      "bank": 24,
+      "id": "307694720"
+    },
+    "health_11": {
+      "bank": 24,
+      "id": "255019096"
+    },
+    "health_12": {
+      "bank": 24,
+      "id": "247542811"
+    },
+    "health_13": {
+      "bank": 24,
+      "id": "39967037"
+    },
+    "health_14": {
+      "bank": 24,
+      "id": "102587884"
+    },
+    "health_15": {
+      "bank": 24,
+      "id": "509420309"
+    },
+    "health_16": {
+      "bank": 24,
+      "id": "91705334"
+    },
+    "health_17": {
+      "bank": 24,
+      "id": "439952985"
+    },
+    "health_18": {
+      "bank": 24,
+      "id": "415460699"
+    },
+    "health_19": {
+      "bank": 24,
+      "id": "78845151"
+    },
+    "health_20": {
+      "bank": 24,
+      "id": "240867423"
+    },
+    "held_torch_swipe_01": {
+      "bank": 22,
+      "id": "86003741"
+    },
+    "held_torch_swipe_02": {
+      "bank": 22,
+      "id": "228667806"
+    },
+    "held_torch_swipe_03": {
+      "bank": 22,
+      "id": "95514081"
+    },
+    "hit_bone_01": {
+      "bank": 2,
+      "id": "613852447"
+    },
+    "hit_sheep_01": {
+      "bank": 20,
+      "id": "311822039"
+    },
+    "hit_sheep_02": {
+      "bank": 20,
+      "id": "37705971"
+    },
+    "hit_sheep_03": {
+      "bank": 20,
+      "id": "437178328"
+    },
+    "hit_sheep_04": {
+      "bank": 20,
+      "id": "191877163"
+    },
+    "home_island_mountain_01": {
+      "bank": 11,
+      "id": "492791135"
+    },
+    "homeisland_theme_03": {
+      "bank": 11,
+      "id": "443340245"
+    },
+    "human_hit_01": {
+      "bank": 1,
+      "id": "922137995"
+    },
+    "human_hit_02": {
+      "bank": 1,
+      "id": "691038131"
+    },
+    "human_hit_03": {
+      "bank": 1,
+      "id": "926695148"
+    },
+    "human_hit_04": {
+      "bank": 1,
+      "id": "382134495"
+    },
+    "human_hit_05": {
+      "bank": 1,
+      "id": "321922746"
+    },
+    "human_hit_06": {
+      "bank": 1,
+      "id": "501826532"
+    },
+    "idle_breathe_in_01": {
+      "bank": 18,
+      "id": "956501829"
+    },
+    "idle_breathe_in_02": {
+      "bank": 18,
+      "id": "736929398"
+    },
+    "idle_breathe_in_03": {
+      "bank": 18,
+      "id": "567314476"
+    },
+    "idle_breathe_in_04": {
+      "bank": 18,
+      "id": "1047150599"
+    },
+    "idle_breathe_out_01": {
+      "bank": 18,
+      "id": "84539344"
+    },
+    "idle_breathe_out_02": {
+      "bank": 18,
+      "id": "908801056"
+    },
+    "idle_breathe_out_03": {
+      "bank": 18,
+      "id": "680486225"
+    },
+    "idle_breathe_out_04": {
+      "bank": 18,
+      "id": "837083586"
+    },
+    "impact_01": {
+      "bank": 13,
+      "id": "515437027"
+    },
+    "impact_02": {
+      "bank": 13,
+      "id": "101951663"
+    },
+    "impact_03": {
+      "bank": 13,
+      "id": "1002413135"
+    },
+    "impact_04": {
+      "bank": 13,
+      "id": "564373927"
+    },
+    "jungle_combat_01_190_bpm": {
+      "bank": 11,
+      "id": "710924254"
+    },
+    "jungle_combat_02_190_bpm": {
+      "bank": 11,
+      "id": "800715274"
+    },
+    "jungle_combat_out_01": {
+      "bank": 11,
+      "id": "367586171"
+    },
+    "jungle_combat_out_02": {
+      "bank": 11,
+      "id": "110318292"
+    },
+    "keystoneOven_broken_loop": {
+      "bank": 5,
+      "id": "499250704"
+    },
+    "keystone_oven_cook_end": {
+      "bank": 5,
+      "id": "525867489"
+    },
+    "keystone_oven_cook_loop": {
+      "bank": 5,
+      "id": "554437519"
+    },
+    "keystone_oven_cook_start": {
+      "bank": 5,
+      "id": "756728327"
+    },
+    "keystone_oven_fixed_loop": {
+      "bank": 5,
+      "id": "687198752"
+    },
+    "keystone_oven_fixing": {
+      "bank": 5,
+      "id": "1017112351"
+    },
+    "kill_BipedDino": {
+      "bank": 6,
+      "id": "2163898534"
+    },
+    "kill_anvil": {
+      "bank": 5,
+      "id": "3021486082"
+    },
+    "kill_vending_machine": {
+      "bank": 5,
+      "id": "2595440569"
+    },
+    "knight_hit_01": {
+      "bank": 1,
+      "id": "751133633"
+    },
+    "knight_hit_02": {
+      "bank": 1,
+      "id": "772671128"
+    },
+    "knight_hit_03": {
+      "bank": 1,
+      "id": "391785545"
+    },
+    "knowlegde_book_turnpage_01": {
+      "bank": 24,
+      "id": "467406839"
+    },
+    "knowlegde_book_turnpage_02": {
+      "bank": 24,
+      "id": "814889202"
+    },
+    "knowlegde_book_turnpage_03": {
+      "bank": 24,
+      "id": "594952939"
+    },
+    "largequadDino_attk_active": {
+      "bank": 6,
+      "id": "622147864"
+    },
+    "largequadDino_attk_active_VO_01": {
+      "bank": 6,
+      "id": "7925713"
+    },
+    "largequadDino_attk_charge": {
+      "bank": 6,
+      "id": "537010450"
+    },
+    "largequadDino_attk_charge_VO_01": {
+      "bank": 6,
+      "id": "318696399"
+    },
+    "largequadDino_attk_recover_VO_01": {
+      "bank": 6,
+      "id": "314228234"
+    },
+    "largequadDino_breatheIn_01": {
+      "bank": 6,
+      "id": "574556568"
+    },
+    "largequadDino_breatheIn_02": {
+      "bank": 6,
+      "id": "157244043"
+    },
+    "largequadDino_breatheOut_01": {
+      "bank": 6,
+      "id": "520258468"
+    },
+    "largequadDino_breatheOut_02": {
+      "bank": 6,
+      "id": "847500902"
+    },
+    "largequadDino_death01": {
+      "bank": 6,
+      "id": "976520184"
+    },
+    "largequadDino_death01_VO_01": {
+      "bank": 6,
+      "id": "502453048"
+    },
+    "largequadDino_death01_VO_02": {
+      "bank": 6,
+      "id": "671367807"
+    },
+    "largequadDino_death01_VO_03": {
+      "bank": 6,
+      "id": "833897008"
+    },
+    "largequadDino_fstep_run_01": {
+      "bank": 6,
+      "id": "30803820"
+    },
+    "largequadDino_fstep_run_02": {
+      "bank": 6,
+      "id": "910567741"
+    },
+    "largequadDino_fstep_walk_01": {
+      "bank": 6,
+      "id": "45412550"
+    },
+    "largequadDino_fstep_walk_02": {
+      "bank": 6,
+      "id": "688174151"
+    },
+    "largequadDino_hit_impact": {
+      "bank": 6,
+      "id": "986421190"
+    },
+    "largequadDino_hit_vo_01": {
+      "bank": 6,
+      "id": "221965119"
+    },
+    "largequadDino_hit_vo_02": {
+      "bank": 6,
+      "id": "387590524"
+    },
+    "largequadDino_hit_vo_03": {
+      "bank": 6,
+      "id": "471184537"
+    },
+    "largequadDino_idle_VO_01": {
+      "bank": 6,
+      "id": "584875240"
+    },
+    "largequadDino_idle_VO_02": {
+      "bank": 6,
+      "id": "150219035"
+    },
+    "largequadDino_idle_VO_03": {
+      "bank": 6,
+      "id": "169472549"
+    },
+    "leaves_debris_01": {
+      "bank": 29,
+      "id": "591989231"
+    },
+    "leaves_debris_02": {
+      "bank": 29,
+      "id": "608985428"
+    },
+    "leaves_debris_03": {
+      "bank": 29,
+      "id": "811714968"
+    },
+    "lizardMan_breathe_VO_01": {
+      "bank": 1,
+      "id": "609392901"
+    },
+    "lizardMan_breathe_VO_02": {
+      "bank": 1,
+      "id": "1022984795"
+    },
+    "lizardMan_breathe_VO_03": {
+      "bank": 1,
+      "id": "906355376"
+    },
+    "lizardMan_breathe_VO_04": {
+      "bank": 1,
+      "id": "949116231"
+    },
+    "lizardMan_death1_VO": {
+      "bank": 1,
+      "id": "473177949"
+    },
+    "lizardMan_death2_VO": {
+      "bank": 1,
+      "id": "4177884"
+    },
+    "lizardMan_death3_VO": {
+      "bank": 1,
+      "id": "401734558"
+    },
+    "lizardMan_death4_VO": {
+      "bank": 1,
+      "id": "697565512"
+    },
+    "lizardMan_hit_VO_01": {
+      "bank": 1,
+      "id": "410724645"
+    },
+    "lizardMan_hit_VO_02": {
+      "bank": 1,
+      "id": "136825182"
+    },
+    "lizardMan_hit_VO_03": {
+      "bank": 1,
+      "id": "432337368"
+    },
+    "lizardMan_hit_VO_04": {
+      "bank": 1,
+      "id": "105778676"
+    },
+    "lizardMan_hit_VO_05": {
+      "bank": 1,
+      "id": "298491867"
+    },
+    "lizardMan_hit_VO_06": {
+      "bank": 1,
+      "id": "667757096"
+    },
+    "lizardMan_jump_VO_01": {
+      "bank": 1,
+      "id": "635423328"
+    },
+    "lizardMan_jump_VO_02": {
+      "bank": 1,
+      "id": "333929460"
+    },
+    "lizardMan_jump_VO_03": {
+      "bank": 1,
+      "id": "489170577"
+    },
+    "lizardMan_use_active_VO_01": {
+      "bank": 1,
+      "id": "24508924"
+    },
+    "lizardMan_use_active_VO_02": {
+      "bank": 1,
+      "id": "289336917"
+    },
+    "lizardMan_use_active_VO_03": {
+      "bank": 1,
+      "id": "140523388"
+    },
+    "lizardMan_use_active_VO_04": {
+      "bank": 1,
+      "id": "40902965"
+    },
+    "lizardMan_use_active_VO_05": {
+      "bank": 1,
+      "id": "166839344"
+    },
+    "lizardMan_use_charge_VO_01": {
+      "bank": 1,
+      "id": "98552810"
+    },
+    "lizardMan_use_charge_VO_02": {
+      "bank": 1,
+      "id": "136208944"
+    },
+    "lizardMan_use_charge_VO_03": {
+      "bank": 1,
+      "id": "58444363"
+    },
+    "lizardMan_use_charge_VO_04": {
+      "bank": 1,
+      "id": "278147133"
+    },
+    "lizard_chest_open": {
+      "bank": 5,
+      "id": "922764834"
+    },
+    "lizard_comat_boss_01_190bpm": {
+      "bank": 11,
+      "id": "815561349"
+    },
+    "lizard_comat_boss_01_end_01": {
+      "bank": 11,
+      "id": "304831556"
+    },
+    "lizard_comat_boss_01_end_02": {
+      "bank": 11,
+      "id": "105119661"
+    },
+    "lizard_m_fall_01_VO": {
+      "bank": 1,
+      "id": "428916330"
+    },
+    "lizard_m_fall_02_VO": {
+      "bank": 1,
+      "id": "249045882"
+    },
+    "lizard_m_random_01_VO": {
+      "bank": 1,
+      "id": "334795717"
+    },
+    "lizard_m_random_02_VO": {
+      "bank": 1,
+      "id": "953613312"
+    },
+    "lizard_m_random_03_VO": {
+      "bank": 1,
+      "id": "771514127"
+    },
+    "low": {
+      "bank": 18,
+      "id": "545371365"
+    },
+    "mace_use_active_01": {
+      "bank": 22,
+      "id": "282659925"
+    },
+    "mace_use_active_02": {
+      "bank": 22,
+      "id": "11418916"
+    },
+    "mace_use_active_03": {
+      "bank": 22,
+      "id": "340288160"
+    },
+    "medium_steam_loop": {
+      "bank": 10,
+      "id": "509858547"
+    },
+    "metal_destoy_01": {
+      "bank": 39,
+      "id": "321593720"
+    },
+    "metal_destoy_02": {
+      "bank": 39,
+      "id": "640770510"
+    },
+    "metal_destoy_03": {
+      "bank": 32,
+      "id": "22443069"
+    },
+    "metal_destoy_04": {
+      "bank": 32,
+      "id": "353404606"
+    },
+    "metal_destoy_05": {
+      "bank": 32,
+      "id": "825388432"
+    },
+    "metal_destoy_06": {
+      "bank": 32,
+      "id": "282042820"
+    },
+    "metal_destoy_07": {
+      "bank": 32,
+      "id": "459022823"
+    },
+    "mining": {
+      "bank": 12,
+      "id": "2947051645"
+    },
+    "monkey_active_use_VO_1": {
+      "bank": 1,
+      "id": "135980806"
+    },
+    "monkey_active_use_VO_2": {
+      "bank": 1,
+      "id": "78728116"
+    },
+    "monkey_active_use_VO_3": {
+      "bank": 1,
+      "id": "226910747"
+    },
+    "monkey_charge_use_VO_1": {
+      "bank": 1,
+      "id": "53164801"
+    },
+    "monkey_charge_use_VO_2": {
+      "bank": 1,
+      "id": "123851200"
+    },
+    "monkey_charge_use_VO_3": {
+      "bank": 1,
+      "id": "1592718"
+    },
+    "monkey_death1_VO": {
+      "bank": 1,
+      "id": "277495460"
+    },
+    "monkey_death2_VO": {
+      "bank": 1,
+      "id": "281021564"
+    },
+    "monkey_death3_VO": {
+      "bank": 1,
+      "id": "411957896"
+    },
+    "monkey_death4_VO": {
+      "bank": 1,
+      "id": "915311027"
+    },
+    "monkey_fall_01_VO": {
+      "bank": 1,
+      "id": "775994746"
+    },
+    "monkey_hit_01": {
+      "bank": 1,
+      "id": "738042204"
+    },
+    "monkey_hit_02": {
+      "bank": 1,
+      "id": "238572733"
+    },
+    "monkey_hit_03": {
+      "bank": 1,
+      "id": "768501162"
+    },
+    "monkey_hit_04": {
+      "bank": 1,
+      "id": "277028990"
+    },
+    "monkey_idle_VO_01": {
+      "bank": 1,
+      "id": "372275019"
+    },
+    "monkey_idle_VO_02": {
+      "bank": 1,
+      "id": "962871526"
+    },
+    "monkey_idle_VO_03": {
+      "bank": 1,
+      "id": "975260327"
+    },
+    "monkey_idle_VO_04": {
+      "bank": 1,
+      "id": "1055621543"
+    },
+    "monkey_idle_VO_05": {
+      "bank": 1,
+      "id": "477953519"
+    },
+    "mountain_amb_wind_day_loop": {
+      "bank": 10,
+      "id": "916851309"
+    },
+    "mountain_ext_day_strong_wind_01": {
+      "bank": 10,
+      "id": "379028470"
+    },
+    "mountain_ext_day_strong_wind_02": {
+      "bank": 10,
+      "id": "22067279"
+    },
+    "mountain_ext_day_strong_wind_gust_01": {
+      "bank": 10,
+      "id": "381806511"
+    },
+    "mountain_ext_day_strong_wind_gust_02": {
+      "bank": 10,
+      "id": "793791523"
+    },
+    "mountain_ext_day_strong_wind_gust_03": {
+      "bank": 10,
+      "id": "243520988"
+    },
+    "mountain_ext_night_strong_wind_01": {
+      "bank": 10,
+      "id": "485666439"
+    },
+    "mountain_pass_05": {
+      "bank": 11,
+      "id": "88616144"
+    },
+    "mountain_pass_theme_01": {
+      "bank": 11,
+      "id": "661677129"
+    },
+    "mountain_pass_theme_03": {
+      "bank": 11,
+      "id": "673214590"
+    },
+    "mountain_pass_theme_04": {
+      "bank": 11,
+      "id": "383127370"
+    },
+    "mu_home_island_day_01": {
+      "bank": 11,
+      "id": "319941608"
+    },
+    "mu_home_island_day_02": {
+      "bank": 11,
+      "id": "375063662"
+    },
+    "mu_home_island_night_01": {
+      "bank": 11,
+      "id": "1011549894"
+    },
+    "mu_home_island_night_02": {
+      "bank": 11,
+      "id": "309437974"
+    },
+    "mu_pvp_countdown_1": {
+      "bank": 11,
+      "id": "876674552"
+    },
+    "mu_pvp_countdown_2": {
+      "bank": 11,
+      "id": "384558035"
+    },
+    "mu_pvp_countdown_3": {
+      "bank": 11,
+      "id": "209999166"
+    },
+    "mu_pvp_end_countdown": {
+      "bank": 11,
+      "id": "666547934"
+    },
+    "mu_pvp_victory": {
+      "bank": 11,
+      "id": "770150860"
+    },
+    "non_diegetic": {
+      "bank": 12,
+      "id": "2224033327"
+    },
+    "npc_6_attack_1": {
+      "bank": 1,
+      "id": "97998525"
+    },
+    "npc_6_attack_10": {
+      "bank": 1,
+      "id": "336035434"
+    },
+    "npc_6_attack_2": {
+      "bank": 1,
+      "id": "639194100"
+    },
+    "npc_6_attack_3": {
+      "bank": 1,
+      "id": "285312079"
+    },
+    "npc_6_attack_4": {
+      "bank": 1,
+      "id": "573635063"
+    },
+    "npc_6_attack_5": {
+      "bank": 1,
+      "id": "431470781"
+    },
+    "npc_6_attack_6": {
+      "bank": 1,
+      "id": "15247778"
+    },
+    "npc_6_attack_7": {
+      "bank": 1,
+      "id": "36833157"
+    },
+    "npc_6_attack_8": {
+      "bank": 1,
+      "id": "37898061"
+    },
+    "npc_6_attack_9": {
+      "bank": 1,
+      "id": "63179814"
+    },
+    "npc_7_attack_1": {
+      "bank": 1,
+      "id": "11871093"
+    },
+    "npc_7_attack_2": {
+      "bank": 1,
+      "id": "85133996"
+    },
+    "npc_7_attack_3": {
+      "bank": 1,
+      "id": "41633452"
+    },
+    "npc_7_attack_4": {
+      "bank": 1,
+      "id": "445725599"
+    },
+    "npc_7_attack_5": {
+      "bank": 1,
+      "id": "111199549"
+    },
+    "npc_7_attack_6": {
+      "bank": 1,
+      "id": "614196171"
+    },
+    "npc_7_attack_7": {
+      "bank": 1,
+      "id": "22315295"
+    },
+    "npc_7_attack_8": {
+      "bank": 1,
+      "id": "53411957"
+    },
+    "npc_7_attack_9": {
+      "bank": 1,
+      "id": "271087137"
+    },
+    "npc_8_attack_1": {
+      "bank": 1,
+      "id": "94025908"
+    },
+    "npc_8_attack_10": {
+      "bank": 1,
+      "id": "269582307"
+    },
+    "npc_8_attack_2": {
+      "bank": 1,
+      "id": "477334232"
+    },
+    "npc_8_attack_3": {
+      "bank": 1,
+      "id": "130412803"
+    },
+    "npc_8_attack_4": {
+      "bank": 1,
+      "id": "245426187"
+    },
+    "npc_8_attack_5": {
+      "bank": 1,
+      "id": "35318341"
+    },
+    "npc_8_attack_6": {
+      "bank": 1,
+      "id": "394178461"
+    },
+    "npc_8_attack_7": {
+      "bank": 1,
+      "id": "24029791"
+    },
+    "npc_8_attack_8": {
+      "bank": 1,
+      "id": "25033784"
+    },
+    "npc_8_attack_9": {
+      "bank": 1,
+      "id": "13695169"
+    },
+    "npc_Sword_attack_01": {
+      "bank": 18,
+      "id": "137077015"
+    },
+    "npc_Sword_attack_02": {
+      "bank": 18,
+      "id": "52054411"
+    },
+    "npc_Sword_attack_03": {
+      "bank": 18,
+      "id": "167567380"
+    },
+    "npc_Sword_attack_04": {
+      "bank": 18,
+      "id": "42913383"
+    },
+    "npc_Sword_attack_05": {
+      "bank": 18,
+      "id": "3280167"
+    },
+    "npc_Sword_attack_06": {
+      "bank": 18,
+      "id": "50073769"
+    },
+    "npc_sword_death_01": {
+      "bank": 18,
+      "id": "133907681"
+    },
+    "npc_sword_death_02": {
+      "bank": 18,
+      "id": "342392874"
+    },
+    "npc_sword_death_03": {
+      "bank": 18,
+      "id": "423621751"
+    },
+    "npc_sword_pain_01": {
+      "bank": 18,
+      "id": "360935036"
+    },
+    "npc_sword_pain_02": {
+      "bank": 18,
+      "id": "577991855"
+    },
+    "npc_sword_pain_03": {
+      "bank": 18,
+      "id": "179701458"
+    },
+    "npc_sword_pain_04": {
+      "bank": 18,
+      "id": "212687859"
+    },
+    "npc_sword_pain_05": {
+      "bank": 18,
+      "id": "276873633"
+    },
+    "npc_sword_pain_06": {
+      "bank": 18,
+      "id": "402029035"
+    },
+    "ocean_loop": {
+      "bank": 10,
+      "id": "124104130"
+    },
+    "ocean_loop_v2": {
+      "bank": 10,
+      "id": "573524849"
+    },
+    "ocean_loop_v2_b": {
+      "bank": 10,
+      "id": "999460422"
+    },
+    "ocean_surf_loop": {
+      "bank": 10,
+      "id": "802286492"
+    },
+    "open_backpack": {
+      "bank": 24,
+      "id": "746731925"
+    },
+    "open_crafting": {
+      "bank": 24,
+      "id": "214588446"
+    },
+    "owl_hoot_01": {
+      "bank": 10,
+      "id": "383402817"
+    },
+    "pick_hit_crystal_II_01": {
+      "bank": 27,
+      "id": "730858742"
+    },
+    "pick_hit_crystal_II_02": {
+      "bank": 27,
+      "id": "359311859"
+    },
+    "pick_hit_crystal_II_03": {
+      "bank": 27,
+      "id": "514914435"
+    },
+    "pick_hit_crystal_I_01": {
+      "bank": 27,
+      "id": "237811105"
+    },
+    "pick_hit_crystal_I_02": {
+      "bank": 27,
+      "id": "494893691"
+    },
+    "pick_hit_crystal_I_03": {
+      "bank": 27,
+      "id": "399134338"
+    },
+    "pick_hit_dirt_01": {
+      "bank": 35,
+      "id": "658236220"
+    },
+    "pick_hit_dirt_02": {
+      "bank": 35,
+      "id": "202340094"
+    },
+    "pick_hit_dirt_03": {
+      "bank": 35,
+      "id": "1014979862"
+    },
+    "pick_hit_dirt_04": {
+      "bank": 35,
+      "id": "448075996"
+    },
+    "pick_hit_dirt_05": {
+      "bank": 35,
+      "id": "337159137"
+    },
+    "pick_hit_dirt_06": {
+      "bank": 35,
+      "id": "964695839"
+    },
+    "pick_hit_dirt_07": {
+      "bank": 35,
+      "id": "754768113"
+    },
+    "pick_hit_dirt_08": {
+      "bank": 35,
+      "id": "753911334"
+    },
+    "pick_hit_dirt_09": {
+      "bank": 35,
+      "id": "1037742355"
+    },
+    "pick_hit_leaves_01": {
+      "bank": 29,
+      "id": "470955934"
+    },
+    "pick_hit_leaves_02": {
+      "bank": 29,
+      "id": "696275279"
+    },
+    "pick_hit_leaves_03": {
+      "bank": 29,
+      "id": "707813120"
+    },
+    "pick_hit_leaves_04": {
+      "bank": 29,
+      "id": "893821007"
+    },
+    "pick_hit_leaves_05": {
+      "bank": 29,
+      "id": "1027211192"
+    },
+    "pick_hit_leaves_06": {
+      "bank": 29,
+      "id": "750029696"
+    },
+    "pick_hit_leaves_07": {
+      "bank": 29,
+      "id": "200987997"
+    },
+    "pick_hit_leaves_08": {
+      "bank": 29,
+      "id": "700028525"
+    },
+    "pick_hit_leaves_09": {
+      "bank": 29,
+      "id": "337474409"
+    },
+    "pick_hit_leaves_10": {
+      "bank": 29,
+      "id": "922315494"
+    },
+    "pick_hit_leaves_11": {
+      "bank": 29,
+      "id": "1061454459"
+    },
+    "pick_hit_metal_impact_01": {
+      "bank": 32,
+      "id": "214694487"
+    },
+    "pick_hit_metal_impact_02": {
+      "bank": 32,
+      "id": "661656389"
+    },
+    "pick_hit_metal_impact_03": {
+      "bank": 32,
+      "id": "958917357"
+    },
+    "pick_hit_metal_impact_04": {
+      "bank": 32,
+      "id": "594082665"
+    },
+    "pick_hit_metal_impact_05": {
+      "bank": 32,
+      "id": "504186426"
+    },
+    "pick_hit_metal_impact_dull_01": {
+      "bank": 39,
+      "id": "497492208"
+    },
+    "pick_hit_metal_impact_dull_02": {
+      "bank": 39,
+      "id": "714156119"
+    },
+    "pick_hit_snow_III_01": {
+      "bank": 34,
+      "id": "124503397"
+    },
+    "pick_hit_snow_III_02": {
+      "bank": 34,
+      "id": "172069470"
+    },
+    "pick_hit_snow_III_03": {
+      "bank": 34,
+      "id": "599339694"
+    },
+    "pick_hit_snow_II_01": {
+      "bank": 34,
+      "id": "112153739"
+    },
+    "pick_hit_snow_II_02": {
+      "bank": 34,
+      "id": "603612897"
+    },
+    "pick_hit_snow_II_03": {
+      "bank": 34,
+      "id": "577441270"
+    },
+    "pick_hit_snow_IV_01": {
+      "bank": 34,
+      "id": "907357929"
+    },
+    "pick_hit_snow_IV_02": {
+      "bank": 34,
+      "id": "194701697"
+    },
+    "pick_hit_snow_IV_03": {
+      "bank": 34,
+      "id": "198599382"
+    },
+    "pick_hit_snow_I_01": {
+      "bank": 34,
+      "id": "449473959"
+    },
+    "pick_hit_snow_I_02": {
+      "bank": 34,
+      "id": "770887767"
+    },
+    "pick_hit_snow_I_03": {
+      "bank": 34,
+      "id": "862706853"
+    },
+    "pick_hit_snow_destroyed_01": {
+      "bank": 34,
+      "id": "364594217"
+    },
+    "pick_hit_stone_01": {
+      "bank": 32,
+      "id": "155256542"
+    },
+    "pick_hit_stone_02": {
+      "bank": 32,
+      "id": "241560438"
+    },
+    "pick_hit_stone_03": {
+      "bank": 32,
+      "id": "73324191"
+    },
+    "pick_hit_stone_04": {
+      "bank": 32,
+      "id": "935927021"
+    },
+    "pick_hit_stone_05": {
+      "bank": 32,
+      "id": "810638668"
+    },
+    "pick_hit_stone_06": {
+      "bank": 32,
+      "id": "691549255"
+    },
+    "pick_hit_stone_07": {
+      "bank": 32,
+      "id": "438178834"
+    },
+    "pick_hit_stone_08": {
+      "bank": 32,
+      "id": "367944694"
+    },
+    "pick_hit_stone_09": {
+      "bank": 32,
+      "id": "43231304"
+    },
+    "pick_hit_stone_10": {
+      "bank": 32,
+      "id": "179154235"
+    },
+    "pick_hit_stone_11": {
+      "bank": 32,
+      "id": "269020711"
+    },
+    "pick_hit_stone_12": {
+      "bank": 32,
+      "id": "379476298"
+    },
+    "pick_hit_stone_13": {
+      "bank": 32,
+      "id": "112509408"
+    },
+    "pick_hit_stone_14": {
+      "bank": 32,
+      "id": "1071352655"
+    },
+    "pick_hit_stone_15": {
+      "bank": 32,
+      "id": "617497071"
+    },
+    "pick_hit_stone_16": {
+      "bank": 32,
+      "id": "777873551"
+    },
+    "pick_hit_stone_17": {
+      "bank": 32,
+      "id": "971668546"
+    },
+    "pick_hit_stone_18": {
+      "bank": 32,
+      "id": "367755814"
+    },
+    "pick_hit_stone_19": {
+      "bank": 32,
+      "id": "842228885"
+    },
+    "pick_hit_stone_20": {
+      "bank": 32,
+      "id": "672672596"
+    },
+    "pick_hit_wood_01": {
+      "bank": 39,
+      "id": "361636067"
+    },
+    "pick_hit_wood_02": {
+      "bank": 39,
+      "id": "88941101"
+    },
+    "pick_hit_wood_03": {
+      "bank": 39,
+      "id": "430503627"
+    },
+    "pick_hit_wood_04": {
+      "bank": 39,
+      "id": "585841490"
+    },
+    "pick_hit_wood_05": {
+      "bank": 39,
+      "id": "169165602"
+    },
+    "pick_hit_wood_06": {
+      "bank": 39,
+      "id": "422072970"
+    },
+    "pick_hit_wood_07": {
+      "bank": 39,
+      "id": "40955672"
+    },
+    "pick_hit_wood_08": {
+      "bank": 39,
+      "id": "282806862"
+    },
+    "pick_hit_wood_09": {
+      "bank": 39,
+      "id": "381177588"
+    },
+    "pick_hit_wood_10": {
+      "bank": 39,
+      "id": "12443390"
+    },
+    "pick_hit_wood_11": {
+      "bank": 39,
+      "id": "111342008"
+    },
+    "pick_hit_wood_12": {
+      "bank": 39,
+      "id": "159138662"
+    },
+    "pick_hit_wood_13": {
+      "bank": 39,
+      "id": "225814066"
+    },
+    "pick_hit_wood_14": {
+      "bank": 39,
+      "id": "97340832"
+    },
+    "pick_hit_wood_15": {
+      "bank": 39,
+      "id": "644947634"
+    },
+    "pick_hit_wood_16": {
+      "bank": 39,
+      "id": "311714538"
+    },
+    "pick_hit_wood_17": {
+      "bank": 39,
+      "id": "606128245"
+    },
+    "pick_hit_wood_18": {
+      "bank": 39,
+      "id": "328303288"
+    },
+    "pick_hit_wood_19": {
+      "bank": 39,
+      "id": "267952267"
+    },
+    "pick_hit_wood_20": {
+      "bank": 39,
+      "id": "289907613"
+    },
+    "pick_hit_wood_21": {
+      "bank": 39,
+      "id": "717761784"
+    },
+    "pick_hit_wood_22": {
+      "bank": 39,
+      "id": "783435986"
+    },
+    "pick_hit_wood_23": {
+      "bank": 39,
+      "id": "504125773"
+    },
+    "pickaxe_use_active_01": {
+      "bank": 22,
+      "id": "225074377"
+    },
+    "pickaxe_use_active_02": {
+      "bank": 22,
+      "id": "161805536"
+    },
+    "pickaxe_use_active_03": {
+      "bank": 22,
+      "id": "362585454"
+    },
+    "pickaxe_use_active_04": {
+      "bank": 22,
+      "id": "408796862"
+    },
+    "pickup_created": {
+      "bank": 9,
+      "id": "817353076"
+    },
+    "pickup_land_v2_01": {
+      "bank": 9,
+      "id": "961040684"
+    },
+    "pickup_land_v2_02": {
+      "bank": 9,
+      "id": "774692360"
+    },
+    "pickup_land_v2_03": {
+      "bank": 9,
+      "id": "984224098"
+    },
+    "plant_die": {
+      "bank": 17,
+      "id": "674390777"
+    },
+    "plant_night_spawn": {
+      "bank": 17,
+      "id": "181846204"
+    },
+    "plant_night_spawn_vo_01": {
+      "bank": 17,
+      "id": "48828507"
+    },
+    "plant_night_spwan_vo_02": {
+      "bank": 17,
+      "id": "752297463"
+    },
+    "play_forest_portal_amb_loop": {
+      "bank": 9,
+      "id": "1849664952"
+    },
+    "player_drops_pickup": {
+      "bank": 9,
+      "id": "529390616"
+    },
+    "player_help_info": {
+      "bank": 24,
+      "id": "246921141"
+    },
+    "player_hit": {
+      "bank": 18,
+      "id": "127524916"
+    },
+    "player_movement_speed": {
+      "bank": 18,
+      "id": "1062734446"
+    },
+    "portal_closing": {
+      "bank": 9,
+      "id": "791527147"
+    },
+    "portal_forest_one_shot_01": {
+      "bank": 9,
+      "id": "436902121"
+    },
+    "portal_forest_one_shot_02": {
+      "bank": 9,
+      "id": "317476954"
+    },
+    "portal_loop": {
+      "bank": 9,
+      "id": "886056242"
+    },
+    "portal_one_shot_01": {
+      "bank": 9,
+      "id": "932252520"
+    },
+    "portal_one_shot_02": {
+      "bank": 9,
+      "id": "101279001"
+    },
+    "portal_one_shot_03": {
+      "bank": 9,
+      "id": "404367953"
+    },
+    "portal_one_shot_04": {
+      "bank": 9,
+      "id": "893117637"
+    },
+    "portal_one_shot_05": {
+      "bank": 9,
+      "id": "128455496"
+    },
+    "portal_one_shot_06": {
+      "bank": 9,
+      "id": "802807249"
+    },
+    "portal_opening_seq_v2": {
+      "bank": 9,
+      "id": "333962837"
+    },
+    "portal_sound": {
+      "bank": 24,
+      "id": "539058232"
+    },
+    "portal_synth_loop_01": {
+      "bank": 9,
+      "id": "700113783"
+    },
+    "portal_synth_loop_02": {
+      "bank": 9,
+      "id": "794592050"
+    },
+    "portal_synth_loop_03": {
+      "bank": 9,
+      "id": "940778438"
+    },
+    "pot_hit_02": {
+      "bank": 4,
+      "id": "46018894"
+    },
+    "pot_hit_03": {
+      "bank": 4,
+      "id": "580151124"
+    },
+    "pot_smash_01": {
+      "bank": 8,
+      "id": "524043827"
+    },
+    "pot_smash_02": {
+      "bank": 8,
+      "id": "130845613"
+    },
+    "pot_smash_03": {
+      "bank": 8,
+      "id": "978757509"
+    },
+    "pot_smash_04": {
+      "bank": 8,
+      "id": "581243022"
+    },
+    "pot_smash_05": {
+      "bank": 8,
+      "id": "875559897"
+    },
+    "put_in_trash": {
+      "bank": 24,
+      "id": "795761729"
+    },
+    "pvp_flag_blue": {
+      "bank": 18,
+      "id": "3937171901"
+    },
+    "pvp_flag_red": {
+      "bank": 18,
+      "id": "4114786278"
+    },
+    "pvp_flag_use_active_01": {
+      "bank": 22,
+      "id": "440903421"
+    },
+    "pvp_flag_use_active_02": {
+      "bank": 22,
+      "id": "126074156"
+    },
+    "pvp_flag_use_active_03": {
+      "bank": 22,
+      "id": "138269422"
+    },
+    "pvp_flag_use_active_04": {
+      "bank": 22,
+      "id": "83862292"
+    },
+    "pvp_flag_use_active_05": {
+      "bank": 22,
+      "id": "542617125"
+    },
+    "pvp_flag_use_active_06": {
+      "bank": 22,
+      "id": "324731564"
+    },
+    "pvp_state": {
+      "bank": 12,
+      "id": "204341347"
+    },
+    "rock_debris_01": {
+      "bank": 32,
+      "id": "278011477"
+    },
+    "rock_debris_02": {
+      "bank": 32,
+      "id": "1060273234"
+    },
+    "rock_debris_03": {
+      "bank": 32,
+      "id": "219452264"
+    },
+    "rock_debris_04": {
+      "bank": 32,
+      "id": "576308979"
+    },
+    "sand_debris_01": {
+      "bank": 33,
+      "id": "672243576"
+    },
+    "sand_debris_02": {
+      "bank": 33,
+      "id": "407005709"
+    },
+    "sand_debris_03": {
+      "bank": 33,
+      "id": "638468577"
+    },
+    "sand_debris_04": {
+      "bank": 33,
+      "id": "148332251"
+    },
+    "sand_debris_05": {
+      "bank": 33,
+      "id": "974373549"
+    },
+    "seagulls_loop": {
+      "bank": 10,
+      "id": "341313132"
+    },
+    "sharp_rock_impact_layer_01": {
+      "bank": 39,
+      "id": "8110768"
+    },
+    "sharp_rock_impact_layer_02": {
+      "bank": 39,
+      "id": "140181373"
+    },
+    "sharp_rock_impact_layer_03": {
+      "bank": 39,
+      "id": "65126943"
+    },
+    "sharp_rock_impact_layer_04": {
+      "bank": 39,
+      "id": "11187477"
+    },
+    "sharp_rock_impact_layer_05": {
+      "bank": 39,
+      "id": "202548051"
+    },
+    "sharp_rock_use_01": {
+      "bank": 22,
+      "id": "470729905"
+    },
+    "sharp_rock_use_02": {
+      "bank": 22,
+      "id": "51889312"
+    },
+    "sharp_rock_use_03": {
+      "bank": 22,
+      "id": "99234303"
+    },
+    "sharp_rock_use_04": {
+      "bank": 22,
+      "id": "156259830"
+    },
+    "sheep_attk_gather_active": {
+      "bank": 20,
+      "id": "877227925"
+    },
+    "sheep_attk_nibble_active": {
+      "bank": 22,
+      "id": "339048045"
+    },
+    "sheep_body_impact": {
+      "bank": 20,
+      "id": "351664899"
+    },
+    "sheep_breathe3": {
+      "bank": 20,
+      "id": "979958463"
+    },
+    "sheep_breathe_6": {
+      "bank": 20,
+      "id": "481748366"
+    },
+    "sheep_breathe_7": {
+      "bank": 20,
+      "id": "180586915"
+    },
+    "sheep_fstep_run_01": {
+      "bank": 20,
+      "id": "397936870"
+    },
+    "sheep_fstep_run_02": {
+      "bank": 20,
+      "id": "1042708917"
+    },
+    "sheep_fstep_run_03": {
+      "bank": 20,
+      "id": "21566631"
+    },
+    "sheep_fstep_run_04": {
+      "bank": 20,
+      "id": "749267558"
+    },
+    "sheep_fstep_run_05": {
+      "bank": 20,
+      "id": "792021602"
+    },
+    "sheep_fstep_run_06": {
+      "bank": 20,
+      "id": "755584640"
+    },
+    "sheep_fstep_walk_01": {
+      "bank": 20,
+      "id": "1002949622"
+    },
+    "sheep_fstep_walk_02": {
+      "bank": 20,
+      "id": "386341417"
+    },
+    "sheep_jump_01": {
+      "bank": 20,
+      "id": "1010209867"
+    },
+    "sheep_jump_02": {
+      "bank": 20,
+      "id": "1034089696"
+    },
+    "sheep_land": {
+      "bank": 20,
+      "id": "737580692"
+    },
+    "sheep_sleep_in": {
+      "bank": 20,
+      "id": "96909623"
+    },
+    "sheep_sleep_loop_01": {
+      "bank": 20,
+      "id": "136246846"
+    },
+    "sheep_sleep_loop_02": {
+      "bank": 20,
+      "id": "782011061"
+    },
+    "sheep_sleep_out": {
+      "bank": 20,
+      "id": "646589793"
+    },
+    "sheep_vo_01": {
+      "bank": 20,
+      "id": "75003095"
+    },
+    "sheep_vo_02": {
+      "bank": 20,
+      "id": "227361982"
+    },
+    "sheep_vo_03": {
+      "bank": 20,
+      "id": "424416660"
+    },
+    "sheep_vo_04": {
+      "bank": 20,
+      "id": "3936506"
+    },
+    "sheep_vo_05": {
+      "bank": 20,
+      "id": "1027755386"
+    },
+    "sheep_vo_07": {
+      "bank": 20,
+      "id": "645680003"
+    },
+    "sheep_vo_08": {
+      "bank": 20,
+      "id": "137398583"
+    },
+    "sheep_vo_09": {
+      "bank": 20,
+      "id": "901479368"
+    },
+    "sheep_vo_10": {
+      "bank": 20,
+      "id": "751799333"
+    },
+    "sheep_vo_11": {
+      "bank": 20,
+      "id": "21551316"
+    },
+    "sheep_vo_die": {
+      "bank": 20,
+      "id": "493880219"
+    },
+    "skyIsland_ext_wind_amb_v2": {
+      "bank": 10,
+      "id": "228209598"
+    },
+    "slam_attack_impact": {
+      "bank": 13,
+      "id": "1063906819"
+    },
+    "spring_trap_woosh1_01": {
+      "bank": 22,
+      "id": "808258406"
+    },
+    "spring_trap_woosh2_01": {
+      "bank": 22,
+      "id": "368333169"
+    },
+    "spring_trap_woosh2_02": {
+      "bank": 22,
+      "id": "991526772"
+    },
+    "spring_trap_woosh2_03": {
+      "bank": 22,
+      "id": "878406620"
+    },
+    "spring_trap_woosh2_04": {
+      "bank": 22,
+      "id": "1003190601"
+    },
+    "spring_trap_woosh2_05": {
+      "bank": 22,
+      "id": "703965674"
+    },
+    "spring_trap_woosh2_06": {
+      "bank": 22,
+      "id": "997223292"
+    },
+    "stage_complete_01": {
+      "bank": 24,
+      "id": "910790559"
+    },
+    "stage_complete_02": {
+      "bank": 24,
+      "id": "179979884"
+    },
+    "stage_complete_03": {
+      "bank": 24,
+      "id": "995410575"
+    },
+    "take_photo": {
+      "bank": 24,
+      "id": "402149115"
+    },
+    "task_complete": {
+      "bank": 24,
+      "id": "138339140"
+    },
+    "tdm_30_sec_left": {
+      "bank": 11,
+      "id": "743253661"
+    },
+    "tdm_countdown_test": {
+      "bank": 11,
+      "id": "597108136"
+    },
+    "tdm_start_loop": {
+      "bank": 11,
+      "id": "827676205"
+    },
+    "tiger_01_attack_VO_01": {
+      "bank": 13,
+      "id": "1015770210"
+    },
+    "tiger_01_attack_VO_02": {
+      "bank": 13,
+      "id": "830453035"
+    },
+    "tiger_01_attack_VO_03": {
+      "bank": 13,
+      "id": "183304219"
+    },
+    "tiger_01_attack_arm_swipe": {
+      "bank": 22,
+      "id": "275492778"
+    },
+    "tiger_01_attack_spit_VO_01": {
+      "bank": 13,
+      "id": "923323959"
+    },
+    "tiger_01_attack_spit_VO_02": {
+      "bank": 13,
+      "id": "493073838"
+    },
+    "tiger_01_attack_spit_breath": {
+      "bank": 13,
+      "id": "23175506"
+    },
+    "tiger_01_footstep_sneak_01": {
+      "bank": 13,
+      "id": "222190152"
+    },
+    "tiger_01_footstep_sneak_02": {
+      "bank": 13,
+      "id": "1066647156"
+    },
+    "tiger_01_footstep_sneak_03": {
+      "bank": 13,
+      "id": "1046040396"
+    },
+    "tiger_01_footstep_sneak_04": {
+      "bank": 13,
+      "id": "737669137"
+    },
+    "tiger_01_idle_01": {
+      "bank": 13,
+      "id": "111398526"
+    },
+    "tiger_01_idle_02": {
+      "bank": 13,
+      "id": "766909508"
+    },
+    "tiger_01_idle_03": {
+      "bank": 13,
+      "id": "403505307"
+    },
+    "tiger_01_sleep_breath_01": {
+      "bank": 13,
+      "id": "388860771"
+    },
+    "tiger_01_sleep_breath_02": {
+      "bank": 13,
+      "id": "408454685"
+    },
+    "tiger_01_sleep_in": {
+      "bank": 13,
+      "id": "776071716"
+    },
+    "tiger_01_sleep_out": {
+      "bank": 13,
+      "id": "633951974"
+    },
+    "tiger_01_turn_footstep_01": {
+      "bank": 13,
+      "id": "776336950"
+    },
+    "tiger_02_attk_active_01_VO": {
+      "bank": 1,
+      "id": "23786748"
+    },
+    "tiger_02_attk_active_02_VO": {
+      "bank": 1,
+      "id": "209422842"
+    },
+    "tiger_02_attk_active_03_VO": {
+      "bank": 1,
+      "id": "578510808"
+    },
+    "tiger_02_attk_active_04_VO": {
+      "bank": 1,
+      "id": "258904259"
+    },
+    "tiger_02_attk_charge_01_VO": {
+      "bank": 1,
+      "id": "287049470"
+    },
+    "tiger_02_attk_charge_02_VO": {
+      "bank": 1,
+      "id": "203153288"
+    },
+    "tiger_02_attk_charge_03_VO": {
+      "bank": 1,
+      "id": "383330185"
+    },
+    "tiger_02_attk_recoil_01_VO": {
+      "bank": 1,
+      "id": "22576783"
+    },
+    "tiger_breathe_01": {
+      "bank": 13,
+      "id": "126452326"
+    },
+    "tiger_breathe_02": {
+      "bank": 13,
+      "id": "497933548"
+    },
+    "tiger_breathe_03": {
+      "bank": 13,
+      "id": "663784995"
+    },
+    "tiger_death_01": {
+      "bank": 13,
+      "id": "191021675"
+    },
+    "tiger_death_01_vo_01": {
+      "bank": 13,
+      "id": "650318703"
+    },
+    "tiger_death_01_vo_02": {
+      "bank": 13,
+      "id": "531394407"
+    },
+    "tiger_death_01_vo_03": {
+      "bank": 13,
+      "id": "228742574"
+    },
+    "tiger_jump_vo_01": {
+      "bank": 13,
+      "id": "632432684"
+    },
+    "tiger_pounce_active_VO_01": {
+      "bank": 13,
+      "id": "823704967"
+    },
+    "tiger_pounce_active_VO_02": {
+      "bank": 13,
+      "id": "642645371"
+    },
+    "tiger_pounce_active_VO_03": {
+      "bank": 13,
+      "id": "309824275"
+    },
+    "tiger_pounce_active_VO_04": {
+      "bank": 13,
+      "id": "180845223"
+    },
+    "tiger_pounce_charge_vo_01": {
+      "bank": 13,
+      "id": "593838872"
+    },
+    "tiger_pounce_charge_vo_02": {
+      "bank": 13,
+      "id": "673585345"
+    },
+    "tiger_pounce_recoil": {
+      "bank": 13,
+      "id": "123733651"
+    },
+    "tiger_pounce_recoil_VO_01": {
+      "bank": 13,
+      "id": "904533192"
+    },
+    "tiger_pounce_recoil_VO_02": {
+      "bank": 13,
+      "id": "27415952"
+    },
+    "todo_get_item_01": {
+      "bank": 24,
+      "id": "38371735"
+    },
+    "todo_get_item_02": {
+      "bank": 24,
+      "id": "137006491"
+    },
+    "todo_get_item_03": {
+      "bank": 24,
+      "id": "352587939"
+    },
+    "todo_get_item_04": {
+      "bank": 24,
+      "id": "766880610"
+    },
+    "todo_get_item_05": {
+      "bank": 24,
+      "id": "29679906"
+    },
+    "todo_get_item_06": {
+      "bank": 24,
+      "id": "398384607"
+    },
+    "todo_get_item_07": {
+      "bank": 24,
+      "id": "1061490041"
+    },
+    "todo_list_appear": {
+      "bank": 24,
+      "id": "485935765"
+    },
+    "todo_list_disappear": {
+      "bank": 24,
+      "id": "943495058"
+    },
+    "todo_list_item_highlight": {
+      "bank": 24,
+      "id": "860763584"
+    },
+    "todo_list_sheen": {
+      "bank": 24,
+      "id": "219197148"
+    },
+    "torch_loop": {
+      "bank": 23,
+      "id": "734154830"
+    },
+    "trader_chest_open": {
+      "bank": 5,
+      "id": "525076885"
+    },
+    "ui_button_negative": {
+      "bank": 24,
+      "id": "243636066"
+    },
+    "ui_camera_turn": {
+      "bank": 24,
+      "id": "342843184"
+    },
+    "ui_close_inventory": {
+      "bank": 24,
+      "id": "47758816"
+    },
+    "ui_ctf_FlagReset": {
+      "bank": 19,
+      "id": "144731044"
+    },
+    "ui_ctf_countdown_1": {
+      "bank": 19,
+      "id": "1036727769"
+    },
+    "ui_ctf_countdown_2": {
+      "bank": 19,
+      "id": "324147367"
+    },
+    "ui_ctf_countdown_3": {
+      "bank": 19,
+      "id": "945946027"
+    },
+    "ui_ctf_flagCaptured": {
+      "bank": 19,
+      "id": "990597953"
+    },
+    "ui_ctf_flagDropped": {
+      "bank": 19,
+      "id": "669819009"
+    },
+    "ui_ctf_flagStolen": {
+      "bank": 19,
+      "id": "242884870"
+    },
+    "ui_ctf_flagTaken": {
+      "bank": 19,
+      "id": "390774613"
+    },
+    "ui_ctf_flag_recovered": {
+      "bank": 19,
+      "id": "115017363"
+    },
+    "ui_ctf_roundEnd": {
+      "bank": 19,
+      "id": "634643742"
+    },
+    "ui_ctf_roundEnd_horn": {
+      "bank": 19,
+      "id": "178961879"
+    },
+    "ui_ctf_roundEnding": {
+      "bank": 19,
+      "id": "785018218"
+    },
+    "ui_ctf_roundEnding_horn": {
+      "bank": 19,
+      "id": "881468407"
+    },
+    "ui_ctf_start_b": {
+      "bank": 19,
+      "id": "865927488"
+    },
+    "ui_ctf_win": {
+      "bank": 19,
+      "id": "261463116"
+    },
+    "ui_equip_Lhand_button_select": {
+      "bank": 24,
+      "id": "196225179"
+    },
+    "ui_equip_Rhand_button_select": {
+      "bank": 24,
+      "id": "887395081"
+    },
+    "ui_gen_confirm": {
+      "bank": 24,
+      "id": "842761207"
+    },
+    "ui_open_inventory": {
+      "bank": 24,
+      "id": "395924583"
+    },
+    "ui_pickup_resource": {
+      "bank": 24,
+      "id": "703300137"
+    },
+    "ui_placedown_resource": {
+      "bank": 24,
+      "id": "172236331"
+    },
+    "ui_rollover": {
+      "bank": 24,
+      "id": "476984502"
+    },
+    "ui_select_item": {
+      "bank": 24,
+      "id": "610113322"
+    },
+    "ui_sellbutton_cancel": {
+      "bank": 24,
+      "id": "882101094"
+    },
+    "ui_sellbutton_confirm": {
+      "bank": 24,
+      "id": "912510457"
+    },
+    "ui_sellbutton_select": {
+      "bank": 24,
+      "id": "56608739"
+    },
+    "ui_transfer_button_select": {
+      "bank": 24,
+      "id": "419404260"
+    },
+    "ui_unlock": {
+      "bank": 24,
+      "id": "376863715"
+    },
+    "underwater_rumble_loop": {
+      "bank": 18,
+      "id": "885134737"
+    },
+    "underwater_splashes_01": {
+      "bank": 18,
+      "id": "221065067"
+    },
+    "underwater_splashes_02": {
+      "bank": 18,
+      "id": "389911745"
+    },
+    "underwater_splashes_03": {
+      "bank": 18,
+      "id": "456305551"
+    },
+    "underwater_splashes_04": {
+      "bank": 18,
+      "id": "510874341"
+    },
+    "underwater_splashes_06": {
+      "bank": 18,
+      "id": "874946602"
+    },
+    "underwater_splashes_07": {
+      "bank": 18,
+      "id": "553764263"
+    },
+    "underwater_splashes_08": {
+      "bank": 18,
+      "id": "505791382"
+    },
+    "underwater_splashes_09": {
+      "bank": 18,
+      "id": "518008063"
+    },
+    "underwater_swim_move_01": {
+      "bank": 18,
+      "id": "909354256"
+    },
+    "underwater_swim_move_02": {
+      "bank": 18,
+      "id": "61567216"
+    },
+    "underwater_swim_move_04": {
+      "bank": 18,
+      "id": "730262778"
+    },
+    "underwater_swim_move_05": {
+      "bank": 18,
+      "id": "548098589"
+    },
+    "underwater_swim_move_06": {
+      "bank": 18,
+      "id": "961026129"
+    },
+    "underwater_swim_move_07": {
+      "bank": 18,
+      "id": "741268395"
+    },
+    "unharvestable": {
+      "bank": 36,
+      "id": "790492713"
+    },
+    "vegatation_squelch_01": {
+      "bank": 25,
+      "id": "1015390228"
+    },
+    "vegatation_squelch_02": {
+      "bank": 25,
+      "id": "198142343"
+    },
+    "vegatetion_destroyed_01": {
+      "bank": 25,
+      "id": "551413706"
+    },
+    "vegetetion_destroyed_02": {
+      "bank": 25,
+      "id": "231879901"
+    },
+    "vegetetion_hit_01": {
+      "bank": 25,
+      "id": "801972247"
+    },
+    "vegetetion_hit_02": {
+      "bank": 25,
+      "id": "250320845"
+    },
+    "vegetetion_hit_03": {
+      "bank": 25,
+      "id": "769517614"
+    },
+    "vegetetion_hit_04": {
+      "bank": 25,
+      "id": "851819856"
+    },
+    "vegetetion_hit_05": {
+      "bank": 25,
+      "id": "356881633"
+    },
+    "vending_machine_UI_close": {
+      "bank": 5,
+      "id": "166059070"
+    },
+    "vending_machine_UI_open": {
+      "bank": 5,
+      "id": "558051695"
+    },
+    "vending_machine_open": {
+      "bank": 5,
+      "id": "40381124"
+    },
+    "wa_start_perc_outro": {
+      "bank": 11,
+      "id": "802178554"
+    },
+    "winterFestival_chest_loop": {
+      "bank": 5,
+      "id": "1048403922"
+    },
+    "winterFestival_chest_open": {
+      "bank": 5,
+      "id": "875585738"
+    },
+    "wolf_01_attack_VO_01": {
+      "bank": 13,
+      "id": "622889681"
+    },
+    "wolf_01_attack_VO_02": {
+      "bank": 13,
+      "id": "788560629"
+    },
+    "wolf_01_attack_VO_03": {
+      "bank": 13,
+      "id": "391362928"
+    },
+    "wolf_01_attack_VO_04": {
+      "bank": 13,
+      "id": "932501215"
+    },
+    "wolf_01_attack_spit_VO_01": {
+      "bank": 13,
+      "id": "115682567"
+    },
+    "wolf_01_attack_spit_VO_02": {
+      "bank": 13,
+      "id": "425541446"
+    },
+    "wolf_01_attack_spit_VO_03": {
+      "bank": 13,
+      "id": "926625116"
+    },
+    "wolf_01_death_VO_01": {
+      "bank": 13,
+      "id": "212525849"
+    },
+    "wolf_01_death_VO_02": {
+      "bank": 13,
+      "id": "16291009"
+    },
+    "wolf_01_death_VO_03": {
+      "bank": 13,
+      "id": "272758391"
+    },
+    "wolf_01_death_VO_04": {
+      "bank": 13,
+      "id": "343576709"
+    },
+    "wolf_01_goto_sleep": {
+      "bank": 13,
+      "id": "153316287"
+    },
+    "wolf_01_sleep_breath_01": {
+      "bank": 13,
+      "id": "480917394"
+    },
+    "wolf_01_sleep_breath_02": {
+      "bank": 13,
+      "id": "435095993"
+    },
+    "wolf_01_sleep_breath_03": {
+      "bank": 13,
+      "id": "249027645"
+    },
+    "wolf_01_sleep_breath_04": {
+      "bank": 13,
+      "id": "14846344"
+    },
+    "wolf_01_wakeup": {
+      "bank": 13,
+      "id": "298309145"
+    },
+    "wolf_attack_active_01": {
+      "bank": 1,
+      "id": "13401901"
+    },
+    "wolf_attack_active_02": {
+      "bank": 1,
+      "id": "8872446"
+    },
+    "wolf_attack_active_03": {
+      "bank": 1,
+      "id": "113174147"
+    },
+    "wolf_attack_active_04": {
+      "bank": 1,
+      "id": "194620367"
+    },
+    "wolf_attack_active_05": {
+      "bank": 1,
+      "id": "3980101"
+    },
+    "wolf_attack_charge_01": {
+      "bank": 1,
+      "id": "37132679"
+    },
+    "wolf_attack_charge_02": {
+      "bank": 1,
+      "id": "42929415"
+    },
+    "wolf_attack_charge_03": {
+      "bank": 1,
+      "id": "8538423"
+    },
+    "wolf_attack_charge_04": {
+      "bank": 1,
+      "id": "42567290"
+    },
+    "wolf_attack_idle_breathe_01": {
+      "bank": 13,
+      "id": "573206224"
+    },
+    "wolf_attack_idle_breathe_02": {
+      "bank": 13,
+      "id": "440247461"
+    },
+    "wolf_attack_idle_breathe_03": {
+      "bank": 13,
+      "id": "180491401"
+    },
+    "wolf_attack_idle_breathe_04": {
+      "bank": 13,
+      "id": "406283109"
+    },
+    "wolf_attack_idle_breathe_05": {
+      "bank": 13,
+      "id": "564001891"
+    },
+    "wolf_attack_recover_01": {
+      "bank": 1,
+      "id": "41582004"
+    },
+    "wolf_attack_spit_vo_04": {
+      "bank": 13,
+      "id": "270050052"
+    },
+    "wolf_attack_spit_vo_05": {
+      "bank": 13,
+      "id": "547652349"
+    },
+    "wolf_attack_spit_vo_06": {
+      "bank": 13,
+      "id": "873728275"
+    },
+    "wolf_attack_swipe_VO_05": {
+      "bank": 13,
+      "id": "73475064"
+    },
+    "wolf_attack_swipe_vo_06": {
+      "bank": 13,
+      "id": "546367419"
+    },
+    "wolf_attack_swipe_vo_07": {
+      "bank": 13,
+      "id": "235923624"
+    },
+    "wolf_boss_rough_01": {
+      "bank": 11,
+      "id": "105964068"
+    },
+    "wolf_fstep_run_01": {
+      "bank": 13,
+      "id": "633280093"
+    },
+    "wolf_fstep_run_02": {
+      "bank": 13,
+      "id": "706045313"
+    },
+    "wolf_fstep_run_03": {
+      "bank": 13,
+      "id": "924276845"
+    },
+    "wolf_fstep_run_04": {
+      "bank": 13,
+      "id": "237499770"
+    },
+    "wolf_fstep_run_05": {
+      "bank": 13,
+      "id": "198836574"
+    },
+    "wolf_fstep_run_06": {
+      "bank": 13,
+      "id": "80833663"
+    },
+    "wolf_fstep_walk_01": {
+      "bank": 13,
+      "id": "930140389"
+    },
+    "wolf_fstep_walk_02": {
+      "bank": 13,
+      "id": "527580"
+    },
+    "wolf_fstep_walk_03": {
+      "bank": 13,
+      "id": "536518619"
+    },
+    "wolf_fstep_walk_04": {
+      "bank": 13,
+      "id": "671460184"
+    },
+    "wolf_fstep_walk_05": {
+      "bank": 13,
+      "id": "81746743"
+    },
+    "wolf_fstep_walk_06": {
+      "bank": 13,
+      "id": "914710605"
+    },
+    "wolf_fstep_walk_07": {
+      "bank": 13,
+      "id": "924580920"
+    },
+    "wolf_fstep_walk_08": {
+      "bank": 13,
+      "id": "423246958"
+    },
+    "wolf_howl_01": {
+      "bank": 10,
+      "id": "523731735"
+    },
+    "wood_debirs_01": {
+      "bank": 39,
+      "id": "51763997"
+    },
+    "wood_debirs_04": {
+      "bank": 39,
+      "id": "21673530"
+    },
+    "wood_debirs_05": {
+      "bank": 39,
+      "id": "421839350"
+    },
+    "wood_debirs_06": {
+      "bank": 39,
+      "id": "12980420"
+    },
+    "wood_debirs_08": {
+      "bank": 39,
+      "id": "98923426"
+    },
+    "wood_debirs_11": {
+      "bank": 39,
+      "id": "148281827"
+    },
+    "wood_debirs_12": {
+      "bank": 39,
+      "id": "183317482"
+    },
+    "wood_debirs_16": {
+      "bank": 39,
+      "id": "215725541"
+    },
+    "wood_debirs_18": {
+      "bank": 39,
+      "id": "148636805"
+    },
+    "wood_shield_impact_01": {
+      "bank": 18,
+      "id": "348197877"
+    },
+    "wood_shield_impact_02": {
+      "bank": 18,
+      "id": "903342350"
+    },
+    "wood_shield_impact_03": {
+      "bank": 18,
+      "id": "360631025"
+    },
+    "wood_shield_impact_04": {
+      "bank": 18,
+      "id": "378582920"
+    },
+    "wood_small_destroyed_01": {
+      "bank": 39,
+      "id": "21066049"
+    },
+    "wood_small_detroyed_02": {
+      "bank": 39,
+      "id": "286506677"
+    },
+    "wood_small_detroyed_03": {
+      "bank": 39,
+      "id": "965474503"
+    },
+    "wood_small_detroyed_04": {
+      "bank": 39,
+      "id": "350191943"
+    },
+    "wood_small_detroyed_05": {
+      "bank": 39,
+      "id": "647275304"
+    },
+    "wood_small_hit_03": {
+      "bank": 39,
+      "id": "468521528"
+    },
+    "wood_small_hit_04": {
+      "bank": 39,
+      "id": "618579316"
+    },
+    "wood_small_hit_05": {
+      "bank": 39,
+      "id": "577625746"
+    },
+    "wood_splinter_01": {
+      "bank": 39,
+      "id": "224471948"
+    },
+    "wood_splinter_02": {
+      "bank": 39,
+      "id": "815727227"
+    },
+    "wood_splinter_03": {
+      "bank": 39,
+      "id": "331133762"
+    },
+    "wood_splinter_04": {
+      "bank": 39,
+      "id": "824654262"
+    },
+    "wooden_room_tone_01": {
+      "bank": 10,
+      "id": "785330497"
+    },
+    "woodpost_ui_close": {
+      "bank": 5,
+      "id": "74279113"
+    },
+    "woodpost_ui_open": {
+      "bank": 5,
+      "id": "966418970"
+    },
+    "workbench_UI_close": {
+      "bank": 5,
+      "id": "355423024"
+    },
+    "workbench_UI_open": {
+      "bank": 5,
+      "id": "991669159"
+    },
+    "workbench_active_01": {
+      "bank": 5,
+      "id": "618215010"
+    },
+    "workbench_active_02": {
+      "bank": 5,
+      "id": "914765403"
+    },
+    "yetI_use_active_VO_01": {
+      "bank": 1,
+      "id": "60420134"
+    },
+    "yetI_use_active_VO_02": {
+      "bank": 1,
+      "id": "56219667"
+    },
+    "yetI_use_active_VO_03": {
+      "bank": 1,
+      "id": "4380578"
+    },
+    "yetI_use_active_VO_04": {
+      "bank": 1,
+      "id": "54694941"
+    },
+    "yetI_use_active_VO_05": {
+      "bank": 1,
+      "id": "2034389"
+    },
+    "yet_fstep_run_01": {
+      "bank": 1,
+      "id": "506018910"
+    },
+    "yet_fstep_run_02": {
+      "bank": 1,
+      "id": "513522961"
+    },
+    "yet_fstep_run_03": {
+      "bank": 1,
+      "id": "230564448"
+    },
+    "yet_fstep_run_04": {
+      "bank": 1,
+      "id": "678758421"
+    },
+    "yet_fstep_run_05": {
+      "bank": 1,
+      "id": "294270976"
+    },
+    "yet_fstep_run_06": {
+      "bank": 1,
+      "id": "59210169"
+    },
+    "yet_fstep_run_07": {
+      "bank": 1,
+      "id": "347578383"
+    },
+    "yet_fstep_run_08": {
+      "bank": 1,
+      "id": "660006365"
+    },
+    "yet_fstep_run_09": {
+      "bank": 1,
+      "id": "280309546"
+    },
+    "yet_fstep_walk_01": {
+      "bank": 1,
+      "id": "280529286"
+    },
+    "yet_fstep_walk_02": {
+      "bank": 1,
+      "id": "295945069"
+    },
+    "yet_fstep_walk_03": {
+      "bank": 1,
+      "id": "832571210"
+    },
+    "yet_fstep_walk_04": {
+      "bank": 1,
+      "id": "367502856"
+    },
+    "yet_fstep_walk_05": {
+      "bank": 1,
+      "id": "484032965"
+    },
+    "yet_fstep_walk_06": {
+      "bank": 1,
+      "id": "829009106"
+    },
+    "yeti_breathe_vo_01": {
+      "bank": 1,
+      "id": "157675720"
+    },
+    "yeti_breathe_vo_02": {
+      "bank": 1,
+      "id": "946382825"
+    },
+    "yeti_breathe_vo_03": {
+      "bank": 1,
+      "id": "722835340"
+    },
+    "yeti_breathe_vo_04": {
+      "bank": 1,
+      "id": "1018829357"
+    },
+    "yeti_breathe_vo_05": {
+      "bank": 1,
+      "id": "497107430"
+    },
+    "yeti_cave_153bpm": {
+      "bank": 11,
+      "id": "857973645"
+    },
+    "yeti_chest_open": {
+      "bank": 5,
+      "id": "1069136061"
+    },
+    "yeti_combat_02_165bpm": {
+      "bank": 11,
+      "id": "755623934"
+    },
+    "yeti_combat_156bpm": {
+      "bank": 11,
+      "id": "758862385"
+    },
+    "yeti_combat_win_01": {
+      "bank": 11,
+      "id": "64954910"
+    },
+    "yeti_combat_win_02": {
+      "bank": 11,
+      "id": "763665640"
+    },
+    "yeti_combat_win_03": {
+      "bank": 11,
+      "id": "256812477"
+    },
+    "yeti_death_1_vo_01": {
+      "bank": 1,
+      "id": "712960315"
+    },
+    "yeti_death_2_vo_01": {
+      "bank": 1,
+      "id": "199421451"
+    },
+    "yeti_death_3_vo_01": {
+      "bank": 1,
+      "id": "686053405"
+    },
+    "yeti_death_4_vo_01": {
+      "bank": 1,
+      "id": "788265954"
+    },
+    "yeti_hit_01": {
+      "bank": 1,
+      "id": "529500773"
+    },
+    "yeti_hit_03": {
+      "bank": 1,
+      "id": "808422852"
+    },
+    "yeti_hit_04": {
+      "bank": 1,
+      "id": "153740388"
+    },
+    "yeti_hit_05": {
+      "bank": 1,
+      "id": "1059496975"
+    },
+    "yeti_hit_vo_01": {
+      "bank": 1,
+      "id": "616692114"
+    },
+    "yeti_hit_vo_02": {
+      "bank": 1,
+      "id": "417556728"
+    },
+    "yeti_hit_vo_03": {
+      "bank": 1,
+      "id": "792662457"
+    },
+    "yeti_hit_vo_04": {
+      "bank": 1,
+      "id": "601562422"
+    },
+    "yeti_hit_vo_05": {
+      "bank": 1,
+      "id": "736961633"
+    },
+    "yeti_hit_vo_06": {
+      "bank": 1,
+      "id": "883072705"
+    },
+    "yeti_hit_vo_07": {
+      "bank": 1,
+      "id": "476912063"
+    },
+    "yeti_idle_random_vo_01": {
+      "bank": 1,
+      "id": "355212118"
+    },
+    "yeti_idle_random_vo_02": {
+      "bank": 1,
+      "id": "447813209"
+    },
+    "yeti_idle_random_vo_03": {
+      "bank": 1,
+      "id": "102747719"
+    },
+    "yeti_idle_random_vo_04": {
+      "bank": 1,
+      "id": "730496996"
+    },
+    "yeti_idle_random_vo_05": {
+      "bank": 1,
+      "id": "349533220"
+    },
+    "yeti_idle_random_vo_06": {
+      "bank": 1,
+      "id": "1064078622"
+    },
+    "yeti_idle_random_vo_07": {
+      "bank": 1,
+      "id": "298631659"
+    },
+    "yeti_sleep_vo_01": {
+      "bank": 1,
+      "id": "1023355794"
+    },
+    "yeti_sleep_vo_02": {
+      "bank": 1,
+      "id": "745749186"
+    },
+    "yeti_sleep_vo_03": {
+      "bank": 1,
+      "id": "202974336"
+    },
+    "yeti_sleep_vo_04": {
+      "bank": 1,
+      "id": "280419275"
+    },
+    "yeti_sleep_vo_05": {
+      "bank": 1,
+      "id": "630456182"
+    },
+    "yeti_use_active_01": {
+      "bank": 22,
+      "id": "288570365"
+    },
+    "yeti_use_active_02": {
+      "bank": 22,
+      "id": "266331949"
+    },
+    "yeti_use_active_03": {
+      "bank": 22,
+      "id": "467754731"
+    },
+    "yeti_use_active_04": {
+      "bank": 22,
+      "id": "299331546"
+    },
+    "yeti_use_active_05": {
+      "bank": 22,
+      "id": "369468444"
+    },
+    "yeti_use_active_06": {
+      "bank": 22,
+      "id": "247655802"
+    },
+    "yeti_use_active_VO_07": {
+      "bank": 1,
+      "id": "97540380"
+    },
+    "yeti_use_active_VO_08": {
+      "bank": 1,
+      "id": "132689114"
+    },
+    "yeti_use_active_VO_09": {
+      "bank": 1,
+      "id": "194092142"
+    },
+    "yeti_use_active_VO_10": {
+      "bank": 1,
+      "id": "80745905"
+    },
+    "yeti_use_charge_VO_01": {
+      "bank": 1,
+      "id": "59662367"
+    }
+  }
+}
