@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34511.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkySaga.Web", "SkySaga.Web\SkySaga.Web.csproj", "{3247F031-11ED-4CCA-A222-10E881AA43C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkySaga.Game", "SkySaga.Game\SkySaga.Game.csproj", "{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmilegateAuth", "SmilegateAuth\SmilegateAuth.csproj", "{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Debug|x64.Build.0 = Debug|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Release|x64.ActiveCfg = Release|Any CPU
+		{3247F031-11ED-4CCA-A222-10E881AA43C6}.Release|x64.Build.0 = Release|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Debug|x64.Build.0 = Debug|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Release|x64.ActiveCfg = Release|Any CPU
+		{E86DF0BA-BE16-4FB4-B01F-C9535E7E34FB}.Release|x64.Build.0 = Release|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Debug|x64.Build.0 = Debug|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Release|x64.ActiveCfg = Release|Any CPU
+		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0283B72-DDD8-47F2-A9D6-E78A0DEB2F2B}
+	EndGlobalSection
+EndGlobal
