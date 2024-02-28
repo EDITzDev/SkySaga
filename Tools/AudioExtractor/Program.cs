@@ -4,7 +4,7 @@ using System.Buffers.Binary;
 using System.Text.Json.Nodes;
 using System.Collections.Generic;
 
-namespace WWiseCatalogue;
+namespace AudioExtractor;
 
 internal class Program
 {

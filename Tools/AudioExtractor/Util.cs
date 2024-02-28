@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace WWiseCatalogue;
+namespace AudioExtractor;
 
 internal class Util
 {
