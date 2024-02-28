@@ -26,7 +26,7 @@ HANDLE WINAPI hk_CreateMutexA(LPSECURITY_ATTRIBUTES lpMutexAttributes, BOOL bIni
 		MH_STATUS status;
 
 		if ((status = MH_CreateHook((LPVOID)0x8547F0, hk_LogInternal, (LPVOID*)&o_LogInternal)) != MH_OK)
-			printf("Create Hook Failed! - %s", MH_StatusToString(status));
+			printf("Create Hook Failed! - %s\n", MH_StatusToString(status));
 
 		MH_EnableHook((LPVOID)0x8547F0);
 	}
@@ -47,7 +47,7 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 		MH_STATUS status;
 
 		if ((status = MH_CreateHookApi("kernel32.dll", "CreateMutexA", hk_CreateMutexA, (LPVOID*)&o_CreateMutexA)) != MH_OK)
-			printf("Create Hook Failed! - %s", MH_StatusToString(status));
+			printf("Create Hook Failed! - %s\n", MH_StatusToString(status));
 
 		MH_EnableHook(MH_ALL_HOOKS);
 
