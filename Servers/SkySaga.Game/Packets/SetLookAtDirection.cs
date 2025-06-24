@@ -5,7 +5,7 @@ using RakNet;
 
 namespace SkySaga.Game.Packets;
 
-internal static class SetLookAtDirection
+public static class SetLookAtDirection
 {
     public static bool Handle(Connection connection, BitStream bitStream)
     {
@@ -19,12 +19,12 @@ internal static class SetLookAtDirection
         if (!bitStream.ReadBits(inOutByteArray, 32 - Util.NumBitsRequiredUInt32(0x6400), true))
             return false;
 
-        var pitch = BitConverter.ToSingle(inOutByteArray, 0);
+        var pitch = BitConverter.ToInt32(inOutByteArray, 0);
 
         if (!bitStream.ReadBits(inOutByteArray, 32 - Util.NumBitsRequiredUInt32(0x6400), true))
             return false;
 
-        var yaw = BitConverter.ToSingle(inOutByteArray, 0);
+        var yaw = BitConverter.ToInt32(inOutByteArray, 0);
 
         Debug.WriteLine($"lookAtMode: {lookAtMode}, pitch: {pitch}, yaw: {yaw}", nameof(SetLookAtDirection));
 

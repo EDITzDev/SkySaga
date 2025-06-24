@@ -5,7 +5,7 @@ using RakNet;
 
 namespace SkySaga.Game.Packets;
 
-internal static class ExecuteEntityAction
+public static class ExecuteEntityAction
 {
     private static Dictionary<uint, string> _actions = new()
     {

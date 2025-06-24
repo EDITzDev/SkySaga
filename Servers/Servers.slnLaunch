@@ -3,19 +3,12 @@
     "Name": "Servers",
     "Projects": [
       {
-        "Name": "SkySaga.Web\\SkySaga.Web.csproj",
-        "Action": "Start",
-        "DebugTarget": ""
+        "Path": "SkySaga.Web\\SkySaga.Web.csproj",
+        "Action": "Start"
       },
       {
-        "Name": "SkySaga.Game\\SkySaga.Game.csproj",
-        "Action": "Start",
-        "DebugTarget": ""
-      },
-      {
-        "Name": "SmilegateAuth\\SmilegateAuth.csproj",
-        "Action": "Start",
-        "DebugTarget": ""
+        "Path": "SkySaga.Game\\SkySaga.Game.csproj",
+        "Action": "Start"
       }
     ]
   }

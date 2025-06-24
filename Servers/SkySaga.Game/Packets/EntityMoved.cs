@@ -5,7 +5,7 @@ using RakNet;
 
 namespace SkySaga.Game.Packets;
 
-internal static class EntityMoved
+public static class EntityMoved
 {
     public static bool Handle(Connection connection, BitStream bitStream)
     {

@@ -7,7 +7,7 @@ public static class BinaryStorageEndpoints
 {
     public static void MapBinaryStorageEndpoint(this WebApplication app)
     {
-        app.MapPost("/api/binary-storage/photos/_whichIsCooler", (int size) =>
+        app.MapPost("/api/binary-storage/photos/_whichIsCooler", (int? size) =>
         {
             return Results.Ok();
         });

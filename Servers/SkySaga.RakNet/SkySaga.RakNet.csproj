@@ -1,19 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Nullable>enable</Nullable>
-    <OutputType>Exe</OutputType>
-    <LangVersion>preview</LangVersion>
+    <NoWarn>$(NoWarn);CA2013</NoWarn>
     <PlatformTarget>x64</PlatformTarget>
     <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SkySaga.RakNet\SkySaga.RakNet.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Data\Entities.json">
+    <None Update="RakNet.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

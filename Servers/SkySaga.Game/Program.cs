@@ -1,7 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Threading;
 
 using RakNet;
+
 using SkySaga.Game;
 
 var keepRunning = true;
@@ -59,7 +61,11 @@ if (!server.Start())
 Console.WriteLine($"Server has started on port {port}.");
 
 while (keepRunning)
+{
     server.Tick();
+
+    Thread.Sleep(30);
+}
 
 Console.WriteLine("""
         Server has stopped.

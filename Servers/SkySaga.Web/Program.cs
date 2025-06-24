@@ -4,9 +4,13 @@ using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.HttpLogging;
 using Microsoft.Extensions.DependencyInjection;
 
+using Microsoft.AspNetCore.Hosting;
+
 using SkySaga.Web.Endpoints;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.WebHost.UseUrls("http://localhost:5164");
 
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();

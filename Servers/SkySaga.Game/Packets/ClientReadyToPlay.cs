@@ -4,17 +4,16 @@ using RakNet;
 
 namespace SkySaga.Game.Packets;
 
-internal static class ClientReadyToPlay
+public static class ClientReadyToPlay
 {
     public static bool Handle(Connection connection, BitStream bitStream)
     {
         Debug.WriteLine("", nameof(ClientReadyToPlay));
 
-        var setClientEntity = new BitStream();
-
-        setClientEntity.WritePacketId(PacketId.SetClientEntity);
-
-        setClientEntity.Write(connection.EntityId); // entityID
+        var setClientEntity = new SetClientEntity
+        {
+            EntityId = connection.Player.Id
+        };
 
         connection.Send(setClientEntity);
 

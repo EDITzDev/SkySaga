@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkySaga.Game", "SkySaga.Gam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmilegateAuth", "SmilegateAuth\SmilegateAuth.csproj", "{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkySaga.RakNet", "SkySaga.RakNet\SkySaga.RakNet.csproj", "{D9B012EC-B988-4956-A8AF-AA4107BB9FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE144E4-2D2D-4B22-9FBB-1BC9D8EE094A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B012EC-B988-4956-A8AF-AA4107BB9FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B012EC-B988-4956-A8AF-AA4107BB9FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B012EC-B988-4956-A8AF-AA4107BB9FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B012EC-B988-4956-A8AF-AA4107BB9FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
