@@ -13,6 +13,7 @@ public class ItemSpec : ISerializableType
     public int? Unknown;
 
     public List<int?> Unknown4List = [];
+    private const int Unknown4ListDefaultCount = 4;
 
     public int? Unknown2;
 
@@ -23,13 +24,13 @@ public class ItemSpec : ISerializableType
         bitStream.WriteOptional(Unknown, bitStream.Write);
 
         // Count is optimised
-        if (Unknown4List.Count < 4)
+        if (Unknown4List.Count < Unknown4ListDefaultCount)
         {
-            bitStream.WriteBits(BitConverter.GetBytes(Unknown4List.Count), 32 - Util.NumBitsRequiredUInt32(4), true);
+            bitStream.WriteBits(BitConverter.GetBytes(Unknown4List.Count), 32 - Util.NumBitsRequiredUInt32(Unknown4ListDefaultCount), true);
         }
         else
         {
-            bitStream.WriteBits(BitConverter.GetBytes(4), 32 - Util.NumBitsRequiredUInt32(4), true);
+            bitStream.WriteBits(BitConverter.GetBytes(Unknown4ListDefaultCount), 32 - Util.NumBitsRequiredUInt32(Unknown4ListDefaultCount), true);
 
             bitStream.Write1();
             bitStream.Write(Unknown4List.Count);

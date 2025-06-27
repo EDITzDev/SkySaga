@@ -237,6 +237,13 @@ public class Connection
         if (Player.TryGetComponent<ClientCraftingDropSlotsComponent>(out var clientCraftingDropSlotsComponent))
             clientCraftingDropSlotsComponent.CraftingDropSlots = [0, 0];
 
+        if (Player.TryGetComponent<ClientInventoryComponent>(out var clientInventoryComponent))
+        {
+            clientInventoryComponent.MaxInventorySlots = 10;
+
+            clientInventoryComponent.InventoryLoadOut = Util.ComputeCrc32("Torch");
+        }
+
         foreach (var entity in Map.Entities)
         {
             var entityAdd = new EntityAdd
