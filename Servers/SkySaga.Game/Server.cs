@@ -52,17 +52,50 @@ public class Server : IDisposable
 
         if (map.TryCreateEntity("Sheep", out var sheep))
         {
-            if (sheep.TryGetComponent("SmoothedTransformComponent", out var component) &&
-                component is SmoothedTransformComponent smoothedTransformComponent)
-            {
-                smoothedTransformComponent.Position = new Vector<int>([2269, 70, 629, 0, 0, 0, 0, 0]);
-            }
+            if (sheep.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([2000, 70, 629, 0, 0, 0, 0, 0]);
 
-            if (sheep.TryGetComponent("ClientHealthComponent", out component) &&
-                component is ClientHealthComponent transformComponent)
-            {
-                transformComponent.HalfHearts = 50;
-            }
+            if (sheep.TryGetComponent<ClientHealthComponent>(out var clientHealthComponent))
+                clientHealthComponent.HalfHearts = 50;
+
+            if (sheep.TryGetComponent<ClientCharacterPhysicsComponent>(out var clientCharacterPhysicsComponent))
+                clientCharacterPhysicsComponent.IsMoveable = true;
+        }
+
+        if (map.TryCreateEntity("Bear", out var bear))
+        {
+            if (bear.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([2200, 70, 629, 0, 0, 0, 0, 0]);
+        }
+
+        if (map.TryCreateEntity("Chicken", out var chicken))
+        {
+            if (chicken.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([2400, 70, 629, 0, 0, 0, 0, 0]);
+        }
+
+        if (map.TryCreateEntity("Goat", out var goat))
+        {
+            if (goat.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([2600, 70, 629, 0, 0, 0, 0, 0]);
+        }
+
+        if (map.TryCreateEntity("Knight", out var knight))
+        {
+            if (knight.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([2800, 70, 629, 0, 0, 0, 0, 0]);
+        }
+
+        if (map.TryCreateEntity("Monkey", out var monkey))
+        {
+            if (monkey.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([3000, 70, 629, 0, 0, 0, 0, 0]);
+        }
+
+        if (map.TryCreateEntity("Tree", out var tree))
+        {
+            if (tree.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([3000, 70, 1000, 0, 0, 0, 0, 0]);
         }
 
         _maps.TryAdd(0, map);

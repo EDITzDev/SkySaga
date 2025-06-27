@@ -20,6 +20,11 @@ public class Map
         Definition = definition;
     }
 
+    public bool TryGetEntity(int id, [NotNullWhen(true)] out Entity? entity)
+    {
+        return _entities.TryGetValue(id, out entity);
+    }
+
     public bool TryCreateEntity(string name, [NotNullWhen(true)] out Entity? entity)
     {
         if (!EntityManager.TryCreateEntity(_uniqueEntityId++, name, out entity))

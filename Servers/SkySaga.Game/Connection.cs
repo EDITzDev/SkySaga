@@ -225,23 +225,14 @@ public class Connection
     {
         // TODO: Component property defaults and database
 
-        if (Player.TryGetComponent("ClientHealthComponent", out var component) &&
-            component is ClientHealthComponent transformComponent)
-        {
+        if (Player.TryGetComponent<ClientHealthComponent>(out var transformComponent))
             transformComponent.HalfHearts = 100;
-        }
 
-        if (Player.TryGetComponent("SmoothedTransformComponent", out component) &&
-            component is SmoothedTransformComponent smoothedTransformComponent)
-        {
+        if (Player.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
             smoothedTransformComponent.Position = new Vector<int>([2269, 70, 629, 0, 0, 0, 0, 0]);
-        }
 
-        if (Player.TryGetComponent("ClientFeatureUnlockComponent", out component) &&
-            component is ClientFeatureUnlockComponent clientFeatureUnlockComponent)
-        {
+        if (Player.TryGetComponent<ClientFeatureUnlockComponent>(out var clientFeatureUnlockComponent))
             clientFeatureUnlockComponent.FeatureIsLockedStatusList.Add(true);
-        }
 
         foreach (var entity in Map.Entities)
         {
