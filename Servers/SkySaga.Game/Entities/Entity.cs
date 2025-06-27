@@ -1,19 +1,18 @@
 ﻿using System;
 using System.Collections;
+using System.Diagnostics;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 
 using RakNet;
 
 using SkySaga.Game.Components;
-using SkySaga.Game.Extensions;
 
 namespace SkySaga.Game.Entities;
 
 public class Entity
 {
     private readonly BitArray _sync;
-    private readonly BitArray _lastSync;
     private readonly EntityData _entityData;
 
     private readonly Dictionary<string, Component> _components = new(StringComparer.OrdinalIgnoreCase);
@@ -22,7 +21,7 @@ public class Entity
 
     public string Name => _entityData.Name;
 
-    public bool SyncRequired => _sync.IsEqual(_lastSync) == false;
+    public bool SyncRequired => _sync.HasAnySet();
 
     public Entity(int id, EntityData entityData, IReadOnlyCollection<Component> components)
     {
@@ -38,7 +37,6 @@ public class Entity
         }
 
         _sync = new BitArray(_entityData.SyncedParametersCount);
-        _lastSync = new BitArray(_entityData.SyncedParametersCount);
     }
 
     private void OnComponentParameterChanged(Component component, string parameter)
@@ -49,9 +47,26 @@ public class Entity
             _sync.Set(syncIndex, true);
     }
 
+    [Obsolete]
     public bool TryGetComponent(string name, [NotNullWhen(true)] out Component? component)
     {
         return _components.TryGetValue(name, out component);
+    }
+
+
+    public bool TryGetComponent<T>([NotNullWhen(true)] out T? component) where T : Component
+    {
+        component = null;
+
+        if (!_components.TryGetValue(typeof(T).Name, out var baseComponent))
+            return false;
+
+        if (baseComponent is not T tempComponent)
+            return false;
+
+        component = tempComponent;
+
+        return true;
     }
 
     public BitStream GetSyncData(bool newEntity)
@@ -62,8 +77,7 @@ public class Entity
 
         for (var i = 0; i < _entityData.SyncedParametersCount; i++)
         {
-            // Skip matching values
-            if (!newEntity && _sync[i] == _lastSync[i])
+            if (!newEntity && !_sync[i])
                 continue;
 
             if (!_entityData.TryGetSyncedParameterInfo(i, out var componentName, out var parameterName))
@@ -73,7 +87,11 @@ public class Entity
                 continue;
 
             if (component.TrySync(parameterName, parameterBitStream))
+            {
                 bitArray.Set(i, true);
+
+                Debug.WriteLine($"Synced entity. Name: {Name}, Component: {componentName}, Parameter: {parameterName}");
+            }
         }
 
         var syncData = new BitStream();
@@ -91,6 +109,8 @@ public class Entity
 
         if (parameterBitStream.GetNumberOfBitsUsed() > 0)
             syncData.Write(parameterBitStream);
+
+        _sync.SetAll(false);
 
         return syncData;
     }
