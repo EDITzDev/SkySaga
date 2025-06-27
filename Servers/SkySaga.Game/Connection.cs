@@ -234,6 +234,9 @@ public class Connection
         if (Player.TryGetComponent<ClientFeatureUnlockComponent>(out var clientFeatureUnlockComponent))
             clientFeatureUnlockComponent.FeatureIsLockedStatusList.Add(true);
 
+        if (Player.TryGetComponent<ClientCraftingDropSlotsComponent>(out var clientCraftingDropSlotsComponent))
+            clientCraftingDropSlotsComponent.CraftingDropSlots = [0, 0];
+
         foreach (var entity in Map.Entities)
         {
             var entityAdd = new EntityAdd
