@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Numerics;
 using System.Diagnostics;
 
 using RakNet;
+
+using SkySaga.Game.Components;
 
 namespace SkySaga.Game.Packets;
 
@@ -35,6 +38,12 @@ public static class EntityMoved
         var yaw = BitConverter.ToSingle(inOutByteArray, 0);
 
         Debug.WriteLine($"entityID: {entityId}, position: (x :{positionX} y: {positionY}, z: {positionZ}), yaw: {yaw}", nameof(EntityMoved));
+
+        if (entityId == connection.Player.Id)
+        {
+            if (connection.Player.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
+                smoothedTransformComponent.Position = new Vector<int>([positionX, positionY, positionZ, 0, 0, 0, 0, 0]);
+        }
 
         return true;
     }
