@@ -98,6 +98,10 @@ public class Connection
 
             chunkSync.Data1 = new byte[32 * 32 + 1];
 
+            // empty chunk
+            for (var i = 1; i < chunkSync.Data1.Length; i++)
+                chunkSync.Data1[i] = byte.MaxValue;
+
             // fill with dirt
             for (var i = 1; i < chunkSync.Data1.Length; i++)
                 chunkSync.Data1[i] = 24;
@@ -114,12 +118,12 @@ public class Connection
             chunkSync.Data1 = new byte[32 * 32 * 10 + 1];
 
             // empty chunk
-            for (var i = 0; i < 32 * 32 * 10; i++)
-                chunkSync.Data1[i + 1] = byte.MaxValue;
+            for (var i = 1; i < chunkSync.Data1.Length; i++)
+                chunkSync.Data1[i] = byte.MaxValue;
 
             // floor
-            for (var i = 0; i < 32 * 32; i++)
-                chunkSync.Data1[i + 1] = 24;
+            for (var i = 1; i < 32 * 32; i++)
+                chunkSync.Data1[i] = 24;
 
             // tree - trunk
             chunkSync.Data1[200 + 1024 + 1] = 13;
@@ -198,6 +202,10 @@ public class Connection
 
             chunkSync.Data1 = new byte[32 * 32 + 1];
 
+            // empty chunk
+            for (var i = 1; i < chunkSync.Data1.Length; i++)
+                chunkSync.Data1[i] = byte.MaxValue;
+
             // fill with dirt
             for (var i = 1; i < chunkSync.Data1.Length; i++)
                 chunkSync.Data1[i] = 24;
@@ -212,6 +220,10 @@ public class Connection
             };
 
             chunkSync.Data1 = new byte[32 * 32 + 1];
+
+            // empty chunk
+            for (var i = 1; i < chunkSync.Data1.Length; i++)
+                chunkSync.Data1[i] = byte.MaxValue;
 
             // fill with dirt
             for (var i = 1; i < chunkSync.Data1.Length; i++)
