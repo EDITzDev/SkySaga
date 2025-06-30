@@ -68,6 +68,11 @@ public static class BitStreamExtensions
         bitStream.Write(packetIdPart);
     }
 
+    public static void WriteUInt64(this BitStream bitStream, ulong value)
+    {
+        bitStream.WriteBits(BitConverter.GetBytes(value), sizeof(ulong) * 8, true);
+    }
+
     public static void WriteString(this BitStream bitStream, string? value)
     {
         if (string.IsNullOrEmpty(value))

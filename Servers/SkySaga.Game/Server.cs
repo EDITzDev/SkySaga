@@ -50,6 +50,19 @@ public class Server : IDisposable
             GameMode = 1
         });
 
+        if (map.TryCreateEntity("TimeOfDay", out var timeOfDay))
+        {
+            if (timeOfDay.TryGetComponent<ClientTimeOfDayComponent>(out var clientTimeOfDayComponent))
+            {
+                clientTimeOfDayComponent.StartTimeOfDay = 65536 * 2;
+                clientTimeOfDayComponent.FixedTimeOfDay = false;
+                clientTimeOfDayComponent.DayNightCycleDuration = 64;
+                clientTimeOfDayComponent.RealWorldStartTime = RakNet.RakNet.GetTime();
+                clientTimeOfDayComponent.TimeStretch = 64;
+                clientTimeOfDayComponent.TimeOfDayOffset = 0;
+            }
+        }
+
         if (map.TryCreateEntity("Sheep", out var sheep))
         {
             if (sheep.TryGetComponent<SmoothedTransformComponent>(out var smoothedTransformComponent))
