@@ -10,8 +10,14 @@ public class ServerInfo : ISerializablePacket
     public string? ServerOwnerGuid;
     public string? ServerOwnerName;
 
+    /// <remarks>
+    /// <c>GeoData.json > Biomes > Name</c>
+    /// </remarks>
     public string? ServerBiome;
 
+    /// <remarks>
+    /// <c>GeoData.json > Adventures > Name</c>
+    /// </remarks>
     public uint? ServerAdventureCrc;
 
     public int MapHeaderSeed;

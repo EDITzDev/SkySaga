@@ -9,6 +9,9 @@ namespace SkySaga.Game.Packets;
 
 public class EntityAdd : ISerializablePacket
 {
+    /// <remarks>
+    /// <c>Entities.json > Entities > Name</c>
+    /// </remarks>
     public uint? NameHash;
 
     public int Id;

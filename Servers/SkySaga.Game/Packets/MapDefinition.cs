@@ -18,6 +18,9 @@ public class MapDefinition : ISerializablePacket
     /// <summary>
     /// Crc32 Hash of biome name
     /// </summary>
+    /// <remarks>
+    /// <c>GeoData.json > Biomes > Name</c>
+    /// </remarks>
     public uint? BiomeType;
 
     /// <summary>

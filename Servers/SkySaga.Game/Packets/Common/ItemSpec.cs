@@ -10,39 +10,50 @@ namespace SkySaga.Game.Packets.Common;
 
 public class ItemSpec : ISerializableType
 {
-    public int? Unknown;
+    /// <remarks>
+    /// <c>GeoData.json > Resources > Name</c>
+    /// </remarks>
+    public uint? NameHash;
 
-    public List<int?> Unknown4List = [];
-    private const int Unknown4ListDefaultCount = 4;
+    public List<int?> MaterialList = [0, 0, 0, 0];
+    private const int MaterialListDefaultCount = 4;
 
-    public int? Unknown2;
+    public uint? TeachItemCRC;
 
-    public string? Unknown3;
+    public string? UUID;
+
+    public static ItemSpec Empty = new ItemSpec();
 
     public void Serialize(BitStream bitStream)
     {
-        bitStream.WriteOptional(Unknown, bitStream.Write);
+        bitStream.WriteOptional(NameHash, (value) =>
+        {
+            bitStream.Write((int)value);
+        });
 
         // Count is optimised
-        if (Unknown4List.Count < Unknown4ListDefaultCount)
+        if (MaterialList.Count < MaterialListDefaultCount)
         {
-            bitStream.WriteBits(BitConverter.GetBytes(Unknown4List.Count), 32 - Util.NumBitsRequiredUInt32(Unknown4ListDefaultCount), true);
+            bitStream.WriteBits(BitConverter.GetBytes(MaterialList.Count), 32 - Util.NumBitsRequiredUInt32(MaterialListDefaultCount), true);
         }
         else
         {
-            bitStream.WriteBits(BitConverter.GetBytes(Unknown4ListDefaultCount), 32 - Util.NumBitsRequiredUInt32(Unknown4ListDefaultCount), true);
+            bitStream.WriteBits(BitConverter.GetBytes(MaterialListDefaultCount), 32 - Util.NumBitsRequiredUInt32(MaterialListDefaultCount), true);
 
             bitStream.Write1();
-            bitStream.Write(Unknown4List.Count);
+            bitStream.Write(MaterialList.Count);
         }
 
-        foreach (var unknown4 in Unknown4List)
+        foreach (var unknown4 in MaterialList)
         {
             bitStream.WriteOptional(unknown4, bitStream.Write);
         }
 
-        bitStream.WriteOptional(Unknown2, bitStream.Write);
+        bitStream.WriteOptional(TeachItemCRC, (value) =>
+        {
+            bitStream.Write((int)value);
+        });
 
-        bitStream.WriteString(Unknown3);
+        bitStream.WriteString(UUID);
     }
 }
