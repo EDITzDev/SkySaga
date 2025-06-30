@@ -57,11 +57,11 @@ public class Connection
         {
             PacketId.ClientConnected => ClientConnected.Handle(this, bitStream),
             PacketId.ClientReadyToSync => ClientReadyToSync.Handle(this, bitStream),
-            PacketId.ClientInitialSyncFinished => ClientInitialSyncFinished.Handle(this, bitStream),
             PacketId.ClientReadyToPlay => ClientReadyToPlay.Handle(this, bitStream),
-            PacketId.SetLookAtDirection => SetLookAtDirection.Handle(this, bitStream),
-            PacketId.EntityMoved => EntityMoved.Handle(this, bitStream),
+            PacketId.ClientInitialSyncFinished => ClientInitialSyncFinished.Handle(this, bitStream),
             PacketId.ExecuteEntityAction => ExecuteEntityAction.Handle(this, bitStream),
+            PacketId.EntityMoved => EntityMoved.Handle(this, bitStream),
+            PacketId.SetLookAtDirection => SetLookAtDirection.Handle(this, bitStream),
             _ => false
         };
     }
