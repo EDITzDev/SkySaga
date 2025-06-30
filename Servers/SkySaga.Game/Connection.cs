@@ -8,6 +8,7 @@ using SkySaga.Game.Packets;
 using SkySaga.Game.Entities;
 using SkySaga.Game.Components;
 using SkySaga.Game.Interfaces;
+using SkySaga.Game.Packets.Common;
 
 namespace SkySaga.Game;
 
@@ -248,6 +249,21 @@ public class Connection
 
         if (Player.TryGetComponent<ClientCraftingDropSlotsComponent>(out var clientCraftingDropSlotsComponent))
             clientCraftingDropSlotsComponent.CraftingDropSlots = [0, 0];
+
+        if (Player.TryGetComponent<ClientWalletComponent>(out var clientWalletComponent))
+        {
+            clientWalletComponent.Currency.CurrencyList.Add(new WalletData.CurrencyData
+            {
+                NameHash = Util.ComputeCrc32("Life_Ticket"),
+                Value = 69
+            });
+
+            clientWalletComponent.Currency.CurrencyList.Add(new WalletData.CurrencyData
+            {
+                NameHash = Util.ComputeCrc32("Portal_Ticket"),
+                Value = 420
+            });
+        }
 
         if (Player.TryGetComponent<ClientInventoryComponent>(out var clientInventoryComponent))
         {
