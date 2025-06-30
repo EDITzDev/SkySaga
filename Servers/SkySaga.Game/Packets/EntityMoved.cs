@@ -37,7 +37,7 @@ public static class EntityMoved
 
         var yaw = BitConverter.ToSingle(inOutByteArray, 0);
 
-        Debug.WriteLine($"entityID: {entityId}, position: (x :{positionX} y: {positionY}, z: {positionZ}), yaw: {yaw}", nameof(EntityMoved));
+        // Debug.WriteLine($"entityID: {entityId}, position: (x :{positionX} y: {positionY}, z: {positionZ}), yaw: {yaw}", nameof(EntityMoved));
 
         if (entityId == connection.Player.Id)
         {

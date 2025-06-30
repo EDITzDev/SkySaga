@@ -90,7 +90,7 @@ public class Entity
             {
                 bitArray.Set(i, true);
 
-                Debug.WriteLine($"Synced entity. Name: {Name}, Component: {componentName}, Parameter: {parameterName}");
+                // Debug.WriteLine($"Synced entity. Name: {Name}, Component: {componentName}, Parameter: {parameterName}");
             }
         }
 

@@ -26,7 +26,7 @@ public static class SetLookAtDirection
 
         var yaw = BitConverter.ToInt32(inOutByteArray, 0);
 
-        Debug.WriteLine($"lookAtMode: {lookAtMode}, pitch: {pitch}, yaw: {yaw}", nameof(SetLookAtDirection));
+        // Debug.WriteLine($"lookAtMode: {lookAtMode}, pitch: {pitch}, yaw: {yaw}", nameof(SetLookAtDirection));
 
         return true;
     }
