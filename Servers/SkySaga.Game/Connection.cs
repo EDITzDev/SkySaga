@@ -59,6 +59,7 @@ public class Connection
             PacketId.ClientReadyToSync => ClientReadyToSync.Handle(this, bitStream),
             PacketId.ClientReadyToPlay => ClientReadyToPlay.Handle(this, bitStream),
             PacketId.ClientInitialSyncFinished => ClientInitialSyncFinished.Handle(this, bitStream),
+            PacketId.InventoryItemSwap => InventoryItemSwap.Handle(this, bitStream),
             PacketId.ExecuteEntityAction => ExecuteEntityAction.Handle(this, bitStream),
             PacketId.EntityMoved => EntityMoved.Handle(this, bitStream),
             PacketId.SetLookAtDirection => SetLookAtDirection.Handle(this, bitStream),
