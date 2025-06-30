@@ -250,6 +250,18 @@ public class Connection
         if (Player.TryGetComponent<ClientCraftingDropSlotsComponent>(out var clientCraftingDropSlotsComponent))
             clientCraftingDropSlotsComponent.CraftingDropSlots = [0, 0];
 
+        if (Player.TryGetComponent<ClientPlayerAspectsComponent>(out var clientPlayerAspectsComponent))
+        {
+            clientPlayerAspectsComponent.CanEditMap = true;
+            clientPlayerAspectsComponent.CanDamageEntities = true;
+            clientPlayerAspectsComponent.CanDamagePlayers = true;
+            clientPlayerAspectsComponent.CanCreateDevices = true;
+            clientPlayerAspectsComponent.CanDamageDevices = true;
+            clientPlayerAspectsComponent.IsDebugPlayer = true;
+
+            clientPlayerAspectsComponent.AccountLevel = 2;
+        }
+
         if (Player.TryGetComponent<ClientWalletComponent>(out var clientWalletComponent))
         {
             clientWalletComponent.Currency.CurrencyList.Add(new WalletData.CurrencyData
