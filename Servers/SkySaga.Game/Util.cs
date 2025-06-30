@@ -109,4 +109,9 @@ public static class Util
 
         return (max & (byte.MaxValue - 1)) != 0 ? required - 2 : required - max;
     }
+
+    public static string NewGuid()
+    {
+        return Guid.NewGuid().ToString();
+    }
 }

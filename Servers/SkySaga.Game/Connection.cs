@@ -279,9 +279,75 @@ public class Connection
 
         if (Player.TryGetComponent<ClientInventoryComponent>(out var clientInventoryComponent))
         {
-            clientInventoryComponent.MaxInventorySlots = 10;
+            clientInventoryComponent.MaxInventorySlots = 45;
 
-            clientInventoryComponent.InventoryLoadOut = Util.ComputeCrc32("Torch");
+            for (var i = 0; i < clientInventoryComponent.MaxInventorySlots; i++)
+                clientInventoryComponent.InventoryEntityList.Add(0);
+
+            if (Map.TryCreateEntity("BasicInventoryItem", out var basicInventoryItem_Head))
+            {
+                if (basicInventoryItem_Head.TryGetComponent<InventoryItemComponent>(out var inventoryItemComponent))
+                {
+                    inventoryItemComponent.InventorySlotData.Name = Util.ComputeCrc32("ExplorerArmourHead");
+                    inventoryItemComponent.InventorySlotData.Count = 1;
+                    inventoryItemComponent.InventorySlotData.ItemUUID = Util.NewGuid();
+                }
+
+                // 2 - Head
+                clientInventoryComponent.InventoryEntityList[2] = basicInventoryItem_Head.Id;
+            }
+
+            if (Map.TryCreateEntity("BasicInventoryItem", out var basicInventoryItem_Torso))
+            {
+                if (basicInventoryItem_Torso.TryGetComponent<InventoryItemComponent>(out var inventoryItemComponent))
+                {
+                    inventoryItemComponent.InventorySlotData.Name = Util.ComputeCrc32("ExplorerArmourTorso");
+                    inventoryItemComponent.InventorySlotData.Count = 1;
+                    inventoryItemComponent.InventorySlotData.ItemUUID = Util.NewGuid();
+                }
+
+                // 3 - Torso
+                clientInventoryComponent.InventoryEntityList[3] = basicInventoryItem_Torso.Id;
+            }
+
+            if (Map.TryCreateEntity("BasicInventoryItem", out var basicInventoryItem_Arms))
+            {
+                if (basicInventoryItem_Arms.TryGetComponent<InventoryItemComponent>(out var inventoryItemComponent))
+                {
+                    inventoryItemComponent.InventorySlotData.Name = Util.ComputeCrc32("ExplorerArmourArms");
+                    inventoryItemComponent.InventorySlotData.Count = 1;
+                    inventoryItemComponent.InventorySlotData.ItemUUID = Util.NewGuid();
+                }
+
+                // 4 - Arms
+                clientInventoryComponent.InventoryEntityList[4] = basicInventoryItem_Arms.Id;
+            }
+
+            if (Map.TryCreateEntity("BasicInventoryItem", out var basicInventoryItem_Legs))
+            {
+                if (basicInventoryItem_Legs.TryGetComponent<InventoryItemComponent>(out var inventoryItemComponent))
+                {
+                    inventoryItemComponent.InventorySlotData.Name = Util.ComputeCrc32("ExplorerArmourLegs");
+                    inventoryItemComponent.InventorySlotData.Count = 1;
+                    inventoryItemComponent.InventorySlotData.ItemUUID = Util.NewGuid();
+                }
+
+                // 4 - Legs
+                clientInventoryComponent.InventoryEntityList[5] = basicInventoryItem_Legs.Id;
+            }
+
+            if (Map.TryCreateEntity("BasicInventoryItem", out var basicInventoryItem_Slot1))
+            {
+                if (basicInventoryItem_Slot1.TryGetComponent<InventoryItemComponent>(out var inventoryItemComponent))
+                {
+                    inventoryItemComponent.InventorySlotData.Name = Util.ComputeCrc32("Dirt");
+                    inventoryItemComponent.InventorySlotData.Count = 69;
+                    inventoryItemComponent.InventorySlotData.ItemUUID = Util.NewGuid();
+                }
+
+                // 6 - Inventory Slot 1
+                clientInventoryComponent.InventoryEntityList[6] = basicInventoryItem_Slot1.Id;
+            }
         }
 
         foreach (var entity in Map.Entities)
