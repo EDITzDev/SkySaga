@@ -50,6 +50,14 @@ public class Server : IDisposable
             GameMode = 1
         });
 
+        if (map.TryCreateEntity("AirShip", out var airShip))
+        {
+            if (airShip.TryGetComponent<TransformComponent>(out var transformComponent))
+            {
+                transformComponent.Position = new Vector<int>([2000, 70, 629, 0, 0, 0, 0, 0]);
+            }
+        }
+
         if (map.TryCreateEntity("TimeOfDay", out var timeOfDay))
         {
             if (timeOfDay.TryGetComponent<ClientTimeOfDayComponent>(out var clientTimeOfDayComponent))
