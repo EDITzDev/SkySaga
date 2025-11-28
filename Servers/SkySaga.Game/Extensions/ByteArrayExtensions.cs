@@ -1,1 +1,0 @@
-namespace SkySaga.Game.Extensions;
