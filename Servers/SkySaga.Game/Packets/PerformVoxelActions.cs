@@ -2,7 +2,6 @@ using RakNet;
 using SkySaga.Game.Enums;
 using SkySaga.Game.Extensions;
 using System.Diagnostics;
-using System.Drawing;
 
 namespace SkySaga.Game.Packets;
 
@@ -67,9 +66,9 @@ public static class PerformVoxelActions
 
     private static bool ReadLocation(BitStream bitStream, out BlockLocation location)
     {
-        location = 0;
         if (!bitStream.ReadByte(8, out var tmpLocation))
         {
+            location = 0;
             return false;
         }
         location = (BlockLocation)tmpLocation;
@@ -84,9 +83,9 @@ public static class PerformVoxelActions
 
     private static bool ReadSide(BitStream bitStream, out BlockSide side)
     {
-        side = 0;
         if (!bitStream.ReadByte(6, out var tmpSide))
         {
+            side = 0;
             return false;
         }
         side = (BlockSide)tmpSide;
@@ -95,9 +94,9 @@ public static class PerformVoxelActions
 
     private static bool ReadPower(BitStream bitStream, out float power)
     {
-        power = 0;
         if (!bitStream.ReadInt32(32, out var tmpPower))
         {
+            power = 0;
             return false;
         }
         power = tmpPower / 32f;
@@ -106,23 +105,23 @@ public static class PerformVoxelActions
 
     private static bool ReadPosition(BitStream bitStream, out float position)
     {
-        position = 0;
         if (!bitStream.ReadInt32(0x10000, out var tmpPosition))
         {
+            position = 0;
             return false;
         }
-        position = (tmpPosition / 64f);
+        position = tmpPosition / 64f;
         return true;
     }
 
     private static bool ReadDirection(BitStream bitStream, out int direction)
     {
-        direction = 0;
         if (!bitStream.ReadInt32(128, out var tmpDirection))
         {
+            direction = 0;
             return false;
         }
-        direction = (tmpDirection / 64) - 1;
+        direction = tmpDirection / 64 - 1;
         return true;
     }
 }
