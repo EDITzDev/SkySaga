@@ -1,6 +1,8 @@
 using RakNet;
+using SkySaga.Game.Enums;
 using SkySaga.Game.Extensions;
 using System.Diagnostics;
+using System.Drawing;
 
 namespace SkySaga.Game.Packets;
 
@@ -29,18 +31,31 @@ public static class PerformVoxelActions
 {
     public static bool Handle(Connection connection, BitStream bitStream)
     {
+        // Location
         if (!ReadLocation(bitStream, out var location)) return false;
+
+        // ChunkCoords
         if (!ReadChunkCoordinate(bitStream, out var chunkCoordX)) return false;
         if (!ReadChunkCoordinate(bitStream, out var chunkCoordY)) return false;
         if (!ReadChunkCoordinate(bitStream, out var chunkCoordZ)) return false;
+
+        // VoxelCoords
         if (!ReadVoxelCoordinate(bitStream, out var voxelCoordX)) return false;
         if (!ReadVoxelCoordinate(bitStream, out var voxelCoordY)) return false;
         if (!ReadVoxelCoordinate(bitStream, out var voxelCoordZ)) return false;
+
+        // Side
         if (!ReadSide(bitStream, out var side)) return false;
+
+        // Power
         if (!ReadPower(bitStream, out var power)) return false;
+
+        // Position
         if (!ReadPosition(bitStream, out var positionX)) return false;
         if (!ReadPosition(bitStream, out var positionY)) return false;
         if (!ReadPosition(bitStream, out var positionZ)) return false;
+
+        // Direction
         if (!ReadDirection(bitStream, out var directionX)) return false;
         if (!ReadDirection(bitStream, out var directionY)) return false;
         if (!ReadDirection(bitStream, out var directionZ)) return false;
@@ -50,8 +65,16 @@ public static class PerformVoxelActions
         return true;
     }
 
-    private static bool ReadLocation(BitStream bitStream, out byte location)
-        => bitStream.ReadByte(8, out location);
+    private static bool ReadLocation(BitStream bitStream, out BlockLocation location)
+    {
+        location = 0;
+        if (!bitStream.ReadByte(8, out var tmpLocation))
+        {
+            return false;
+        }
+        location = (BlockLocation)tmpLocation;
+        return true;
+    }
 
     private static bool ReadChunkCoordinate(BitStream bitStream, out int coord)
         => bitStream.ReadInt32(32, out coord);
@@ -59,15 +82,47 @@ public static class PerformVoxelActions
     private static bool ReadVoxelCoordinate(BitStream bitStream, out int coord)
         => bitStream.ReadInt32(32, out coord);
 
-    private static bool ReadSide(BitStream bitStream, out byte side)
-        => bitStream.ReadByte(6, out side);
+    private static bool ReadSide(BitStream bitStream, out BlockSide side)
+    {
+        side = 0;
+        if (!bitStream.ReadByte(6, out var tmpSide))
+        {
+            return false;
+        }
+        side = (BlockSide)tmpSide;
+        return true;
+    }
 
-    private static bool ReadPower(BitStream bitStream, out int power)
-        => bitStream.ReadInt32(32, out power);
+    private static bool ReadPower(BitStream bitStream, out float power)
+    {
+        power = 0;
+        if (!bitStream.ReadInt32(32, out var tmpPower))
+        {
+            return false;
+        }
+        power = tmpPower / 32f;
+        return true;
+    }
 
-    private static bool ReadPosition(BitStream bitStream, out int position)
-        => bitStream.ReadInt32(0x10000, out position);
+    private static bool ReadPosition(BitStream bitStream, out float position)
+    {
+        position = 0;
+        if (!bitStream.ReadInt32(0x10000, out var tmpPosition))
+        {
+            return false;
+        }
+        position = (tmpPosition / 64f);
+        return true;
+    }
 
     private static bool ReadDirection(BitStream bitStream, out int direction)
-        => bitStream.ReadInt32(128, out direction);
+    {
+        direction = 0;
+        if (!bitStream.ReadInt32(128, out var tmpDirection))
+        {
+            return false;
+        }
+        direction = (tmpDirection / 64) - 1;
+        return true;
+    }
 }

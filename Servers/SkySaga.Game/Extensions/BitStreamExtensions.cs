@@ -52,9 +52,9 @@ public static class BitStreamExtensions
     public static bool ReadByte(this BitStream bitStream, byte maxValue, out byte result)
     {
         var buffer = new byte[1];
-        var bitsToSkip = 8 - Util.NumBitsRequiredByte(maxValue);
+        var bitsToRead = 8 - Util.NumBitsRequiredByte(maxValue);
 
-        if (!bitStream.ReadBits(buffer, bitsToSkip, alignBitsToRight: true))
+        if (!bitStream.ReadBits(buffer, bitsToRead, alignBitsToRight: true))
         {
             result = 0;
             return false;
@@ -67,9 +67,9 @@ public static class BitStreamExtensions
     public static bool ReadInt32(this BitStream bitStream, uint maxValue, out int result)
     {
         var buffer = new byte[4];
-        var bitsToSkip = 32 - Util.NumBitsRequiredUInt32(maxValue);
+        var bitsToRead = 32 - Util.NumBitsRequiredUInt32(maxValue);
 
-        if (!bitStream.ReadBits(buffer, bitsToSkip, alignBitsToRight: true))
+        if (!bitStream.ReadBits(buffer, bitsToRead, alignBitsToRight: true))
         {
             result = 0;
             return false;
