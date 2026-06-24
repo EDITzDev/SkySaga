@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MemorySharp/MemorySharp.csproj" />
+  <Project Path="BundledFileExporter/BundledFileExporter.csproj" DefaultStartup="true" />
+</Solution>
