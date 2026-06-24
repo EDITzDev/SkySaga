@@ -1,0 +1,10 @@
+{
+	"Styles": {
+		"SettlerFaction": "<div color:#73FF1E>",
+		"ExplorerFaction": "<div color:#40C7FF>",
+		"Highlight": "<div color:#FFEB90>",
+		"PlayerSignSmall":  "<div size:10>",
+		"PlayerSignMedium": "<div size:20>",
+		"PlayerSignLarge":  "<div size:30>"
+	}
+}
