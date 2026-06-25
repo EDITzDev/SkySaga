@@ -63,6 +63,7 @@ public class Connection
             PacketId.ExecuteEntityAction => ExecuteEntityAction.Handle(this, bitStream),
             PacketId.EntityMoved => EntityMoved.Handle(this, bitStream),
             PacketId.SetLookAtDirection => SetLookAtDirection.Handle(this, bitStream),
+            PacketId.PerformVoxelActions => PerformVoxelActions.Handle(this, bitStream),
             _ => false
         };
     }
